@@ -3,8 +3,10 @@ pub mod lc;
 fn main() {
     p13();
     p9();
-    p6();
+    p66();
     p1436();
+    p405();
+    p67();
 }
 
 
@@ -25,11 +27,11 @@ fn p9() {
     assert!(!lc::p9::Solution::Solution::is_palindrome(-131));
 }
 
-fn p6() {
-    assert_eq!(vec![1, 2, 4], lc::p6::Solution::Solution::plus_one(vec![1, 2, 3]));
-    assert_eq!(vec![4, 3, 2, 2], lc::p6::Solution::Solution::plus_one(vec![4, 3, 2, 1]));
-    assert_eq!(vec![1], lc::p6::Solution::Solution::plus_one(vec![0]));
-    assert_eq!(vec![1,0], lc::p6::Solution::Solution::plus_one(vec![9]));
+fn p66() {
+    assert_eq!(vec![1, 2, 4], lc::p66::Solution::Solution::plus_one(vec![1, 2, 3]));
+    assert_eq!(vec![4, 3, 2, 2], lc::p66::Solution::Solution::plus_one(vec![4, 3, 2, 1]));
+    assert_eq!(vec![1], lc::p66::Solution::Solution::plus_one(vec![0]));
+    assert_eq!(vec![1,0], lc::p66::Solution::Solution::plus_one(vec![9]));
 }
 
 fn p1436() {
@@ -44,4 +46,19 @@ fn p1436() {
         vec![String::from("B"), String::from("C")],
         vec![String::from("C"), String::from("D")],
     ]));
+}
+
+fn p405() {
+    assert_eq!("2a", lc::p405::Solution::Solution::to_hex(42));
+    assert_eq!("1a", lc::p405::Solution::Solution::to_hex(26));
+    assert_eq!("ffffffff", lc::p405::Solution::Solution::to_hex(-1));
+    assert_eq!("1", lc::p405::Solution::Solution::to_hex(1));
+    assert_eq!("a", lc::p405::Solution::Solution::to_hex(10));
+}
+
+fn p67() {
+    assert_eq!("100", lc::p67::Solution::Solution::add_binary(String::from("11"), String::from("1")));
+    assert_eq!("10101", lc::p67::Solution::Solution::add_binary(String::from("1010"), String::from("1011")));
+    assert_eq!("10", lc::p67::Solution::Solution::add_binary(String::from("1"), String::from("1")));
+    assert_eq!("1", lc::p67::Solution::Solution::add_binary(String::from("1"), String::from("0")));
 }
