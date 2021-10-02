@@ -7,6 +7,7 @@ fn main() {
     p1436();
     p405();
     p67();
+    p125();
 }
 
 
@@ -61,4 +62,14 @@ fn p67() {
     assert_eq!("10101", lc::p67::Solution::Solution::add_binary(String::from("1010"), String::from("1011")));
     assert_eq!("10", lc::p67::Solution::Solution::add_binary(String::from("1"), String::from("1")));
     assert_eq!("1", lc::p67::Solution::Solution::add_binary(String::from("1"), String::from("0")));
+}
+
+fn p125() {
+    assert!(lc::p125::Solution::Solution::is_palindrome("A man, a plan, a canal: Panama".to_string()));
+    assert!(!lc::p125::Solution::Solution::is_palindrome("race a car".to_string()));
+    assert!(!lc::p125::Solution::Solution::is_palindrome("rac".to_string()));
+    assert!(lc::p125::Solution::Solution::is_palindrome("rar".to_string()));
+    assert!(!lc::p125::Solution::Solution::is_palindrome("r a".to_string()));
+    assert!(lc::p125::Solution::Solution::is_palindrome("a".to_string()));
+    assert!(lc::p125::Solution::Solution::is_palindrome(" a".to_string()));
 }
