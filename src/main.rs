@@ -73,3 +73,14 @@ fn p125() {
     assert!(lc::p125::Solution::Solution::is_palindrome("a".to_string()));
     assert!(lc::p125::Solution::Solution::is_palindrome(" a".to_string()));
 }
+
+fn p166() {
+    assert_eq!("0.5", lc::p166::Solution::Solution::fraction_to_decimal(1, 2));
+    assert_eq!("2", lc::p166::Solution::Solution::fraction_to_decimal(2, 1));
+    assert_eq!("0.(6)", lc::p166::Solution::Solution::fraction_to_decimal(2, 3));
+    assert_eq!("0.(012)", lc::p166::Solution::Solution::fraction_to_decimal(4, 333));
+    assert_eq!("0.2", lc::p166::Solution::Solution::fraction_to_decimal(1, 5));
+    assert_eq!("0.21", lc::p166::Solution::Solution::fraction_to_decimal(21, 100));
+    assert_eq!("-6.25", lc::p166::Solution::Solution::fraction_to_decimal(-50, 8));
+    assert_eq!("-0.58(3)", lc::p166::Solution::Solution::fraction_to_decimal(-7, -12));
+}
