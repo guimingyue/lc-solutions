@@ -8,3 +8,4 @@ pub mod p67;
 pub mod p125;
 pub mod p166;
 pub mod p206;
+pub mod p482;

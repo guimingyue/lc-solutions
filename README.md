@@ -22,4 +22,5 @@ The following table is the link for problem solutions with realted Rust topics o
 |166. Fraction to Recurring Decimal|[p166](./src/lc/p166/Solution.rs)|`String`,`Vec`,`char`|
 |206. Reverse Linked List|[p206](./src/lc/p206/Solution.rs)|`Option`,`Box`|
 |405. Convert a Number to Hexadecimal|[p405](./src/lc/p405/Solution.rs)|`String`,`Range`,`char`|
+|482. License Key Formatting|[p482](./src/lc/p482/Solution.rs)|`String`,`slice`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|

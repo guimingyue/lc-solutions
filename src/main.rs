@@ -9,6 +9,7 @@ fn main() {
     p405();
     p67();
     p125();
+    p482();
 }
 
 
@@ -97,4 +98,10 @@ fn listNode() {
     let list = lc::common::ListNode::ListNode::new_from(vec![]);
     let vec:Vec<i32> = vec![];
     assert_eq!(vec, lc::common::ListNode::ListNode::to_vec(list));
+}
+
+fn p482() {
+    assert_eq!("2", lc::p482::Solution::Solution::license_key_formatting("2".to_string(), 2));
+    assert_eq!("5F3Z-2E9W", lc::p482::Solution::Solution::license_key_formatting("5F3Z-2e-9-w".to_string(), 4));
+    assert_eq!("2-5G-3J", lc::p482::Solution::Solution::license_key_formatting("2-5g-3-J".to_string(), 2));
 }
