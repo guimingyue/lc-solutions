@@ -2,6 +2,13 @@
 
 LeetCode problem solutions using Rust programming language.
 
+## common Util
+
+* [ListNode](./src/lc/common/ListNode.rs)
+  * `new_from(Vec<i32>)` -> Option<Box<ListNode>>: create a linked list from a `Vec<i32>` object. 
+  * `to_vec(Option<Box<ListNode>>) -> Vec<i32>`: serialize a linked list to a `Vec<i32>` object
+
+
 ## Solutions
 The following table is the link for problem solutions with realted Rust topics or keywords.
 

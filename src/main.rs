@@ -1,6 +1,7 @@
 pub mod lc;
 
 fn main() {
+    common();
     p13();
     p9();
     p66();
@@ -83,4 +84,17 @@ fn p166() {
     assert_eq!("0.21", lc::p166::Solution::Solution::fraction_to_decimal(21, 100));
     assert_eq!("-6.25", lc::p166::Solution::Solution::fraction_to_decimal(-50, 8));
     assert_eq!("-0.58(3)", lc::p166::Solution::Solution::fraction_to_decimal(-7, -12));
+}
+
+fn common() {
+    listNode();
+}
+
+fn listNode() {
+    let list = lc::common::ListNode::ListNode::new_from(vec![1,2,3,4]);
+    assert_eq!(vec![1,2,3,4], lc::common::ListNode::ListNode::to_vec(list));
+
+    let list = lc::common::ListNode::ListNode::new_from(vec![]);
+    let vec:Vec<i32> = vec![];
+    assert_eq!(vec, lc::common::ListNode::ListNode::to_vec(list));
 }
