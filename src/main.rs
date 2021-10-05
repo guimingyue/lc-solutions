@@ -10,6 +10,7 @@ fn main() {
     p67();
     p125();
     p482();
+    p414();
 }
 
 
@@ -104,4 +105,14 @@ fn p482() {
     assert_eq!("2", lc::p482::Solution::Solution::license_key_formatting("2".to_string(), 2));
     assert_eq!("5F3Z-2E9W", lc::p482::Solution::Solution::license_key_formatting("5F3Z-2e-9-w".to_string(), 4));
     assert_eq!("2-5G-3J", lc::p482::Solution::Solution::license_key_formatting("2-5g-3-J".to_string(), 2));
+}
+
+fn p414() {
+    assert_eq!(2, lc::p414::Solution::Solution::third_max(vec![1,2,2,5,3,5]));
+    assert_eq!(1, lc::p414::Solution::Solution::third_max(vec![3, 2, 1]));
+    assert_eq!(2, lc::p414::Solution::Solution::third_max(vec![1, 2]));
+    assert_eq!(2, lc::p414::Solution::Solution::third_max(vec![2, 1]));
+    assert_eq!(2, lc::p414::Solution::Solution::third_max(vec![2, 1]));
+    assert_eq!(1, lc::p414::Solution::Solution::third_max(vec![2, 2, 3, 1]));
+    assert_eq!(2, lc::p414::Solution::Solution::third_max(vec![2, 2, 1]));
 }
