@@ -11,6 +11,7 @@ fn main() {
     p125();
     p482();
     p414();
+    p19();
 }
 
 
@@ -115,4 +116,18 @@ fn p414() {
     assert_eq!(2, lc::p414::Solution::Solution::third_max(vec![2, 1]));
     assert_eq!(1, lc::p414::Solution::Solution::third_max(vec![2, 2, 3, 1]));
     assert_eq!(2, lc::p414::Solution::Solution::third_max(vec![2, 2, 1]));
+}
+
+fn p19() {
+    let head = lc::common::ListNode::ListNode::new_from(vec![1,2,3,4,5]);
+    let newHead = lc::p19::Solution::Solution::remove_nth_from_end(head, 2);
+    assert_eq!(vec![1,2,3,5], lc::common::ListNode::ListNode::to_vec(newHead));
+
+    let head = lc::common::ListNode::ListNode::new_from(vec![1]);
+    let newHead = lc::p19::Solution::Solution::remove_nth_from_end(head, 1);
+    assert_eq!(Vec::<i32>::new(), lc::common::ListNode::ListNode::to_vec(newHead));
+
+    let head = lc::common::ListNode::ListNode::new_from(vec![1,2]);
+    let newHead = lc::p19::Solution::Solution::remove_nth_from_end(head, 1);
+    assert_eq!(vec![1], lc::common::ListNode::ListNode::to_vec(newHead));
 }
