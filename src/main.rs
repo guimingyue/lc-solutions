@@ -12,6 +12,8 @@ fn main() {
     p482();
     p414();
     p19();
+    p434();
+    p83();
 }
 
 
@@ -130,4 +132,50 @@ fn p19() {
     let head = lc::common::ListNode::ListNode::new_from(vec![1,2]);
     let newHead = lc::p19::Solution::Solution::remove_nth_from_end(head, 1);
     assert_eq!(vec![1], lc::common::ListNode::ListNode::to_vec(newHead));
+}
+
+fn p434() {
+    assert_eq!(5, lc::p434::Solution::Solution::count_segments("Hello, my name is John".to_string()));
+    assert_eq!(1, lc::p434::Solution::Solution::count_segments("Hello".to_string()));
+    assert_eq!(1, lc::p434::Solution::Solution::count_segments("a".to_string()));
+    assert_eq!(1, lc::p434::Solution::Solution::count_segments("a ".to_string()));
+}
+
+fn p83() {
+    assert_eq!(vec![1,2],
+           lc::common::ListNode::ListNode::to_vec(
+                   lc::p83::Solution::Solution::delete_duplicates(
+                       lc::common::ListNode::ListNode::new_from(vec![1,1,2])
+                   )
+               )
+    );
+    assert_eq!(vec![1,2,3],
+               lc::common::ListNode::ListNode::to_vec(
+                   lc::p83::Solution::Solution::delete_duplicates(
+                       lc::common::ListNode::ListNode::new_from(vec![1,1,2,3,3])
+                   )
+               )
+    );
+    assert_eq!(vec![1],
+               lc::common::ListNode::ListNode::to_vec(
+                   lc::p83::Solution::Solution::delete_duplicates(
+                       lc::common::ListNode::ListNode::new_from(vec![1,1])
+                   )
+               )
+    );
+    assert_eq!(vec![1],
+               lc::common::ListNode::ListNode::to_vec(
+                   lc::p83::Solution::Solution::delete_duplicates(
+                       lc::common::ListNode::ListNode::new_from(vec![1])
+                   )
+               )
+    );
+    assert_eq!(Vec::<i32>::new(),
+               lc::common::ListNode::ListNode::to_vec(
+                   lc::p83::Solution::Solution::delete_duplicates(
+                       lc::common::ListNode::ListNode::new_from(Vec::<i32>::new()
+                       )
+                   )
+               )
+    );
 }

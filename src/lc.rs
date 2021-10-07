@@ -11,3 +11,5 @@ pub mod p206;
 pub mod p482;
 pub mod p414;
 pub mod p19;
+pub mod p434;
+pub mod p83;
