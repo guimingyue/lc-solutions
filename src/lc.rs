@@ -13,3 +13,4 @@ pub mod p414;
 pub mod p19;
 pub mod p434;
 pub mod p83;
+pub mod p82;
