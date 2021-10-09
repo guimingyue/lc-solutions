@@ -2,7 +2,7 @@
 
 LeetCode problem solutions using Rust programming language.
 
-## common Util
+## Common Util
 
 * [ListNode](./src/lc/common/ListNode.rs)
   * `new_from(Vec<i32>)` -> Option<Box<ListNode>>: create a linked list from a `Vec<i32>` object. 
@@ -25,6 +25,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |166. Fraction to Recurring Decimal|[p166](./src/lc/p166/Solution.rs)|`String`,`Vec`,`char`|
 |187. Repeated DNA Sequences|[p187](./src/lc/p187/Solution.rs)|`String`,`Vec`,`HashMap`|
 |206. Reverse Linked List|[p206](./src/lc/p206/Solution.rs)|`Option`,`Box`|
+|352. Data Stream as Disjoint Intervals|[p352](./src/lc/p352/Solution.rs)|`struct`,`Vec`,`method`,`impl`|
 |405. Convert a Number to Hexadecimal|[p405](./src/lc/p405/Solution.rs)|`String`,`Range`,`char`|
 |414. Third Maximum Number|[p414](./src/lc/p414/Solution.rs)|`Vec`, `if-let`|
 |434. Number of Segments in a String|[p434](./src/lc/p434/Solution.rs)|`String`|
