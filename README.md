@@ -18,6 +18,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |13. Roman to Integer|[p13](./src/lc/p13/Solution.rs)|`Pattern`,`for`,`Option`,`String`,`Reference`|
 |19. Remove Nth Node From End of List|[p19](./src/lc/p19/Solution.rs)|`Option`,`Reference`|
 |29. Divide Two Integers|[p29](./src/lc/p29.rs)|`i32`|
+|38. Count and Say|[p38](./src/lc/p38.rs)|`i32`|
 |66. Plus One|[p66](./src/lc/p66/Solution.rs)|`Vec`,`while`|
 |67. Add Binary|[p67](./src/lc/p67/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
 |82. Remove Duplicates from Sorted List II|[p82](./src/lc/p82/Solution.rs)|`Vec`|
