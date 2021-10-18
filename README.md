@@ -27,6 +27,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |166. Fraction to Recurring Decimal|[p166](./src/lc/p166/Solution.rs)|`String`,`Vec`,`char`|
 |187. Repeated DNA Sequences|[p187](./src/lc/p187/Solution.rs)|`String`,`Vec`,`HashMap`|
 |206. Reverse Linked List|[p206](./src/lc/p206/Solution.rs)|`Option`,`Box`|
+|230. Kth Smallest Element in a BST|[p230](./src/lc/p230.rs)|`Rc`,`RefCell`,`Vec`|
 |273. Integer to English Words|[p273](./src/lc/p273/Solution.rs)|`String`|
 |282. Expression Add Operators|[p282](./src/lc/p282.rs)|`Vec`, `String`|
 |352. Data Stream as Disjoint Intervals|[p352](./src/lc/p352/Solution.rs)|`struct`,`Vec`,`method`,`impl`|
@@ -35,6 +36,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |414. Third Maximum Number|[p414](./src/lc/p414/Solution.rs)|`Vec`, `if-let`|
 |434. Number of Segments in a String|[p434](./src/lc/p434/Solution.rs)|`String`|
 |434. Arranging Coins|[p441](./src/lc/p441/Solution.rs)|`as`|
+|476. Number Complement|[p476](./src/lc/p476.rs)|`>>`,`<<`|
 |482. License Key Formatting|[p482](./src/lc/p482/Solution.rs)|`String`,`slice`|
 |852. Peak Index in a Mountain Array|[p852](./src/lc/p852.rs)|`Vec`|
+|1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
