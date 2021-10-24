@@ -27,7 +27,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |166. Fraction to Recurring Decimal|[p166](./src/lc/p166/Solution.rs)|`String`,`Vec`,`char`|
 |187. Repeated DNA Sequences|[p187](./src/lc/p187/Solution.rs)|`String`,`Vec`,`HashMap`|
 |206. Reverse Linked List|[p206](./src/lc/p206/Solution.rs)|`Option`,`Box`|
-|211. Design Add and Search Words Data Structure|[p211](./src/lc/p211.rs)|`Default`,`HashMap,`|
+|211. Design Add and Search Words Data Structure|[p211](./src/lc/p211.rs)|`Default`,`HashMap`|
+|229. Majority Element II|[p229](./src/lc/p229.rs)|`Vec`,`Iterator`|
 |230. Kth Smallest Element in a BST|[p230](./src/lc/p230.rs)|`Rc`,`RefCell`,`Vec`|
 |273. Integer to English Words|[p273](./src/lc/p273/Solution.rs)|`String`|
 |282. Expression Add Operators|[p282](./src/lc/p282.rs)|`Vec`, `String`|
@@ -40,6 +41,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |453. Minimum Moves to Equal Array Elements|[p453](./src/lc/p453.rs)|`Vec`|
 |476. Number Complement|[p476](./src/lc/p476.rs)|`>>`,`<<`|
 |482. License Key Formatting|[p482](./src/lc/p482/Solution.rs)|`String`,`slice`|
+|492. Construct the Rectangle|[p492](./src/lc/p492.rs)|`sqrt`,`Vec`|
+|638. Shopping Offers|[p638](./src/lc/p638.rs)|`Vec`,`Reference`,`std::cmp::min`|
 |852. Peak Index in a Mountain Array|[p852](./src/lc/p852.rs)|`Vec`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
