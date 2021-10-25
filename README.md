@@ -21,6 +21,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |38. Count and Say|[p38](./src/lc/p38.rs)|`String, char`|
 |66. Plus One|[p66](./src/lc/p66/Solution.rs)|`Vec`,`while`|
 |67. Add Binary|[p67](./src/lc/p67/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
+|74. Search a 2D Matrix|[p74](./src/lc/p74.rs)|`Vec`|
 |82. Remove Duplicates from Sorted List II|[p82](./src/lc/p82/Solution.rs)|`Vec`|
 |83. Remove Duplicates from Sorted List|[p83](./src/lc/p83/Solution.rs)|`mut`, `Reference`,`Option`|
 |125. Valid Palindrome|[p125](./src/lc/p125/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
@@ -31,6 +32,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |211. Design Add and Search Words Data Structure|[p211](./src/lc/p211.rs)|`Default`,`HashMap`|
 |229. Majority Element II|[p229](./src/lc/p229.rs)|`Vec`,`Iterator`|
 |230. Kth Smallest Element in a BST|[p230](./src/lc/p230.rs)|`Rc`,`RefCell`,`Vec`|
+|240. Search a 2D Matrix II|[p240](./src/lc/p240.rs)|`Vec`|
 |273. Integer to English Words|[p273](./src/lc/p273/Solution.rs)|`String`|
 |282. Expression Add Operators|[p282](./src/lc/p282.rs)|`Vec`, `String`|
 |352. Data Stream as Disjoint Intervals|[p352](./src/lc/p352/Solution.rs)|`struct`,`Vec`,`method`,`impl`|
