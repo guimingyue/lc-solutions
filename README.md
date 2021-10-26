@@ -45,6 +45,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |476. Number Complement|[p476](./src/lc/p476.rs)|`>>`,`<<`|
 |482. License Key Formatting|[p482](./src/lc/p482/Solution.rs)|`String`,`slice`|
 |492. Construct the Rectangle|[p492](./src/lc/p492.rs)|`sqrt`,`Vec`|
+|496. Next Greater Element I|[p496](./src/lc/p496.rs)|`HashMap`,`Vec`|
 |638. Shopping Offers|[p638](./src/lc/p638.rs)|`Vec`,`Reference`,`std::cmp::min`|
 |852. Peak Index in a Mountain Array|[p852](./src/lc/p852.rs)|`Vec`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|

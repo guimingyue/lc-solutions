@@ -34,3 +34,4 @@ pub mod p638;
 pub mod p169;
 pub mod p240;
 pub mod p74;
+pub mod p496;
