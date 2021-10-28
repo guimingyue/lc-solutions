@@ -17,6 +17,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |9. Palindrome Number|[p9](./src/lc/p9/Solution.rs)|`i32`,`if`,`while`|
 |13. Roman to Integer|[p13](./src/lc/p13/Solution.rs)|`Pattern`,`for`,`Option`,`String`,`Reference`|
 |19. Remove Nth Node From End of List|[p19](./src/lc/p19/Solution.rs)|`Option`,`Reference`|
+|22. Generate Parentheses|[p22](./src/lc/p22.rs)|`Vec`,`String`|
 |29. Divide Two Integers|[p29](./src/lc/p29.rs)|`i32`|
 |38. Count and Say|[p38](./src/lc/p38.rs)|`String, char`|
 |66. Plus One|[p66](./src/lc/p66/Solution.rs)|`Vec`,`while`|
@@ -49,5 +50,6 @@ The following table is the link for problem solutions with realted Rust topics o
 |496. Next Greater Element I|[p496](./src/lc/p496.rs)|`HashMap`,`Vec`|
 |638. Shopping Offers|[p638](./src/lc/p638.rs)|`Vec`,`Reference`,`std::cmp::min`|
 |852. Peak Index in a Mountain Array|[p852](./src/lc/p852.rs)|`Vec`|
+|869. Reordered Power of 2|[p869](./src/lc/p869.rs)|`HashSet`, `BinaryHeap`, `Reverse`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|

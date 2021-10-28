@@ -36,3 +36,7 @@ pub mod p240;
 pub mod p74;
 pub mod p496;
 pub mod p301;
+pub mod p22;
+pub mod p869;
+
+pub struct Solution {}
