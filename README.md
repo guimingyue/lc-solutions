@@ -37,6 +37,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |273. Integer to English Words|[p273](./src/lc/p273/Solution.rs)|`String`|
 |282. Expression Add Operators|[p282](./src/lc/p282.rs)|`Vec`,`String`|
 |301. Remove Invalid Parentheses|[p301](./src/lc/p301.rs)|`Tuple`,`String`,`HashSet`|
+|335. Self Crossing|[p352](./src/lc/p335.rs)|`Vec`|
 |352. Data Stream as Disjoint Intervals|[p352](./src/lc/p352/Solution.rs)|`struct`,`Vec`,`method`,`impl`|
 |405. Convert a Number to Hexadecimal|[p405](./src/lc/p405/Solution.rs)|`String`,`Range`,`char`|
 |412. Fizz Buzz|[p412](./src/lc/p412.rs)|`String`, `formate!`|
