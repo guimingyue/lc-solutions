@@ -26,6 +26,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |82. Remove Duplicates from Sorted List II|[p82](./src/lc/p82/Solution.rs)|`Vec`|
 |83. Remove Duplicates from Sorted List|[p83](./src/lc/p83/Solution.rs)|`mut`, `Reference`,`Option`|
 |125. Valid Palindrome|[p125](./src/lc/p125/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
+|136. Single Number|[p136](./src/lc/p136.rs)|`Vec`,`^`|
+|137. Single Number II|[p137](./src/lc/p137.rs)|`Vec`,`>>`,`<<`|
 |166. Fraction to Recurring Decimal|[p166](./src/lc/p166/Solution.rs)|`String`,`Vec`,`char`|
 |169. Majority Element|[p169](./src/lc/p169.rs)|`Vec`,`Iterator`|
 |187. Repeated DNA Sequences|[p187](./src/lc/p187/Solution.rs)|`String`,`Vec`,`HashMap`|
@@ -34,6 +36,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |229. Majority Element II|[p229](./src/lc/p229.rs)|`Vec`,`Iterator`|
 |230. Kth Smallest Element in a BST|[p230](./src/lc/p230.rs)|`Rc`,`RefCell`,`Vec`|
 |240. Search a 2D Matrix II|[p240](./src/lc/p240.rs)|`Vec`|
+|260. Single Number III|[p260](./src/lc/p260.rs)|`Vec`, `^`, `>>`,`<<`|
 |273. Integer to English Words|[p273](./src/lc/p273/Solution.rs)|`String`|
 |282. Expression Add Operators|[p282](./src/lc/p282.rs)|`Vec`,`String`|
 |301. Remove Invalid Parentheses|[p301](./src/lc/p301.rs)|`Tuple`,`String`,`HashSet`|

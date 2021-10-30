@@ -39,5 +39,8 @@ pub mod p301;
 pub mod p22;
 pub mod p869;
 pub mod p335;
+pub mod p260;
+pub mod p136;
+pub mod p137;
 
 pub struct Solution {}
