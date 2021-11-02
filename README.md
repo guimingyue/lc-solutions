@@ -23,8 +23,10 @@ The following table is the link for problem solutions with realted Rust topics o
 |66. Plus One|[p66](./src/lc/p66/Solution.rs)|`Vec`,`while`|
 |67. Add Binary|[p67](./src/lc/p67/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
 |74. Search a 2D Matrix|[p74](./src/lc/p74.rs)|`Vec`|
+|75. Sort Colors|[p75](./src/lc/p75.rs)|`Vec`|
 |82. Remove Duplicates from Sorted List II|[p82](./src/lc/p82/Solution.rs)|`Vec`|
 |83. Remove Duplicates from Sorted List|[p83](./src/lc/p83/Solution.rs)|`mut`, `Reference`,`Option`|
+|88. Merge Sorted Array|[p88](./src/lc/p88.rs)|`Vec`|
 |125. Valid Palindrome|[p125](./src/lc/p125/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
 |136. Single Number|[p136](./src/lc/p136.rs)|`Vec`,`^`|
 |137. Single Number II|[p137](./src/lc/p137.rs)|`Vec`,`>>`,`<<`|
