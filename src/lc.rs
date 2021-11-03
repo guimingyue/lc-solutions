@@ -47,5 +47,8 @@ pub mod p75;
 pub mod p575;
 pub mod p88;
 pub mod p407;
+pub mod p1631;
+pub mod p367;
+pub mod p42;
 
 pub struct Solution {}
