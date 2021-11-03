@@ -45,6 +45,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |335. Self Crossing|[p352](./src/lc/p335.rs)|`Vec`|
 |352. Data Stream as Disjoint Intervals|[p352](./src/lc/p352/Solution.rs)|`struct`,`Vec`,`method`,`impl`|
 |405. Convert a Number to Hexadecimal|[p405](./src/lc/p405/Solution.rs)|`String`,`Range`,`char`|
+|407. Trapping Rain Water II|[p407](./src/lc/p407.rs)|`Vec`,`BinaryHeap`,`std::cmp::Reverse`,`std::cmp::max`|
 |412. Fizz Buzz|[p412](./src/lc/p412.rs)|`String`, `formate!`|
 |414. Third Maximum Number|[p414](./src/lc/p414/Solution.rs)|`Vec`, `if-let`|
 |434. Number of Segments in a String|[p434](./src/lc/p434/Solution.rs)|`String`|
