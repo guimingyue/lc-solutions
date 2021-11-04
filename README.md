@@ -20,6 +20,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |22. Generate Parentheses|[p22](./src/lc/p22.rs)|`Vec`,`String`|
 |29. Divide Two Integers|[p29](./src/lc/p29.rs)|`i32`|
 |38. Count and Say|[p38](./src/lc/p38.rs)|`String, char`|
+|42. Trapping Rain Water|[p42](./src/lc/p42.rs)|`Vec`,`BinaryHeap`,`Reverse`,`max`|
 |66. Plus One|[p66](./src/lc/p66/Solution.rs)|`Vec`,`while`|
 |67. Add Binary|[p67](./src/lc/p67/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
 |74. Search a 2D Matrix|[p74](./src/lc/p74.rs)|`Vec`|
@@ -44,6 +45,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |301. Remove Invalid Parentheses|[p301](./src/lc/p301.rs)|`Tuple`,`String`,`HashSet`|
 |335. Self Crossing|[p352](./src/lc/p335.rs)|`Vec`|
 |352. Data Stream as Disjoint Intervals|[p352](./src/lc/p352/Solution.rs)|`struct`,`Vec`,`method`,`impl`|
+|367. Valid Perfect Square|[p367](./src/lc/p367.rs)|`Vec`|
 |405. Convert a Number to Hexadecimal|[p405](./src/lc/p405/Solution.rs)|`String`,`Range`,`char`|
 |407. Trapping Rain Water II|[p407](./src/lc/p407.rs)|`Vec`,`BinaryHeap`,`std::cmp::Reverse`,`std::cmp::max`|
 |412. Fizz Buzz|[p412](./src/lc/p412.rs)|`String`, `formate!`|
@@ -62,3 +64,4 @@ The following table is the link for problem solutions with realted Rust topics o
 |869. Reordered Power of 2|[p869](./src/lc/p869.rs)|`HashSet`, `BinaryHeap`, `Reverse`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
+|1631. Path With Minimum Effort|[p1631](./src/lc/p1631.rs)|`Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple`|
