@@ -42,6 +42,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |260. Single Number III|[p260](./src/lc/p260.rs)|`Vec`, `^`, `>>`,`<<`|
 |273. Integer to English Words|[p273](./src/lc/p273/Solution.rs)|`String`|
 |282. Expression Add Operators|[p282](./src/lc/p282.rs)|`Vec`,`String`|
+|300. Longest Increasing Subsequence|[p300](./src/lc/p300.rs)|`Vec`,`max`|
 |301. Remove Invalid Parentheses|[p301](./src/lc/p301.rs)|`Tuple`,`String`,`HashSet`|
 |335. Self Crossing|[p352](./src/lc/p335.rs)|`Vec`|
 |352. Data Stream as Disjoint Intervals|[p352](./src/lc/p352/Solution.rs)|`struct`,`Vec`,`method`,`impl`|
@@ -61,7 +62,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |575. Distribute Candies|[p575](./src/lc/p575.rs)|`HashMap`,`std::cmp::min`|
 |638. Shopping Offers|[p638](./src/lc/p638.rs)|`Vec`,`Reference`,`std::cmp::min`|
 |852. Peak Index in a Mountain Array|[p852](./src/lc/p852.rs)|`Vec`|
-|869. Reordered Power of 2|[p869](./src/lc/p869.rs)|`HashSet`, `BinaryHeap`, `Reverse`|
+|869. Reordered Power of 2|[p869](./src/lc/p869.rs)|`HashSet`,`BinaryHeap`,`Reverse`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
+|1218. Longest Arithmetic Subsequence of Given Difference|[p1218](./src/lc/p1218.rs)|`Vec`,`max`,`HashMap`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
 |1631. Path With Minimum Effort|[p1631](./src/lc/p1631.rs)|`Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple`|
