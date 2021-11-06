@@ -40,6 +40,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |230. Kth Smallest Element in a BST|[p230](./src/lc/p230.rs)|`Rc`,`RefCell`,`Vec`|
 |240. Search a 2D Matrix II|[p240](./src/lc/p240.rs)|`Vec`|
 |260. Single Number III|[p260](./src/lc/p260.rs)|`Vec`, `^`, `>>`,`<<`|
+|268. Missing Number|[p268](./src/lc/p268.rs)|`Vec`|
 |273. Integer to English Words|[p273](./src/lc/p273/Solution.rs)|`String`|
 |282. Expression Add Operators|[p282](./src/lc/p282.rs)|`Vec`,`String`|
 |300. Longest Increasing Subsequence|[p300](./src/lc/p300.rs)|`Vec`,`max`|
