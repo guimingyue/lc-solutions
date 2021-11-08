@@ -23,11 +23,13 @@ The following table is the link for problem solutions with realted Rust topics o
 |42. Trapping Rain Water|[p42](./src/lc/p42.rs)|`Vec`,`BinaryHeap`,`Reverse`,`max`|
 |66. Plus One|[p66](./src/lc/p66/Solution.rs)|`Vec`,`while`|
 |67. Add Binary|[p67](./src/lc/p67/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
+|72. Edit Distance|[p72](./src/lc/p72.rs)|`Vec`,`String`,`min`|
 |74. Search a 2D Matrix|[p74](./src/lc/p74.rs)|`Vec`|
 |75. Sort Colors|[p75](./src/lc/p75.rs)|`Vec`|
 |82. Remove Duplicates from Sorted List II|[p82](./src/lc/p82/Solution.rs)|`Vec`|
 |83. Remove Duplicates from Sorted List|[p83](./src/lc/p83/Solution.rs)|`mut`, `Reference`,`Option`|
 |88. Merge Sorted Array|[p88](./src/lc/p88.rs)|`Vec`|
+|118. Pascal's Triangle|[p118](./src/lc/p118.rs)|`Vec`|
 |125. Valid Palindrome|[p125](./src/lc/p125/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
 |136. Single Number|[p136](./src/lc/p136.rs)|`Vec`,`^`|
 |137. Single Number II|[p137](./src/lc/p137.rs)|`Vec`,`>>`,`<<`|
@@ -43,6 +45,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |268. Missing Number|[p268](./src/lc/p268.rs)|`Vec`|
 |273. Integer to English Words|[p273](./src/lc/p273/Solution.rs)|`String`|
 |282. Expression Add Operators|[p282](./src/lc/p282.rs)|`Vec`,`String`|
+|299. Bulls and Cows|[p299](./src/lc/p299.rs)|`HashMap`,`BTreeSet`,`format!`|
 |300. Longest Increasing Subsequence|[p300](./src/lc/p300.rs)|`Vec`,`max`|
 |301. Remove Invalid Parentheses|[p301](./src/lc/p301.rs)|`Tuple`,`String`,`HashSet`|
 |335. Self Crossing|[p352](./src/lc/p335.rs)|`Vec`|
