@@ -30,12 +30,14 @@ The following table is the link for problem solutions with realted Rust topics o
 |83. Remove Duplicates from Sorted List|[p83](./src/lc/p83/Solution.rs)|`mut`, `Reference`,`Option`|
 |88. Merge Sorted Array|[p88](./src/lc/p88.rs)|`Vec`|
 |118. Pascal's Triangle|[p118](./src/lc/p118.rs)|`Vec`|
+|119. Pascal's Triangle II|[p119](./src/lc/p119.rs)|`Vec`|
 |125. Valid Palindrome|[p125](./src/lc/p125/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
 |136. Single Number|[p136](./src/lc/p136.rs)|`Vec`,`^`|
 |137. Single Number II|[p137](./src/lc/p137.rs)|`Vec`,`>>`,`<<`|
 |166. Fraction to Recurring Decimal|[p166](./src/lc/p166/Solution.rs)|`String`,`Vec`,`char`|
 |169. Majority Element|[p169](./src/lc/p169.rs)|`Vec`,`Iterator`|
 |187. Repeated DNA Sequences|[p187](./src/lc/p187/Solution.rs)|`String`,`Vec`,`HashMap`|
+|191. Number of 1 Bits|[p191](./src/lc/p191.rs)|`u32`,`i32`|
 |206. Reverse Linked List|[p206](./src/lc/p206/Solution.rs)|`Option`,`Box`|
 |211. Design Add and Search Words Data Structure|[p211](./src/lc/p211.rs)|`Default`,`HashMap`|
 |229. Majority Element II|[p229](./src/lc/p229.rs)|`Vec`,`Iterator`|
@@ -60,7 +62,9 @@ The following table is the link for problem solutions with realted Rust topics o
 |453. Minimum Moves to Equal Array Elements|[p453](./src/lc/p453.rs)|`Vec`|
 |476. Number Complement|[p476](./src/lc/p476.rs)|`>>`,`<<`|
 |482. License Key Formatting|[p482](./src/lc/p482/Solution.rs)|`String`,`slice`|
+|488. Zuma Game|[p488](./src/lc/p488.rs)|`HashSet`|
 |492. Construct the Rectangle|[p492](./src/lc/p492.rs)|`sqrt`,`Vec`|
+|495. Teemo Attacking|[p495](./src/lc/p495.rs)|`Vec`|
 |496. Next Greater Element I|[p496](./src/lc/p496.rs)|`HashMap`,`Vec`|
 |500. Keyboard Row|[p500](./src/lc/p500.rs)|`Vec`,`String`,`const`|
 |575. Distribute Candies|[p575](./src/lc/p575.rs)|`HashMap`,`std::cmp::min`|
@@ -68,6 +72,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |638. Shopping Offers|[p638](./src/lc/p638.rs)|`Vec`,`Reference`,`std::cmp::min`|
 |852. Peak Index in a Mountain Array|[p852](./src/lc/p852.rs)|`Vec`|
 |869. Reordered Power of 2|[p869](./src/lc/p869.rs)|`HashSet`,`BinaryHeap`,`Reverse`|
+|935. Knight Dialer|[p935](./src/lc/p935.rs)|`Vec`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
 |1218. Longest Arithmetic Subsequence of Given Difference|[p1218](./src/lc/p1218.rs)|`Vec`,`max`,`HashMap`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
