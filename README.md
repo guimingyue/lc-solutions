@@ -53,6 +53,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |335. Self Crossing|[p352](./src/lc/p335.rs)|`Vec`|
 |352. Data Stream as Disjoint Intervals|[p352](./src/lc/p352/Solution.rs)|`struct`,`Vec`,`method`,`impl`|
 |367. Valid Perfect Square|[p367](./src/lc/p367.rs)|`Vec`|
+|374. Guess Number Higher or Lower|[p374](./src/lc/p374.rs)|`i32`|
+|375. Guess Number Higher or Lower II|[p375](./src/lc/p375.rs)|`Vec`,`min`,`max`|
 |405. Convert a Number to Hexadecimal|[p405](./src/lc/p405/Solution.rs)|`String`,`Range`,`char`|
 |407. Trapping Rain Water II|[p407](./src/lc/p407.rs)|`Vec`,`BinaryHeap`,`std::cmp::Reverse`,`std::cmp::max`|
 |412. Fizz Buzz|[p412](./src/lc/p412.rs)|`String`, `formate!`|
@@ -69,6 +71,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |500. Keyboard Row|[p500](./src/lc/p500.rs)|`Vec`,`String`,`const`|
 |575. Distribute Candies|[p575](./src/lc/p575.rs)|`HashMap`,`std::cmp::min`|
 |598. Range Addition II|[p598](./src/lc/p598.rs)|`Vec`,`min`|
+|629. K Inverse Pairs Array|[p629](./src/lc/p629.rs)|`Vec`|
 |638. Shopping Offers|[p638](./src/lc/p638.rs)|`Vec`,`Reference`,`std::cmp::min`|
 |852. Peak Index in a Mountain Array|[p852](./src/lc/p852.rs)|`Vec`|
 |869. Reordered Power of 2|[p869](./src/lc/p869.rs)|`HashSet`,`BinaryHeap`,`Reverse`|
