@@ -21,6 +21,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |29. Divide Two Integers|[p29](./src/lc/p29.rs)|`i32`|
 |38. Count and Say|[p38](./src/lc/p38.rs)|`String, char`|
 |42. Trapping Rain Water|[p42](./src/lc/p42.rs)|`Vec`,`BinaryHeap`,`Reverse`,`max`|
+|62. Unique Paths|[p62](./src/lc/p62.rs)|`Vec`|
+|63. Unique Paths II|[p63](./src/lc/p63.rs)|`Vec`|
 |66. Plus One|[p66](./src/lc/p66/Solution.rs)|`Vec`,`while`|
 |67. Add Binary|[p67](./src/lc/p67/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
 |72. Edit Distance|[p72](./src/lc/p72.rs)|`Vec`,`String`,`min`|
@@ -69,6 +71,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |495. Teemo Attacking|[p495](./src/lc/p495.rs)|`Vec`|
 |496. Next Greater Element I|[p496](./src/lc/p496.rs)|`HashMap`,`Vec`|
 |500. Keyboard Row|[p500](./src/lc/p500.rs)|`Vec`,`String`,`const`|
+|520. Detect Capital|[p520](./src/lc/p520.rs)|`String`|
 |575. Distribute Candies|[p575](./src/lc/p575.rs)|`HashMap`,`std::cmp::min`|
 |598. Range Addition II|[p598](./src/lc/p598.rs)|`Vec`,`min`|
 |629. K Inverse Pairs Array|[p629](./src/lc/p629.rs)|`Vec`|
