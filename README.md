@@ -23,6 +23,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |42. Trapping Rain Water|[p42](./src/lc/p42.rs)|`Vec`,`BinaryHeap`,`Reverse`,`max`|
 |62. Unique Paths|[p62](./src/lc/p62.rs)|`Vec`|
 |63. Unique Paths II|[p63](./src/lc/p63.rs)|`Vec`|
+|64. Minimum Path Sum|[p63](./src/lc/p64.rs)|`Vec`|
 |66. Plus One|[p66](./src/lc/p66/Solution.rs)|`Vec`,`while`|
 |67. Add Binary|[p67](./src/lc/p67/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
 |72. Edit Distance|[p72](./src/lc/p72.rs)|`Vec`,`String`,`min`|
@@ -31,6 +32,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |82. Remove Duplicates from Sorted List II|[p82](./src/lc/p82/Solution.rs)|`Vec`|
 |83. Remove Duplicates from Sorted List|[p83](./src/lc/p83/Solution.rs)|`mut`, `Reference`,`Option`|
 |88. Merge Sorted Array|[p88](./src/lc/p88.rs)|`Vec`|
+|93. Restore IP Addresses|[p93](./src/lc/p93.rs)|`Vec`,`parse`|
 |118. Pascal's Triangle|[p118](./src/lc/p118.rs)|`Vec`|
 |119. Pascal's Triangle II|[p119](./src/lc/p119.rs)|`Vec`|
 |125. Valid Palindrome|[p125](./src/lc/p125/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
@@ -76,6 +78,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |598. Range Addition II|[p598](./src/lc/p598.rs)|`Vec`,`min`|
 |629. K Inverse Pairs Array|[p629](./src/lc/p629.rs)|`Vec`|
 |638. Shopping Offers|[p638](./src/lc/p638.rs)|`Vec`,`Reference`,`std::cmp::min`|
+|677. Map Sum Pairs|[p677](./src/lc/p677.rs)|`HashMap`,`PartialEq`,`Eq`,`Default`|
 |852. Peak Index in a Mountain Array|[p852](./src/lc/p852.rs)|`Vec`|
 |869. Reordered Power of 2|[p869](./src/lc/p869.rs)|`HashSet`,`BinaryHeap`,`Reverse`|
 |935. Knight Dialer|[p935](./src/lc/p935.rs)|`Vec`|
