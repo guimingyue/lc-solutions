@@ -54,6 +54,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |299. Bulls and Cows|[p299](./src/lc/p299.rs)|`HashMap`,`BTreeSet`,`format!`|
 |300. Longest Increasing Subsequence|[p300](./src/lc/p300.rs)|`Vec`,`max`|
 |301. Remove Invalid Parentheses|[p301](./src/lc/p301.rs)|`Tuple`,`String`,`HashSet`|
+|319. Bulb Switcher|[p319](./src/lc/p319.rs)|`sqrt`|
 |335. Self Crossing|[p352](./src/lc/p335.rs)|`Vec`|
 |352. Data Stream as Disjoint Intervals|[p352](./src/lc/p352/Solution.rs)|`struct`,`Vec`,`method`,`impl`|
 |367. Valid Perfect Square|[p367](./src/lc/p367.rs)|`Vec`|
