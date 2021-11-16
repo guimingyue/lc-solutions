@@ -60,6 +60,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |367. Valid Perfect Square|[p367](./src/lc/p367.rs)|`Vec`|
 |374. Guess Number Higher or Lower|[p374](./src/lc/p374.rs)|`i32`|
 |375. Guess Number Higher or Lower II|[p375](./src/lc/p375.rs)|`Vec`,`min`,`max`|
+|391. Perfect Rectangle|[p391](./src/lc/p391.rs)|`HashMap`,`unwrap_or`,`struct`|
 |405. Convert a Number to Hexadecimal|[p405](./src/lc/p405/Solution.rs)|`String`,`Range`,`char`|
 |407. Trapping Rain Water II|[p407](./src/lc/p407.rs)|`Vec`,`BinaryHeap`,`std::cmp::Reverse`,`std::cmp::max`|
 |412. Fizz Buzz|[p412](./src/lc/p412.rs)|`String`, `formate!`|
