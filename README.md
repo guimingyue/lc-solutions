@@ -54,6 +54,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |299. Bulls and Cows|[p299](./src/lc/p299.rs)|`HashMap`,`BTreeSet`,`format!`|
 |300. Longest Increasing Subsequence|[p300](./src/lc/p300.rs)|`Vec`,`max`|
 |301. Remove Invalid Parentheses|[p301](./src/lc/p301.rs)|`Tuple`,`String`,`HashSet`|
+|318. Maximum Product of Word Lengths|[p318](./src/lc/p318.rs)|`Vec`,`String`|
 |319. Bulb Switcher|[p319](./src/lc/p319.rs)|`sqrt`|
 |335. Self Crossing|[p352](./src/lc/p335.rs)|`Vec`|
 |352. Data Stream as Disjoint Intervals|[p352](./src/lc/p352/Solution.rs)|`struct`,`Vec`,`method`,`impl`|
@@ -76,6 +77,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |496. Next Greater Element I|[p496](./src/lc/p496.rs)|`HashMap`,`Vec`|
 |500. Keyboard Row|[p500](./src/lc/p500.rs)|`Vec`,`String`,`const`|
 |520. Detect Capital|[p520](./src/lc/p520.rs)|`String`|
+|563. Binary Tree Tilt|[p563](./src/lc/p563.rs)|`Option`,`Rc`,`RefCell`,`abs`|
 |575. Distribute Candies|[p575](./src/lc/p575.rs)|`HashMap`,`std::cmp::min`|
 |598. Range Addition II|[p598](./src/lc/p598.rs)|`Vec`,`min`|
 |629. K Inverse Pairs Array|[p629](./src/lc/p629.rs)|`Vec`|
