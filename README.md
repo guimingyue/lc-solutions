@@ -41,6 +41,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |166. Fraction to Recurring Decimal|[p166](./src/lc/p166/Solution.rs)|`String`,`Vec`,`char`|
 |169. Majority Element|[p169](./src/lc/p169.rs)|`Vec`,`Iterator`|
 |187. Repeated DNA Sequences|[p187](./src/lc/p187/Solution.rs)|`String`,`Vec`,`HashMap`|
+|190. Reverse Bits|[p190](./src/lc/p190.rs)|`>>`, `<<`|
 |191. Number of 1 Bits|[p191](./src/lc/p191.rs)|`u32`,`i32`|
 |206. Reverse Linked List|[p206](./src/lc/p206/Solution.rs)|`Option`,`Box`|
 |211. Design Add and Search Words Data Structure|[p211](./src/lc/p211.rs)|`Default`,`HashMap`|
@@ -61,6 +62,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |367. Valid Perfect Square|[p367](./src/lc/p367.rs)|`Vec`|
 |374. Guess Number Higher or Lower|[p374](./src/lc/p374.rs)|`i32`|
 |375. Guess Number Higher or Lower II|[p375](./src/lc/p375.rs)|`Vec`,`min`,`max`|
+|397. Integer Replacement|[p397](./src/lc/p397.rs)|`min`|
 |391. Perfect Rectangle|[p391](./src/lc/p391.rs)|`HashMap`,`unwrap_or`,`struct`|
 |405. Convert a Number to Hexadecimal|[p405](./src/lc/p405/Solution.rs)|`String`,`Range`,`char`|
 |407. Trapping Rain Water II|[p407](./src/lc/p407.rs)|`Vec`,`BinaryHeap`,`std::cmp::Reverse`,`std::cmp::max`|
@@ -79,6 +81,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |520. Detect Capital|[p520](./src/lc/p520.rs)|`String`|
 |563. Binary Tree Tilt|[p563](./src/lc/p563.rs)|`Option`,`Rc`,`RefCell`,`abs`|
 |575. Distribute Candies|[p575](./src/lc/p575.rs)|`HashMap`,`std::cmp::min`|
+|594. Longest Harmonious Subsequence|[p594](./src/lc/p594.rs)|`BTreeMap`,`max`|
 |598. Range Addition II|[p598](./src/lc/p598.rs)|`Vec`,`min`|
 |629. K Inverse Pairs Array|[p629](./src/lc/p629.rs)|`Vec`|
 |638. Shopping Offers|[p638](./src/lc/p638.rs)|`Vec`,`Reference`,`std::cmp::min`|

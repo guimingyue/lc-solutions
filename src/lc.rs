@@ -75,5 +75,8 @@ pub mod p319;
 pub mod p391;
 pub mod p563;
 pub mod p318;
+pub mod p594;
+pub mod p190;
+pub mod p397;
 
 pub struct Solution {}
