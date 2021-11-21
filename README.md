@@ -33,6 +33,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |83. Remove Duplicates from Sorted List|[p83](./src/lc/p83/Solution.rs)|`mut`, `Reference`,`Option`|
 |88. Merge Sorted Array|[p88](./src/lc/p88.rs)|`Vec`|
 |93. Restore IP Addresses|[p93](./src/lc/p93.rs)|`Vec`,`parse`|
+|97. Interleaving String|[p97](./src/lc/p97.rs)|`Vec`,`String`|
 |118. Pascal's Triangle|[p118](./src/lc/p118.rs)|`Vec`|
 |119. Pascal's Triangle II|[p119](./src/lc/p119.rs)|`Vec`|
 |125. Valid Palindrome|[p125](./src/lc/p125/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
@@ -47,6 +48,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |211. Design Add and Search Words Data Structure|[p211](./src/lc/p211.rs)|`Default`,`HashMap`|
 |229. Majority Element II|[p229](./src/lc/p229.rs)|`Vec`,`Iterator`|
 |230. Kth Smallest Element in a BST|[p230](./src/lc/p230.rs)|`Rc`,`RefCell`,`Vec`|
+|231. Power of Two|[p231](./src/lc/p231.rs)|`&`|
 |240. Search a 2D Matrix II|[p240](./src/lc/p240.rs)|`Vec`|
 |260. Single Number III|[p260](./src/lc/p260.rs)|`Vec`, `^`, `>>`,`<<`|
 |268. Missing Number|[p268](./src/lc/p268.rs)|`Vec`|
