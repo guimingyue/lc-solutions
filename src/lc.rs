@@ -80,5 +80,6 @@ pub mod p190;
 pub mod p397;
 pub mod p97;
 pub mod p231;
+pub mod p384;
 
 pub struct Solution {}

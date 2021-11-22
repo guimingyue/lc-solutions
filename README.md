@@ -64,6 +64,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |367. Valid Perfect Square|[p367](./src/lc/p367.rs)|`Vec`|
 |374. Guess Number Higher or Lower|[p374](./src/lc/p374.rs)|`i32`|
 |375. Guess Number Higher or Lower II|[p375](./src/lc/p375.rs)|`Vec`,`min`,`max`|
+|384. Shuffle an Array|[p384](./src/lc/p384.rs)|`Vec`,`clone`,`rand`|
 |397. Integer Replacement|[p397](./src/lc/p397.rs)|`min`|
 |391. Perfect Rectangle|[p391](./src/lc/p391.rs)|`HashMap`,`unwrap_or`,`struct`|
 |405. Convert a Number to Hexadecimal|[p405](./src/lc/p405/Solution.rs)|`String`,`Range`,`char`|
