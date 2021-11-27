@@ -45,9 +45,11 @@ The following table is the link for problem solutions with realted Rust topics o
 |190. Reverse Bits|[p190](./src/lc/p190.rs)|`>>`, `<<`|
 |191. Number of 1 Bits|[p191](./src/lc/p191.rs)|`u32`,`i32`|
 |206. Reverse Linked List|[p206](./src/lc/p206/Solution.rs)|`Option`,`Box`|
+|200. Number of Islands|[p200](./src/lc/p200.rs)|`Vec`|
 |211. Design Add and Search Words Data Structure|[p211](./src/lc/p211.rs)|`Default`,`HashMap`|
 |229. Majority Element II|[p229](./src/lc/p229.rs)|`Vec`,`Iterator`|
 |230. Kth Smallest Element in a BST|[p230](./src/lc/p230.rs)|`Rc`,`RefCell`,`Vec`|
+|238. Product of Array Except Self|[p238](./src/lc/p238.rs)|`Vec`|
 |231. Power of Two|[p231](./src/lc/p231.rs)|`&`|
 |240. Search a 2D Matrix II|[p240](./src/lc/p240.rs)|`Vec`|
 |260. Single Number III|[p260](./src/lc/p260.rs)|`Vec`, `^`, `>>`,`<<`|
@@ -83,6 +85,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |495. Teemo Attacking|[p495](./src/lc/p495.rs)|`Vec`|
 |496. Next Greater Element I|[p496](./src/lc/p496.rs)|`HashMap`,`Vec`|
 |500. Keyboard Row|[p500](./src/lc/p500.rs)|`Vec`,`String`,`const`|
+|519. Random Flip Matrix|[p519](./src/lc/p519.rs)|`Vec`,`rand`|
 |520. Detect Capital|[p520](./src/lc/p520.rs)|`String`|
 |563. Binary Tree Tilt|[p563](./src/lc/p563.rs)|`Option`,`Rc`,`RefCell`,`abs`|
 |575. Distribute Candies|[p575](./src/lc/p575.rs)|`HashMap`,`std::cmp::min`|
