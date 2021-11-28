@@ -75,6 +75,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |414. Third Maximum Number|[p414](./src/lc/p414/Solution.rs)|`Vec`, `if-let`|
 |423. Reconstruct Original Digits from English|[p423](./src/lc/p423.rs)|`HashMap`,`Array`|
 |434. Number of Segments in a String|[p434](./src/lc/p434/Solution.rs)|`String`|
+|438. Find All Anagrams in a String|[p438](./src/lc/p438.rs)|`HashMap`,`Vec`|
 |441. Arranging Coins|[p441](./src/lc/p441/Solution.rs)|`as`|
 |453. Minimum Moves to Equal Array Elements|[p453](./src/lc/p453.rs)|`Vec`|
 |458. Poor Pigs|[p458](./src/lc/p458.rs)|`log2`,`ceil`|
