@@ -69,6 +69,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |384. Shuffle an Array|[p384](./src/lc/p384.rs)|`Vec`,`clone`,`rand`|
 |397. Integer Replacement|[p397](./src/lc/p397.rs)|`min`|
 |391. Perfect Rectangle|[p391](./src/lc/p391.rs)|`HashMap`,`unwrap_or`,`struct`|
+|400. Nth Digit|[p400](./src/lc/p400.rs)|`pow`|
 |405. Convert a Number to Hexadecimal|[p405](./src/lc/p405/Solution.rs)|`String`,`Range`,`char`|
 |407. Trapping Rain Water II|[p407](./src/lc/p407.rs)|`Vec`,`BinaryHeap`,`std::cmp::Reverse`,`std::cmp::max`|
 |412. Fizz Buzz|[p412](./src/lc/p412.rs)|`String`, `formate!`|
