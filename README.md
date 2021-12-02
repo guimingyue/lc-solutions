@@ -61,6 +61,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |301. Remove Invalid Parentheses|[p301](./src/lc/p301.rs)|`Tuple`,`String`,`HashSet`|
 |318. Maximum Product of Word Lengths|[p318](./src/lc/p318.rs)|`Vec`,`String`|
 |319. Bulb Switcher|[p319](./src/lc/p319.rs)|`sqrt`|
+|322. Coin Change|[p322](./src/lc/p322.rs)|`Vec`|
 |335. Self Crossing|[p352](./src/lc/p335.rs)|`Vec`|
 |352. Data Stream as Disjoint Intervals|[p352](./src/lc/p352/Solution.rs)|`struct`,`Vec`,`method`,`impl`|
 |367. Valid Perfect Square|[p367](./src/lc/p367.rs)|`Vec`|
@@ -87,6 +88,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |495. Teemo Attacking|[p495](./src/lc/p495.rs)|`Vec`|
 |496. Next Greater Element I|[p496](./src/lc/p496.rs)|`HashMap`,`Vec`|
 |500. Keyboard Row|[p500](./src/lc/p500.rs)|`Vec`,`String`,`const`|
+|506. Relative Ranks|[p506](./src/lc/p506.rs)|`Vec`,`binary_search_by`,`sort_by`,`HashMap`|
+|518. Coin Change 2|[p518](./src/lc/p518.rs)|`Vec`|
 |519. Random Flip Matrix|[p519](./src/lc/p519.rs)|`Vec`,`rand`|
 |520. Detect Capital|[p520](./src/lc/p520.rs)|`String`|
 |563. Binary Tree Tilt|[p563](./src/lc/p563.rs)|`Option`,`Rc`,`RefCell`,`abs`|
@@ -105,4 +108,5 @@ The following table is the link for problem solutions with realted Rust topics o
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
 |1218. Longest Arithmetic Subsequence of Given Difference|[p1218](./src/lc/p1218.rs)|`Vec`,`max`,`HashMap`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
+|1446. Consecutive Characters|[p1446](./src/lc/p1446.rs)|`String`,`max`|
 |1631. Path With Minimum Effort|[p1631](./src/lc/p1631.rs)|`Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple`|
