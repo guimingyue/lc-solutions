@@ -12,6 +12,7 @@ LeetCode problem solutions using Rust programming language.
 ## Solutions
 The following table is the link for problem solutions with realted Rust topics or keywords.
 
+### Problems from leetcode
 |Problem|Solution|Related Rust keywords|
 |-------|---------|---------|
 |9. Palindrome Number|[p9](./src/lc/p9/Solution.rs)|`i32`,`if`,`while`|
@@ -47,6 +48,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |206. Reverse Linked List|[p206](./src/lc/p206/Solution.rs)|`Option`,`Box`|
 |200. Number of Islands|[p200](./src/lc/p200.rs)|`Vec`|
 |211. Design Add and Search Words Data Structure|[p211](./src/lc/p211.rs)|`Default`,`HashMap`|
+|228. Summary Ranges|[p228](./src/lc/p228.rs)|`Vec`,`String`|
 |229. Majority Element II|[p229](./src/lc/p229.rs)|`Vec`,`Iterator`|
 |230. Kth Smallest Element in a BST|[p230](./src/lc/p230.rs)|`Rc`,`RefCell`,`Vec`|
 |238. Product of Array Except Self|[p238](./src/lc/p238.rs)|`Vec`|
@@ -105,8 +107,14 @@ The following table is the link for problem solutions with realted Rust topics o
 |859. Buddy Strings|[p859](./src/lc/p859.rs)|`String`|
 |869. Reordered Power of 2|[p869](./src/lc/p869.rs)|`HashSet`,`BinaryHeap`,`Reverse`|
 |935. Knight Dialer|[p935](./src/lc/p935.rs)|`Vec`|
+|1005. Maximize Sum Of Array After K Negations|[p1005](./src/lc/p1005.rs)|`Vec`,`sort`,`binary_search`,`min`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
 |1218. Longest Arithmetic Subsequence of Given Difference|[p1218](./src/lc/p1218.rs)|`Vec`,`max`,`HashMap`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
 |1446. Consecutive Characters|[p1446](./src/lc/p1446.rs)|`String`,`max`|
 |1631. Path With Minimum Effort|[p1631](./src/lc/p1631.rs)|`Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple`|
+
+### 《剑指 Offer》题目
+|Problem|Solution|Related Rust keywords|
+|-------|---------|---------|
+|剑指 Offer II 001. 整数除法|[p001](./src/offer/p001.rs)|`abs`|
