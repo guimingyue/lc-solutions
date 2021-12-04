@@ -66,9 +66,11 @@ The following table is the link for problem solutions with realted Rust topics o
 |322. Coin Change|[p322](./src/lc/p322.rs)|`Vec`|
 |335. Self Crossing|[p352](./src/lc/p335.rs)|`Vec`|
 |352. Data Stream as Disjoint Intervals|[p352](./src/lc/p352/Solution.rs)|`struct`,`Vec`,`method`,`impl`|
+|357. Count Numbers with Unique Digits|[p357](./src/lc/p357.rs)||
 |367. Valid Perfect Square|[p367](./src/lc/p367.rs)|`Vec`|
 |374. Guess Number Higher or Lower|[p374](./src/lc/p374.rs)|`i32`|
 |375. Guess Number Higher or Lower II|[p375](./src/lc/p375.rs)|`Vec`,`min`,`max`|
+|383. Ransom Note|[p383](./src/lc/p383.rs)|`Vec`|
 |384. Shuffle an Array|[p384](./src/lc/p384.rs)|`Vec`,`clone`,`rand`|
 |397. Integer Replacement|[p397](./src/lc/p397.rs)|`min`|
 |391. Perfect Rectangle|[p391](./src/lc/p391.rs)|`HashMap`,`unwrap_or`,`struct`|
@@ -113,6 +115,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
 |1446. Consecutive Characters|[p1446](./src/lc/p1446.rs)|`String`,`max`|
 |1631. Path With Minimum Effort|[p1631](./src/lc/p1631.rs)|`Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple`|
+|1780. Check if Number is a Sum of Powers of Three|[p1780](./src/lc/p1780.rs)|`pow`|
 
 ### 《剑指 Offer》题目
 |Problem|Solution|Related Rust keywords|
