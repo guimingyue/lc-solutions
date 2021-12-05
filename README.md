@@ -42,11 +42,13 @@ The following table is the link for problem solutions with realted Rust topics o
 |137. Single Number II|[p137](./src/lc/p137.rs)|`Vec`,`>>`,`<<`|
 |166. Fraction to Recurring Decimal|[p166](./src/lc/p166/Solution.rs)|`String`,`Vec`,`char`|
 |169. Majority Element|[p169](./src/lc/p169.rs)|`Vec`,`Iterator`|
+|172. Factorial Trailing Zeroes|[p172](./src/lc/p172.rs)||
 |187. Repeated DNA Sequences|[p187](./src/lc/p187/Solution.rs)|`String`,`Vec`,`HashMap`|
 |190. Reverse Bits|[p190](./src/lc/p190.rs)|`>>`, `<<`|
 |191. Number of 1 Bits|[p191](./src/lc/p191.rs)|`u32`,`i32`|
-|206. Reverse Linked List|[p206](./src/lc/p206/Solution.rs)|`Option`,`Box`|
 |200. Number of Islands|[p200](./src/lc/p200.rs)|`Vec`|
+|201. Bitwise AND of Numbers Range|[p201](./src/lc/p201.rs)|`>>`,`<<`,`!`|
+|206. Reverse Linked List|[p206](./src/lc/p206/Solution.rs)|`Option`,`Box`|
 |211. Design Add and Search Words Data Structure|[p211](./src/lc/p211.rs)|`Default`,`HashMap`|
 |228. Summary Ranges|[p228](./src/lc/p228.rs)|`Vec`,`String`|
 |229. Majority Element II|[p229](./src/lc/p229.rs)|`Vec`,`Iterator`|
@@ -68,6 +70,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |352. Data Stream as Disjoint Intervals|[p352](./src/lc/p352/Solution.rs)|`struct`,`Vec`,`method`,`impl`|
 |357. Count Numbers with Unique Digits|[p357](./src/lc/p357.rs)||
 |367. Valid Perfect Square|[p367](./src/lc/p367.rs)|`Vec`|
+|372. Super Pow|[p372](./src/lc/p372.rs)|`Vec`|
 |374. Guess Number Higher or Lower|[p374](./src/lc/p374.rs)|`i32`|
 |375. Guess Number Higher or Lower II|[p375](./src/lc/p375.rs)|`Vec`,`min`,`max`|
 |383. Ransom Note|[p383](./src/lc/p383.rs)|`Vec`|
@@ -85,6 +88,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |441. Arranging Coins|[p441](./src/lc/p441/Solution.rs)|`as`|
 |453. Minimum Moves to Equal Array Elements|[p453](./src/lc/p453.rs)|`Vec`|
 |458. Poor Pigs|[p458](./src/lc/p458.rs)|`log2`,`ceil`|
+|461. Hamming Distance|[p461](./src/lc/p461.rs)|`count_ones1,`^`|
 |476. Number Complement|[p476](./src/lc/p476.rs)|`>>`,`<<`|
 |482. License Key Formatting|[p482](./src/lc/p482/Solution.rs)|`String`,`slice`|
 |488. Zuma Game|[p488](./src/lc/p488.rs)|`HashSet`|
