@@ -53,9 +53,11 @@ The following table is the link for problem solutions with realted Rust topics o
 |228. Summary Ranges|[p228](./src/lc/p228.rs)|`Vec`,`String`|
 |229. Majority Element II|[p229](./src/lc/p229.rs)|`Vec`,`Iterator`|
 |230. Kth Smallest Element in a BST|[p230](./src/lc/p230.rs)|`Rc`,`RefCell`,`Vec`|
-|238. Product of Array Except Self|[p238](./src/lc/p238.rs)|`Vec`|
 |231. Power of Two|[p231](./src/lc/p231.rs)|`&`|
+|232. Implement Queue using Stacks|[p232](./src/lc/p232.rs)|`Vec`|
+|238. Product of Array Except Self|[p238](./src/lc/p238.rs)|`Vec`|
 |240. Search a 2D Matrix II|[p240](./src/lc/p240.rs)|`Vec`|
+|258. Add Digits|[p258](./src/lc/p258.rs)||
 |260. Single Number III|[p260](./src/lc/p260.rs)|`Vec`, `^`, `>>`,`<<`|
 |268. Missing Number|[p268](./src/lc/p268.rs)|`Vec`|
 |273. Integer to English Words|[p273](./src/lc/p273/Solution.rs)|`String`|
@@ -115,11 +117,13 @@ The following table is the link for problem solutions with realted Rust topics o
 |935. Knight Dialer|[p935](./src/lc/p935.rs)|`Vec`|
 |1005. Maximize Sum Of Array After K Negations|[p1005](./src/lc/p1005.rs)|`Vec`,`sort`,`binary_search`,`min`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
+|1034. Coloring A Border|[p1034](./src/lc/p1034.rs)|`Vec`|
 |1218. Longest Arithmetic Subsequence of Given Difference|[p1218](./src/lc/p1218.rs)|`Vec`,`max`,`HashMap`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
 |1446. Consecutive Characters|[p1446](./src/lc/p1446.rs)|`String`,`max`|
 |1631. Path With Minimum Effort|[p1631](./src/lc/p1631.rs)|`Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple`|
 |1780. Check if Number is a Sum of Powers of Three|[p1780](./src/lc/p1780.rs)|`pow`|
+|1816. Truncate Sentence|[p1816](./src/lc/p1816.rs)|`String`|
 
 ### 《剑指 Offer》题目
 |Problem|Solution|Related Rust keywords|
