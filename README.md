@@ -111,11 +111,14 @@ The following table is the link for problem solutions with realted Rust topics o
 |677. Map Sum Pairs|[p677](./src/lc/p677.rs)|`HashMap`,`PartialEq`,`Eq`,`Default`|
 |689. Maximum Sum of 3 Non-Overlapping Subarrays|[p689](./src/lc/p689.rs)|`Vec`|
 |700. Search in a Binary Search Tree|[p700](./src/lc/p700.rs)|`Rc`,`RefCell`,`Option`|
+|709. To Lower Case|[p709](./src/lc/p709.rs)|`match`|
+|748. Shortest Completing Word|[p748](./src/lc/p748.rs)|`Vec`,`match`|
 |786. K-th Smallest Prime Fraction|[p786](./src/lc/p786.rs)|`sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse`|
 |794. Valid Tic-Tac-Toe State|[p794](./src/lc/p794.rs)|`Vec`|
 |852. Peak Index in a Mountain Array|[p852](./src/lc/p852.rs)|`Vec`|
 |859. Buddy Strings|[p859](./src/lc/p859.rs)|`String`|
 |869. Reordered Power of 2|[p869](./src/lc/p869.rs)|`HashSet`,`BinaryHeap`,`Reverse`|
+|911. Online Election|[p911](./src/lc/p911.rs)|`Vec`,`HashMap`,`binary_search`,`match`|
 |935. Knight Dialer|[p935](./src/lc/p935.rs)|`Vec`|
 |1005. Maximize Sum Of Array After K Negations|[p1005](./src/lc/p1005.rs)|`Vec`,`sort`,`binary_search`,`min`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
