@@ -57,6 +57,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |232. Implement Queue using Stacks|[p232](./src/lc/p232.rs)|`Vec`|
 |238. Product of Array Except Self|[p238](./src/lc/p238.rs)|`Vec`|
 |240. Search a 2D Matrix II|[p240](./src/lc/p240.rs)|`Vec`|
+|242. Valid Anagram|[p242](./src/lc/p242.rs)|`String`|
 |258. Add Digits|[p258](./src/lc/p258.rs)||
 |260. Single Number III|[p260](./src/lc/p260.rs)|`Vec`, `^`, `>>`,`<<`|
 |268. Missing Number|[p268](./src/lc/p268.rs)|`Vec`|
@@ -68,7 +69,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |318. Maximum Product of Word Lengths|[p318](./src/lc/p318.rs)|`Vec`,`String`|
 |319. Bulb Switcher|[p319](./src/lc/p319.rs)|`sqrt`|
 |322. Coin Change|[p322](./src/lc/p322.rs)|`Vec`|
-|335. Self Crossing|[p352](./src/lc/p335.rs)|`Vec`|
+|334. Increasing Triplet Subsequence|[p334](./src/lc/p334.rs)|`Vec`|
+|335. Self Crossing|[p335](./src/lc/p335.rs)|`Vec`|
 |352. Data Stream as Disjoint Intervals|[p352](./src/lc/p352/Solution.rs)|`struct`,`Vec`,`method`,`impl`|
 |357. Count Numbers with Unique Digits|[p357](./src/lc/p357.rs)||
 |367. Valid Perfect Square|[p367](./src/lc/p367.rs)|`Vec`|
