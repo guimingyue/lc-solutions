@@ -109,6 +109,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |594. Longest Harmonious Subsequence|[p594](./src/lc/p594.rs)|`BTreeMap`,`max`|
 |598. Range Addition II|[p598](./src/lc/p598.rs)|`Vec`,`min`|
 |629. K Inverse Pairs Array|[p629](./src/lc/p629.rs)|`Vec`|
+|630. Course Schedule III|[p630](./src/lc/p630.rs)|`Vec`,`sort_by`,`BinaryHeap`|
 |638. Shopping Offers|[p638](./src/lc/p638.rs)|`Vec`,`Reference`,`std::cmp::min`|
 |677. Map Sum Pairs|[p677](./src/lc/p677.rs)|`HashMap`,`PartialEq`,`Eq`,`Default`|
 |689. Maximum Sum of 3 Non-Overlapping Subarrays|[p689](./src/lc/p689.rs)|`Vec`|
@@ -117,6 +118,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |748. Shortest Completing Word|[p748](./src/lc/p748.rs)|`Vec`,`match`|
 |786. K-th Smallest Prime Fraction|[p786](./src/lc/p786.rs)|`sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse`|
 |794. Valid Tic-Tac-Toe State|[p794](./src/lc/p794.rs)|`Vec`|
+|807. Max Increase to Keep City Skyline|[p807](./src/lc/p807.rs)|`Vec`|
+|851. Loud and Rich|[p851](./src/lc/p851.rs)|`Vec`|
 |852. Peak Index in a Mountain Array|[p852](./src/lc/p852.rs)|`Vec`|
 |859. Buddy Strings|[p859](./src/lc/p859.rs)|`String`|
 |869. Reordered Power of 2|[p869](./src/lc/p869.rs)|`HashSet`,`BinaryHeap`,`Reverse`|
