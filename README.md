@@ -131,6 +131,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |1218. Longest Arithmetic Subsequence of Given Difference|[p1218](./src/lc/p1218.rs)|`Vec`,`max`,`HashMap`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
 |1446. Consecutive Characters|[p1446](./src/lc/p1446.rs)|`String`,`max`|
+|1518. Water Bottles|[p1518](./src/lc/p1518.rs)||
+|1610. Maximum Number of Visible Points|[p1610](./src/lc/p1610.rs)|`Vec`,`sort_by`,`std::f64::consts::PI`,`partial_cmp`,`atan2`|
 |1631. Path With Minimum Effort|[p1631](./src/lc/p1631.rs)|`Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple`|
 |1780. Check if Number is a Sum of Powers of Three|[p1780](./src/lc/p1780.rs)|`pow`|
 |1816. Truncate Sentence|[p1816](./src/lc/p1816.rs)|`String`|
