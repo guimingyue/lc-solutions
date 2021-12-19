@@ -86,6 +86,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |407. Trapping Rain Water II|[p407](./src/lc/p407.rs)|`Vec`,`BinaryHeap`,`std::cmp::Reverse`,`std::cmp::max`|
 |412. Fizz Buzz|[p412](./src/lc/p412.rs)|`String`, `formate!`|
 |414. Third Maximum Number|[p414](./src/lc/p414/Solution.rs)|`Vec`, `if-let`|
+|419. Battleships in a Board|[p419](./src/lc/p419.rs)|`Vec`|
 |423. Reconstruct Original Digits from English|[p423](./src/lc/p423.rs)|`HashMap`,`Array`|
 |434. Number of Segments in a String|[p434](./src/lc/p434/Solution.rs)|`String`|
 |438. Find All Anagrams in a String|[p438](./src/lc/p438.rs)|`HashMap`,`Vec`|
@@ -125,6 +126,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |869. Reordered Power of 2|[p869](./src/lc/p869.rs)|`HashSet`,`BinaryHeap`,`Reverse`|
 |911. Online Election|[p911](./src/lc/p911.rs)|`Vec`,`HashMap`,`binary_search`,`match`|
 |935. Knight Dialer|[p935](./src/lc/p935.rs)|`Vec`|
+|997. Find the Town Judge|[p997](./src/lc/p997.rs)|`Vec`|
 |1005. Maximize Sum Of Array After K Negations|[p1005](./src/lc/p1005.rs)|`Vec`,`sort`,`binary_search`,`min`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
 |1034. Coloring A Border|[p1034](./src/lc/p1034.rs)|`Vec`|
