@@ -94,6 +94,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |453. Minimum Moves to Equal Array Elements|[p453](./src/lc/p453.rs)|`Vec`|
 |458. Poor Pigs|[p458](./src/lc/p458.rs)|`log2`,`ceil`|
 |461. Hamming Distance|[p461](./src/lc/p461.rs)|`count_ones1,`^`|
+|475. Heaters|[p475](./src/lc/p475.rs)|`Vec`|
 |476. Number Complement|[p476](./src/lc/p476.rs)|`>>`,`<<`|
 |482. License Key Formatting|[p482](./src/lc/p482/Solution.rs)|`String`,`slice`|
 |488. Zuma Game|[p488](./src/lc/p488.rs)|`HashSet`|
@@ -113,6 +114,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |630. Course Schedule III|[p630](./src/lc/p630.rs)|`Vec`,`sort_by`,`BinaryHeap`|
 |638. Shopping Offers|[p638](./src/lc/p638.rs)|`Vec`,`Reference`,`std::cmp::min`|
 |677. Map Sum Pairs|[p677](./src/lc/p677.rs)|`HashMap`,`PartialEq`,`Eq`,`Default`|
+|686. Repeated String Match|[p686](./src/lc/p686.rs)|`String`,`contains`|
 |689. Maximum Sum of 3 Non-Overlapping Subarrays|[p689](./src/lc/p689.rs)|`Vec`|
 |700. Search in a Binary Search Tree|[p700](./src/lc/p700.rs)|`Rc`,`RefCell`,`Option`|
 |709. To Lower Case|[p709](./src/lc/p709.rs)|`match`|
@@ -130,6 +132,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1005. Maximize Sum Of Array After K Negations|[p1005](./src/lc/p1005.rs)|`Vec`,`sort`,`binary_search`,`min`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
 |1034. Coloring A Border|[p1034](./src/lc/p1034.rs)|`Vec`|
+|1154. Day of the Year|[p1154](./src/lc/p1154.rs)|`match, match-if, const`|
 |1218. Longest Arithmetic Subsequence of Given Difference|[p1218](./src/lc/p1218.rs)|`Vec`,`max`,`HashMap`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
 |1446. Consecutive Characters|[p1446](./src/lc/p1446.rs)|`String`,`max`|
