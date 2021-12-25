@@ -23,7 +23,7 @@ impl Solution {
         use rand::Rng;
         let mut rng = rand::thread_rng();
         for i in 0..self.nums.len() {
-            let j = i + rng.gen_range((0..self.nums.len() - i));
+            let j = i + rng.gen_range(0..self.nums.len() - i);
             self.shuffle.swap(i, j);
         }
         self.shuffle.clone()

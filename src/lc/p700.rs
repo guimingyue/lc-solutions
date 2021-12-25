@@ -40,7 +40,7 @@ impl Solution {
             } else {
                 None
             }
-        };
+        }
 
         find(&root, val)
     }

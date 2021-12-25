@@ -37,7 +37,7 @@ impl Solution {
                 },
                 None => (0, 0)
             }
-        };
+        }
         let mut res = 0;
         find(&root, &mut res);
         res

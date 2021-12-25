@@ -12,7 +12,7 @@ impl Solution {
             j: usize,
             d_i: i32,
             d_j: i32
-        };
+        }
 
         impl PartialOrd for Tuple {
             fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
@@ -22,8 +22,8 @@ impl Solution {
 
         impl Ord for Tuple {
             fn cmp(&self, other: &Self) -> Ordering {
-                let d1 = (self.d_i * other.d_j);
-                let d2 = (self.d_j * other.d_i);
+                let d1 = self.d_i * other.d_j;
+                let d2 = self.d_j * other.d_i;
                 d1.cmp(&d2)
             }
         }

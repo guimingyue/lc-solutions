@@ -7,7 +7,7 @@ impl Solution {
         struct Point {
             x:i32,
             y:i32
-        };
+        }
         let (mut min_x, mut min_y, mut max_x, mut max_y) = (rectangles[0][0], rectangles[0][1], rectangles[0][2], rectangles[0][3]);
         let mut cnt = std::collections::HashMap::new();
         let mut area = 0;

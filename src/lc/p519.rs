@@ -21,7 +21,7 @@ impl Solution {
 
     fn flip(&mut self) -> Vec<i32> {
         let mut rng = rand::thread_rng();
-        let j = rng.gen_range((0..self.matrix.len()));
+        let j = rng.gen_range(0..self.matrix.len());
         let val = self.matrix.remove(j);
         let line = val / (self.n as i32);
         vec![line as i32, val - (line * self.n  as i32)]
