@@ -13,7 +13,7 @@ impl Solution {
         let mut deno = (denominator as i64).abs();
 
         res.push_str((nume / deno).to_string().as_str());
-        let mut nume = (nume % deno);
+        let mut nume = nume % deno;
         if nume == 0 {
             return res;
         }

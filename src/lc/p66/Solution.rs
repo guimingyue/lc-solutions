@@ -9,7 +9,7 @@ impl Solution {
         let mut idx = digits.len();
         while idx > 0 {
             let n = digits[idx-1] + carry;
-            if(n >= 10) {
+            if n >= 10 {
                 carry = 1;
             } else {
                 carry = 0;
