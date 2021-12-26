@@ -132,6 +132,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1005. Maximize Sum Of Array After K Negations|[p1005](./src/lc/p1005.rs)|`Vec`,`sort`,`binary_search`,`min`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
 |1034. Coloring A Border|[p1034](./src/lc/p1034.rs)|`Vec`|
+|1078. Occurrences After Bigram|[p1078](./src/lc/p1078.rs)|`Vec`,`String`,`match-if`|
 |1154. Day of the Year|[p1154](./src/lc/p1154.rs)|`match, match-if, const`|
 |1218. Longest Arithmetic Subsequence of Given Difference|[p1218](./src/lc/p1218.rs)|`Vec`,`max`,`HashMap`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
