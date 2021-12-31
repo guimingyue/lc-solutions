@@ -103,6 +103,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |496. Next Greater Element I|[p496](./src/lc/p496.rs)|`HashMap`,`Vec`|
 |500. Keyboard Row|[p500](./src/lc/p500.rs)|`Vec`,`String`,`const`|
 |506. Relative Ranks|[p506](./src/lc/p506.rs)|`Vec`,`binary_search_by`,`sort_by`,`HashMap`|
+|507. Perfect Number|[p507](./src/lc/p507.rs)|`sqrt`|
 |518. Coin Change 2|[p518](./src/lc/p518.rs)|`Vec`|
 |519. Random Flip Matrix|[p519](./src/lc/p519.rs)|`Vec`,`rand`|
 |520. Detect Capital|[p520](./src/lc/p520.rs)|`String`|
@@ -122,6 +123,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |786. K-th Smallest Prime Fraction|[p786](./src/lc/p786.rs)|`sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse`|
 |794. Valid Tic-Tac-Toe State|[p794](./src/lc/p794.rs)|`Vec`|
 |807. Max Increase to Keep City Skyline|[p807](./src/lc/p807.rs)|`Vec`|
+|825. Friends Of Appropriate Ages|[p825](./src/lc/p825.rs)|`Vec`|
+|846. Hand of Straights|[p846](./src/lc/p846.rs)|`BTreeMap`,`VecDeque`,`FromIterator`|
 |851. Loud and Rich|[p851](./src/lc/p851.rs)|`Vec`|
 |852. Peak Index in a Mountain Array|[p852](./src/lc/p852.rs)|`Vec`|
 |859. Buddy Strings|[p859](./src/lc/p859.rs)|`String`|
@@ -144,6 +147,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1705. Maximum Number of Eaten Apples|[p1705](./src/lc/p1705.rs)|`Vec`,`Reverse`|
 |1780. Check if Number is a Sum of Powers of Three|[p1780](./src/lc/p1780.rs)|`pow`|
 |1816. Truncate Sentence|[p1816](./src/lc/p1816.rs)|`String`|
+|1995. Count Special Quadruplets|[p1995](./src/lc/p1995.rs)|`String`|
 
 ### 《剑指 Offer》题目
 |Problem|Solution|Related Rust keywords|
