@@ -148,6 +148,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1780. Check if Number is a Sum of Powers of Three|[p1780](./src/lc/p1780.rs)|`pow`|
 |1816. Truncate Sentence|[p1816](./src/lc/p1816.rs)|`String`|
 |1995. Count Special Quadruplets|[p1995](./src/lc/p1995.rs)|`String`|
+|2022. Convert 1D Array Into 2D Array|[p2022](./src/lc/p2022.rs)|`Vec`|
 
 ### 《剑指 Offer》题目
 |Problem|Solution|Related Rust keywords|
