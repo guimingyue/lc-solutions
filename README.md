@@ -79,6 +79,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |375. Guess Number Higher or Lower II|[p375](./src/lc/p375.rs)|`Vec`,`min`,`max`|
 |383. Ransom Note|[p383](./src/lc/p383.rs)|`Vec`|
 |384. Shuffle an Array|[p384](./src/lc/p384.rs)|`Vec`,`clone`,`rand`|
+|390. Elimination Game|[p390](./src/lc/p390.rs)|`match`|
 |397. Integer Replacement|[p397](./src/lc/p397.rs)|`min`|
 |391. Perfect Rectangle|[p391](./src/lc/p391.rs)|`HashMap`,`unwrap_or`,`struct`|
 |400. Nth Digit|[p400](./src/lc/p400.rs)|`pow`|
