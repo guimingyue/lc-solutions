@@ -1,4 +1,4 @@
-use crate::lc::Solution;
+struct Solution {}
 
 impl Solution {
     pub fn asteroid_collision(asteroids: Vec<i32>) -> Vec<i32> {
