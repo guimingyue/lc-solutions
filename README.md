@@ -27,6 +27,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |64. Minimum Path Sum|[p63](./src/lc/p64.rs)|`Vec`|
 |66. Plus One|[p66](./src/lc/p66/Solution.rs)|`Vec`,`while`|
 |67. Add Binary|[p67](./src/lc/p67/Solution.rs)|`String`,`Rev`,`Iterator`,`Option`|
+|71. Simplify Path|[p71](./src/lc/p71.rs)|`Vec`,`String`|
 |72. Edit Distance|[p72](./src/lc/p72.rs)|`Vec`,`String`,`min`|
 |74. Search a 2D Matrix|[p74](./src/lc/p74.rs)|`Vec`|
 |75. Sort Colors|[p75](./src/lc/p75.rs)|`Vec`|
