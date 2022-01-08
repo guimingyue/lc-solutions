@@ -34,6 +34,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |82. Remove Duplicates from Sorted List II|[p82](./src/lc/p82/Solution.rs)|`Vec`|
 |83. Remove Duplicates from Sorted List|[p83](./src/lc/p83/Solution.rs)|`mut`, `Reference`,`Option`|
 |88. Merge Sorted Array|[p88](./src/lc/p88.rs)|`Vec`|
+|89. Gray Code|[p89](./src/lc/p89.rs)|`Vec`|
 |93. Restore IP Addresses|[p93](./src/lc/p93.rs)|`Vec`,`parse`|
 |97. Interleaving String|[p97](./src/lc/p97.rs)|`Vec`,`String`|
 |118. Pascal's Triangle|[p118](./src/lc/p118.rs)|`Vec`|
@@ -147,6 +148,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1576. Replace All ?'s to Avoid Consecutive Repeating Characters|[p1576](./src/lc/p1576.rs)||
 |1609. Even Odd Tree|[p1609](./src/lc/p1609.rs)|`Rc`,`RefCell`,`Vec`|
 |1610. Maximum Number of Visible Points|[p1610](./src/lc/p1610.rs)|`Vec`,`sort_by`,`std::f64::consts::PI`,`partial_cmp`,`atan2`|
+|1614. Maximum Nesting Depth of the Parentheses|[p1614](./src/lc/p1614.rs)|`Vec(stack)`|
 |1631. Path With Minimum Effort|[p1631](./src/lc/p1631.rs)|`Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple`|
 |1705. Maximum Number of Eaten Apples|[p1705](./src/lc/p1705.rs)|`Vec`,`Reverse`|
 |1780. Check if Number is a Sum of Powers of Three|[p1780](./src/lc/p1780.rs)|`pow`|
