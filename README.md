@@ -68,6 +68,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |299. Bulls and Cows|[p299](./src/lc/p299.rs)|`HashMap`,`BTreeSet`,`format!`|
 |300. Longest Increasing Subsequence|[p300](./src/lc/p300.rs)|`Vec`,`max`|
 |301. Remove Invalid Parentheses|[p301](./src/lc/p301.rs)|`Tuple`,`String`,`HashSet`|
+|306. Additive Number|[p306](./src/lc/p306.rs)|`String`,`char`,`Slice`|
 |318. Maximum Product of Word Lengths|[p318](./src/lc/p318.rs)|`Vec`,`String`|
 |319. Bulb Switcher|[p319](./src/lc/p319.rs)|`sqrt`|
 |322. Coin Change|[p322](./src/lc/p322.rs)|`Vec`|
