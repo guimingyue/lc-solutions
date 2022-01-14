@@ -78,6 +78,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |357. Count Numbers with Unique Digits|[p357](./src/lc/p357.rs)||
 |367. Valid Perfect Square|[p367](./src/lc/p367.rs)|`Vec`|
 |372. Super Pow|[p372](./src/lc/p372.rs)|`Vec`|
+|373. Find K Pairs with Smallest Sums|[p373](./src/lc/p373.rs)|`Vec`,`BinaryHeap`|
 |374. Guess Number Higher or Lower|[p374](./src/lc/p374.rs)|`i32`|
 |375. Guess Number Higher or Lower II|[p375](./src/lc/p375.rs)|`Vec`,`min`,`max`|
 |383. Ransom Note|[p383](./src/lc/p383.rs)|`Vec`|
