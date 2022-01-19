@@ -52,6 +52,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |201. Bitwise AND of Numbers Range|[p201](./src/lc/p201.rs)|`>>`,`<<`,`!`|
 |206. Reverse Linked List|[p206](./src/lc/p206/Solution.rs)|`Option`,`Box`|
 |211. Design Add and Search Words Data Structure|[p211](./src/lc/p211.rs)|`Default`,`HashMap`|
+|219. Contains Duplicate II|[p219](./src/lc/p219.rs)|Vec`|
 |228. Summary Ranges|[p228](./src/lc/p228.rs)|`Vec`,`String`|
 |229. Majority Element II|[p229](./src/lc/p229.rs)|`Vec`,`Iterator`|
 |230. Kth Smallest Element in a BST|[p230](./src/lc/p230.rs)|`Rc`,`RefCell`,`Vec`|
@@ -113,6 +114,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |518. Coin Change 2|[p518](./src/lc/p518.rs)|`Vec`|
 |519. Random Flip Matrix|[p519](./src/lc/p519.rs)|`Vec`,`rand`|
 |520. Detect Capital|[p520](./src/lc/p520.rs)|`String`|
+|539. Minimum Time Difference|[p539](./src/lc/p539.rs)|`Vec`|
 |563. Binary Tree Tilt|[p563](./src/lc/p563.rs)|`Option`,`Rc`,`RefCell`,`abs`|
 |575. Distribute Candies|[p575](./src/lc/p575.rs)|`HashMap`,`std::cmp::min`|
 |594. Longest Harmonious Subsequence|[p594](./src/lc/p594.rs)|`BTreeMap`,`max`|
