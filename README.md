@@ -148,6 +148,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1154. Day of the Year|[p1154](./src/lc/p1154.rs)|`match`,`match-if`,`const`|
 |1185. Day of the Week|[p1185](./src/lc/p1185.rs)|`const`|
 |1218. Longest Arithmetic Subsequence of Given Difference|[p1218](./src/lc/p1218.rs)|`Vec`,`max`,`HashMap`|
+|1345. Jump Game IV|[p1345](./src/lc/p1345.rs)|`HashMap`,`HashSet`,`VecDeque`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
 |1446. Consecutive Characters|[p1446](./src/lc/p1446.rs)|`String`,`max`|
 |1518. Water Bottles|[p1518](./src/lc/p1518.rs)||
@@ -163,6 +164,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1816. Truncate Sentence|[p1816](./src/lc/p1816.rs)|`String`|
 |1995. Count Special Quadruplets|[p1995](./src/lc/p1995.rs)|`String`|
 |2022. Convert 1D Array Into 2D Array|[p2022](./src/lc/p2022.rs)|`Vec`|
+|2029. Stone Game IX|[p2022](./src/lc/p2029.rs)|`Vec`|
 
 ### 《剑指 Offer》题目
 |Problem|Solution|Related Rust keywords|
