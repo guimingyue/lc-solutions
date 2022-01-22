@@ -148,6 +148,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1154. Day of the Year|[p1154](./src/lc/p1154.rs)|`match`,`match-if`,`const`|
 |1185. Day of the Week|[p1185](./src/lc/p1185.rs)|`const`|
 |1218. Longest Arithmetic Subsequence of Given Difference|[p1218](./src/lc/p1218.rs)|`Vec`,`max`,`HashMap`|
+|1332. Remove Palindromic Subsequences|[p1332](./src/lc/p1332.rs)|`String`|
 |1345. Jump Game IV|[p1345](./src/lc/p1345.rs)|`HashMap`,`HashSet`,`VecDeque`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
 |1446. Consecutive Characters|[p1446](./src/lc/p1446.rs)|`String`,`max`|
