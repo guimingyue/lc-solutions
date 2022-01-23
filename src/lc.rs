@@ -154,5 +154,6 @@ pub mod p219;
 pub mod p2029;
 pub mod p1345;
 pub mod p1332;
+pub mod p2034;
 
 pub struct Solution {}

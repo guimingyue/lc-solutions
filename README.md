@@ -166,6 +166,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1995. Count Special Quadruplets|[p1995](./src/lc/p1995.rs)|`String`|
 |2022. Convert 1D Array Into 2D Array|[p2022](./src/lc/p2022.rs)|`Vec`|
 |2029. Stone Game IX|[p2022](./src/lc/p2029.rs)|`Vec`|
+|2034. Stock Price Fluctuation|[p2034](./src/lc/p2034.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
 
 ### 《剑指 Offer》题目
 |Problem|Solution|Related Rust keywords|
