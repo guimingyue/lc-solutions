@@ -13,7 +13,7 @@ impl Solution {
                     heap.push((sum, nums1[i], nums2[j]));
                 } else {
                     if sum >= heap.peek().unwrap().0 {
-                        if (j == 0) {
+                        if j == 0 {
                             ended = true;
                         }
                         break;
