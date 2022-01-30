@@ -138,6 +138,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |852. Peak Index in a Mountain Array|[p852](./src/lc/p852.rs)|`Vec`|
 |859. Buddy Strings|[p859](./src/lc/p859.rs)|`String`|
 |869. Reordered Power of 2|[p869](./src/lc/p869.rs)|`HashSet`,`BinaryHeap`,`Reverse`|
+|884. Uncommon Words from Two Sentences|[p884](./src/lc/p884.rs)|`HashMap`,`String`,`split`|
 |911. Online Election|[p911](./src/lc/p911.rs)|`Vec`,`HashMap`,`binary_search`,`match`|
 |935. Knight Dialer|[p935](./src/lc/p935.rs)|`Vec`|
 |997. Find the Town Judge|[p997](./src/lc/p997.rs)|`Vec`|
