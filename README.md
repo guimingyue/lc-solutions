@@ -164,6 +164,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1688. Count of Matches in Tournament|[p1688](./src/lc/p1688.rs)||
 |1705. Maximum Number of Eaten Apples|[p1705](./src/lc/p1705.rs)|`Vec`,`Reverse`|
 |1716. Calculate Money in Leetcode Bank|[p1716](./src/lc/p1716.rs)||
+|1763. Longest Nice Substring|[p1763](./src/lc/p1763.rs)|`String`,`Slice`|
 |1765. Map of Highest Peak|[p1765](./src/lc/p1765.rs)|`VecDeque`|
 |1780. Check if Number is a Sum of Powers of Three|[p1780](./src/lc/p1780.rs)|`pow`|
 |1816. Truncate Sentence|[p1816](./src/lc/p1816.rs)|`String`|
