@@ -170,6 +170,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1816. Truncate Sentence|[p1816](./src/lc/p1816.rs)|`String`|
 |1995. Count Special Quadruplets|[p1995](./src/lc/p1995.rs)|`String`|
 |1996. The Number of Weak Characters in the Game|[p1996](./src/lc/p1996.rs)|`Vec`,`sort_by`|
+|2000. Reverse Prefix of Word|[p2000](./src/lc/p2000.rs)||
 |2013. Detect Squares|[p2013](./src/lc/p2013.rs)|`HashMap`|
 |2022. Convert 1D Array Into 2D Array|[p2022](./src/lc/p2022.rs)|`Vec`|
 |2029. Stone Game IX|[p2022](./src/lc/p2029.rs)|`Vec`|
