@@ -152,7 +152,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1332. Remove Palindromic Subsequences|[p1332](./src/lc/p1332.rs)|`String`|
 |1342. Number of Steps to Reduce a Number to Zero|[p1342](./src/lc/p1342.rs)||
 |1345. Jump Game IV|[p1345](./src/lc/p1345.rs)|`HashMap`,`HashSet`,`VecDeque`|
-|1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K|[p1414](./src/lc/p1414.rs)||
+|1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K|[p1414](./src/lc/p1414.rs)|`binary_search`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
 |1446. Consecutive Characters|[p1446](./src/lc/p1446.rs)|`String`,`max`|
 |1518. Water Bottles|[p1518](./src/lc/p1518.rs)||
@@ -165,6 +165,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1688. Count of Matches in Tournament|[p1688](./src/lc/p1688.rs)||
 |1705. Maximum Number of Eaten Apples|[p1705](./src/lc/p1705.rs)|`Vec`,`Reverse`|
 |1716. Calculate Money in Leetcode Bank|[p1716](./src/lc/p1716.rs)||
+|1725. Number Of Rectangles That Can Form The Largest Square|[p1725](./src/lc/p1725.rs)|`Vec`|
 |1763. Longest Nice Substring|[p1763](./src/lc/p1763.rs)|`String`,`Slice`|
 |1765. Map of Highest Peak|[p1765](./src/lc/p1765.rs)|`VecDeque`|
 |1780. Check if Number is a Sum of Powers of Three|[p1780](./src/lc/p1780.rs)|`pow`|

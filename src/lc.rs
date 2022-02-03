@@ -166,5 +166,6 @@ pub mod p1342;
 pub mod p1763;
 pub mod p2000;
 pub mod p1414;
+pub mod p1725;
 
 pub struct Solution {}
