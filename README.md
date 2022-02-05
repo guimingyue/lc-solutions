@@ -167,6 +167,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1705. Maximum Number of Eaten Apples|[p1705](./src/lc/p1705.rs)|`Vec`,`Reverse`|
 |1716. Calculate Money in Leetcode Bank|[p1716](./src/lc/p1716.rs)||
 |1725. Number Of Rectangles That Can Form The Largest Square|[p1725](./src/lc/p1725.rs)|`Vec`|
+|1748. Sum of Unique Elements|[p1748](./src/lc/p1748.rs)|`Vec`|
 |1763. Longest Nice Substring|[p1763](./src/lc/p1763.rs)|`String`,`Slice`|
 |1765. Map of Highest Peak|[p1765](./src/lc/p1765.rs)|`VecDeque`|
 |1780. Check if Number is a Sum of Powers of Three|[p1780](./src/lc/p1780.rs)|`pow`|
