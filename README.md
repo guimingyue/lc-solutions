@@ -153,6 +153,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1332. Remove Palindromic Subsequences|[p1332](./src/lc/p1332.rs)|`String`|
 |1342. Number of Steps to Reduce a Number to Zero|[p1342](./src/lc/p1342.rs)||
 |1345. Jump Game IV|[p1345](./src/lc/p1345.rs)|`HashMap`,`HashSet`,`VecDeque`|
+|1405. Longest Happy String|[p1405](./src/lc/p1405.rs)|`BinaryHeap`,`Vec`|
 |1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K|[p1414](./src/lc/p1414.rs)|`binary_search`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
 |1446. Consecutive Characters|[p1446](./src/lc/p1446.rs)|`String`,`max`|
