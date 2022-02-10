@@ -1,8 +1,24 @@
+use std::collections::HashMap;
 use crate::lc::Solution;
 
 /// #Vec
 impl Solution {
     pub fn count_k_difference(nums: Vec<i32>, k: i32) -> i32 {
+        let mut map: HashMap<i32, i32> = HashMap::new();
+        let mut res = 0;
+        for v in nums {
+            if let Some(v1) = map.get(&(v - k)) {
+                res += *v1;
+            }
+            if let Some(v1) = map.get(&(v + k)) {
+                res += *v1;
+            }
+            let num = map.entry(v).or_default();
+            *num += 1;
+        }
+        res
+    }
+    pub fn count_k_difference_logn(nums: Vec<i32>, k: i32) -> i32 {
 
         let mut nums = nums;
         nums.sort();

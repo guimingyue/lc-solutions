@@ -157,6 +157,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K|[p1414](./src/lc/p1414.rs)|`binary_search`|
 |1436. Destination City|[p1436](./src/lc/p1436/Solution.rs)|`String`,`Vec`,`HashMap`|
 |1446. Consecutive Characters|[p1446](./src/lc/p1446.rs)|`String`,`max`|
+|1446. Simplified Fractions|[p1447](./src/lc/p1447.rs)|`format!`|
 |1518. Water Bottles|[p1518](./src/lc/p1518.rs)||
 |1576. Replace All ?'s to Avoid Consecutive Repeating Characters|[p1576](./src/lc/p1576.rs)||
 |1609. Even Odd Tree|[p1609](./src/lc/p1609.rs)|`Rc`,`RefCell`,`Vec`|
