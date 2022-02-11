@@ -174,6 +174,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1765. Map of Highest Peak|[p1765](./src/lc/p1765.rs)|`VecDeque`|
 |1780. Check if Number is a Sum of Powers of Three|[p1780](./src/lc/p1780.rs)|`pow`|
 |1816. Truncate Sentence|[p1816](./src/lc/p1816.rs)|`String`|
+|1984. Minimum Difference Between Highest and Lowest of K Scores|[p1984](./src/lc/p1984.rs)|`Vec`|
 |1995. Count Special Quadruplets|[p1995](./src/lc/p1995.rs)|`String`|
 |1996. The Number of Weak Characters in the Game|[p1996](./src/lc/p1996.rs)|`Vec`,`sort_by`|
 |2000. Reverse Prefix of Word|[p2000](./src/lc/p2000.rs)||
