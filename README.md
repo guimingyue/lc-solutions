@@ -144,6 +144,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |997. Find the Town Judge|[p997](./src/lc/p997.rs)|`Vec`|
 |1005. Maximize Sum Of Array After K Negations|[p1005](./src/lc/p1005.rs)|`Vec`,`sort`,`binary_search`,`min`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
+|1020. Number of Enclaves|[p1020](./src/lc/p1020.rs)|`Vec`|
 |1034. Coloring A Border|[p1034](./src/lc/p1034.rs)|`Vec`|
 |1078. Occurrences After Bigram|[p1078](./src/lc/p1078.rs)|`Vec`,`String`,`match-if`|
 |1154. Day of the Year|[p1154](./src/lc/p1154.rs)|`match`,`match-if`,`const`|
