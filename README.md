@@ -149,6 +149,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1078. Occurrences After Bigram|[p1078](./src/lc/p1078.rs)|`Vec`,`String`,`match-if`|
 |1154. Day of the Year|[p1154](./src/lc/p1154.rs)|`match`,`match-if`,`const`|
 |1185. Day of the Week|[p1185](./src/lc/p1185.rs)|`const`|
+|1189. Maximum Number of Balloons|[p1189](./src/lc/p1189.rs)|`HashMap`|
 |1218. Longest Arithmetic Subsequence of Given Difference|[p1218](./src/lc/p1218.rs)|`Vec`,`max`,`HashMap`|
 |1219. Path with Maximum Gold|[p1219](./src/lc/p1219.rs)|`Vec`|
 |1332. Remove Palindromic Subsequences|[p1332](./src/lc/p1332.rs)|`String`|
