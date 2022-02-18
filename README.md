@@ -177,6 +177,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1763. Longest Nice Substring|[p1763](./src/lc/p1763.rs)|`String`,`Slice`|
 |1765. Map of Highest Peak|[p1765](./src/lc/p1765.rs)|`VecDeque`|
 |1780. Check if Number is a Sum of Powers of Three|[p1780](./src/lc/p1780.rs)|`pow`|
+|1791. Find Center of Star Graph|[p1791](./src/lc/p1791.rs)||
 |1816. Truncate Sentence|[p1816](./src/lc/p1816.rs)|`String`|
 |1984. Minimum Difference Between Highest and Lowest of K Scores|[p1984](./src/lc/p1984.rs)|`Vec`|
 |1995. Count Special Quadruplets|[p1995](./src/lc/p1995.rs)|`String`|
