@@ -142,6 +142,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |884. Uncommon Words from Two Sentences|[p884](./src/lc/p884.rs)|`HashMap`,`String`,`split`|
 |911. Online Election|[p911](./src/lc/p911.rs)|`Vec`,`HashMap`,`binary_search`,`match`|
 |935. Knight Dialer|[p935](./src/lc/p935.rs)|`Vec`|
+|969. Pancake Sorting|[p969](./src/lc/p969.rs)|`Vec`,`Slice`|
 |997. Find the Town Judge|[p997](./src/lc/p997.rs)|`Vec`|
 |1005. Maximize Sum Of Array After K Negations|[p1005](./src/lc/p1005.rs)|`Vec`,`sort`,`binary_search`,`min`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
