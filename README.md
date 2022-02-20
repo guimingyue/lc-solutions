@@ -128,6 +128,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |689. Maximum Sum of 3 Non-Overlapping Subarrays|[p689](./src/lc/p689.rs)|`Vec`|
 |700. Search in a Binary Search Tree|[p700](./src/lc/p700.rs)|`Rc`,`RefCell`,`Option`|
 |709. To Lower Case|[p709](./src/lc/p709.rs)|`match`|
+|717. 1-bit and 2-bit Characters|[p717](./src/lc/p717.rs)||
 |747. Largest Number At Least Twice of Others|[p747](./src/lc/p747.rs)|`Vec`|
 |748. Shortest Completing Word|[p748](./src/lc/p748.rs)|`Vec`,`match`|
 |786. K-th Smallest Prime Fraction|[p786](./src/lc/p786.rs)|`sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse`|
