@@ -135,6 +135,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |794. Valid Tic-Tac-Toe State|[p794](./src/lc/p794.rs)|`Vec`|
 |807. Max Increase to Keep City Skyline|[p807](./src/lc/p807.rs)|`Vec`|
 |825. Friends Of Appropriate Ages|[p825](./src/lc/p825.rs)|`Vec`|
+|838. Push Dominoes|[p838](./src/lc/p838.rs)|`Vec`|
 |846. Hand of Straights|[p846](./src/lc/p846.rs)|`BTreeMap`,`VecDeque`,`FromIterator`|
 |851. Loud and Rich|[p851](./src/lc/p851.rs)|`Vec`|
 |852. Peak Index in a Mountain Array|[p852](./src/lc/p852.rs)|`Vec`|
