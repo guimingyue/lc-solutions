@@ -143,6 +143,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |869. Reordered Power of 2|[p869](./src/lc/p869.rs)|`HashSet`,`BinaryHeap`,`Reverse`|
 |884. Uncommon Words from Two Sentences|[p884](./src/lc/p884.rs)|`HashMap`,`String`,`split`|
 |911. Online Election|[p911](./src/lc/p911.rs)|`Vec`,`HashMap`,`binary_search`,`match`|
+|917. Number Of Ways To Reconstruct A Tree|[p917](./src/lc/p917.rs)|`Vec.swap`|
 |935. Knight Dialer|[p935](./src/lc/p935.rs)|`Vec`|
 |969. Pancake Sorting|[p969](./src/lc/p969.rs)|`Vec`,`Slice`|
 |997. Find the Town Judge|[p997](./src/lc/p997.rs)|`Vec`|
