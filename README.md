@@ -175,6 +175,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1631. Path With Minimum Effort|[p1631](./src/lc/p1631.rs)|`Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple`|
 |1688. Count of Matches in Tournament|[p1688](./src/lc/p1688.rs)||
 |1705. Maximum Number of Eaten Apples|[p1705](./src/lc/p1705.rs)|`Vec`,`Reverse`|
+|1706. Where Will the Ball Fall|[p1706](./src/lc/p1706.rs)|`Vec`|
 |1716. Calculate Money in Leetcode Bank|[p1716](./src/lc/p1716.rs)||
 |1725. Number Of Rectangles That Can Form The Largest Square|[p1725](./src/lc/p1725.rs)|`Vec`|
 |1748. Sum of Unique Elements|[p1748](./src/lc/p1748.rs)|`Vec`|
