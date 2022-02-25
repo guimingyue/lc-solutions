@@ -191,6 +191,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |2000. Reverse Prefix of Word|[p2000](./src/lc/p2000.rs)||
 |2006. Count Number of Pairs With Absolute Difference K|[p2006](./src/lc/p2006.rs)||
 |2013. Detect Squares|[p2013](./src/lc/p2013.rs)|`HashMap`|
+|2016. Maximum Difference Between Increasing Elements|[p2016](./src/lc/p2016.rs)|`Vec`|
 |2022. Convert 1D Array Into 2D Array|[p2022](./src/lc/p2022.rs)|`Vec`|
 |2029. Stone Game IX|[p2022](./src/lc/p2029.rs)|`Vec`|
 |2034. Stock Price Fluctuation|[p2034](./src/lc/p2034.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
