@@ -114,6 +114,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |518. Coin Change 2|[p518](./src/lc/p518.rs)|`Vec`|
 |519. Random Flip Matrix|[p519](./src/lc/p519.rs)|`Vec`,`rand`|
 |520. Detect Capital|[p520](./src/lc/p520.rs)|`String`|
+|537. Complex Number Multiplication|[p537](./src/lc/p537.rs)|`String.split`|
 |539. Minimum Time Difference|[p539](./src/lc/p539.rs)|`Vec`|
 |540. Single Element in a Sorted Array|[p540](./src/lc/p540.rs)||
 |563. Binary Tree Tilt|[p563](./src/lc/p563.rs)|`Option`,`Rc`,`RefCell`,`abs`|
