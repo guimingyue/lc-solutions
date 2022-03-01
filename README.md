@@ -170,6 +170,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1446. Simplified Fractions|[p1447](./src/lc/p1447.rs)|`format!`|
 |1518. Water Bottles|[p1518](./src/lc/p1518.rs)||
 |1576. Replace All ?'s to Avoid Consecutive Repeating Characters|[p1576](./src/lc/p1576.rs)||
+|1601. Maximum Number of Achievable Transfer Requests|[p1601](./src/lc/p1601.rs)|`count_ones`,`iter.find`|
 |1609. Even Odd Tree|[p1609](./src/lc/p1609.rs)|`Rc`,`RefCell`,`Vec`|
 |1610. Maximum Number of Visible Points|[p1610](./src/lc/p1610.rs)|`Vec`,`sort_by`,`std::f64::consts::PI`,`partial_cmp`,`atan2`|
 |1614. Maximum Nesting Depth of the Parentheses|[p1614](./src/lc/p1614.rs)|`Vec(stack)`|
