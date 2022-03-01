@@ -192,5 +192,6 @@ pub mod p537;
 pub mod p2016;
 pub mod p553;
 pub mod p1601;
+pub mod p6;
 
 pub struct Solution {}

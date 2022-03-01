@@ -15,6 +15,7 @@ The following table is the link for problem solutions with realted Rust topics o
 ### Problems from leetcode
 |Problem|Solution|Related Rust keywords|
 |-------|---------|---------|
+|6. ZigZag Conversion|[p6](./src/lc/p6.rs)|`String`|
 |9. Palindrome Number|[p9](./src/lc/p9/Solution.rs)|`i32`,`if`,`while`|
 |13. Roman to Integer|[p13](./src/lc/p13/Solution.rs)|`Pattern`,`for`,`Option`,`String`,`Reference`|
 |19. Remove Nth Node From End of List|[p19](./src/lc/p19/Solution.rs)|`Option`,`Reference`|
