@@ -120,6 +120,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |540. Single Element in a Sorted Array|[p540](./src/lc/p540.rs)||
 |553. Optimal Division|[p553](./src/lc/p553.rs)|`format!`|
 |563. Binary Tree Tilt|[p563](./src/lc/p563.rs)|`Option`,`Rc`,`RefCell`,`abs`|
+|564. Find the Closest Palindrome|[p564](./src/lc/p564.rs)|`FromStr`,`Vec.extend`,`Vec.extend_from_slice`|
 |575. Distribute Candies|[p575](./src/lc/p575.rs)|`HashMap`,`std::cmp::min`|
 |594. Longest Harmonious Subsequence|[p594](./src/lc/p594.rs)|`BTreeMap`,`max`|
 |598. Range Addition II|[p598](./src/lc/p598.rs)|`Vec`,`min`|
