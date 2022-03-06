@@ -115,6 +115,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |518. Coin Change 2|[p518](./src/lc/p518.rs)|`Vec`|
 |519. Random Flip Matrix|[p519](./src/lc/p519.rs)|`Vec`,`rand`|
 |520. Detect Capital|[p520](./src/lc/p520.rs)|`String`|
+|521. Longest Uncommon Subsequence I|[p521](./src/lc/p521.rs)||
 |537. Complex Number Multiplication|[p537](./src/lc/p537.rs)|`String.split`|
 |539. Minimum Time Difference|[p539](./src/lc/p539.rs)|`Vec`|
 |540. Single Element in a Sorted Array|[p540](./src/lc/p540.rs)||
@@ -200,6 +201,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |2029. Stone Game IX|[p2022](./src/lc/p2029.rs)|`Vec`|
 |2034. Stock Price Fluctuation|[p2034](./src/lc/p2034.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
 |2034. Number of Valid Words in a Sentence|[p2047](./src/lc/p2047.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
+|2100. Find Good Days to Rob the Bank|[p2100](./src/lc/p2100.rs)|`Vec`|
+|2104. Sum of Subarray Ranges|[p2104](./src/lc/p2104.rs)||
 
 ### 《剑指 Offer》题目
 |Problem|Solution|Related Rust keywords|
