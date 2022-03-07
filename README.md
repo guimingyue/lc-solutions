@@ -110,6 +110,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |495. Teemo Attacking|[p495](./src/lc/p495.rs)|`Vec`|
 |496. Next Greater Element I|[p496](./src/lc/p496.rs)|`HashMap`,`Vec`|
 |500. Keyboard Row|[p500](./src/lc/p500.rs)|`Vec`,`String`,`const`|
+|504. Base 7|[p504](./src/lc/p504.rs)|`Vec.reverse`|
 |506. Relative Ranks|[p506](./src/lc/p506.rs)|`Vec`,`binary_search_by`,`sort_by`,`HashMap`|
 |507. Perfect Number|[p507](./src/lc/p507.rs)|`sqrt`|
 |518. Coin Change 2|[p518](./src/lc/p518.rs)|`Vec`|
