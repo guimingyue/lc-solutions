@@ -202,6 +202,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |2029. Stone Game IX|[p2022](./src/lc/p2029.rs)|`Vec`|
 |2034. Stock Price Fluctuation|[p2034](./src/lc/p2034.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
 |2034. Number of Valid Words in a Sentence|[p2047](./src/lc/p2047.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
+|2055. Plates Between Candles|[p2055](./src/lc/p2055.rs)|`Vec.binary_search`|
 |2100. Find Good Days to Rob the Bank|[p2100](./src/lc/p2100.rs)|`Vec`|
 |2104. Sum of Subarray Ranges|[p2104](./src/lc/p2104.rs)||
 
