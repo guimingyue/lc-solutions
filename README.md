@@ -87,6 +87,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |383. Ransom Note|[p383](./src/lc/p383.rs)|`Vec`|
 |384. Shuffle an Array|[p384](./src/lc/p384.rs)|`Vec`,`clone`,`rand`|
 |390. Elimination Game|[p390](./src/lc/p390.rs)|`match`|
+|393. UTF-8 Validation|[p393](./src/lc/p393.rs)|`Vec`|
 |397. Integer Replacement|[p397](./src/lc/p397.rs)|`min`|
 |391. Perfect Rectangle|[p391](./src/lc/p391.rs)|`HashMap`,`unwrap_or`,`struct`|
 |400. Nth Digit|[p400](./src/lc/p400.rs)|`pow`|
@@ -139,6 +140,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |748. Shortest Completing Word|[p748](./src/lc/p748.rs)|`Vec`,`match`|
 |786. K-th Smallest Prime Fraction|[p786](./src/lc/p786.rs)|`sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse`|
 |794. Valid Tic-Tac-Toe State|[p794](./src/lc/p794.rs)|`Vec`|
+|798. Smallest Rotation with Highest Score|[p798](./src/lc/p798.rs)|`Vec`|
 |807. Max Increase to Keep City Skyline|[p807](./src/lc/p807.rs)|`Vec`|
 |825. Friends Of Appropriate Ages|[p825](./src/lc/p825.rs)|`Vec`|
 |838. Push Dominoes|[p838](./src/lc/p838.rs)|`Vec`|
@@ -202,6 +204,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |2029. Stone Game IX|[p2022](./src/lc/p2029.rs)|`Vec`|
 |2034. Stock Price Fluctuation|[p2034](./src/lc/p2034.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
 |2034. Number of Valid Words in a Sentence|[p2047](./src/lc/p2047.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
+|2049. Count Nodes With the Highest Score|[p2049](./src/lc/p2049.rs)|`BTreeMap`,`HashMap`,`VecDeque`|
 |2055. Plates Between Candles|[p2055](./src/lc/p2055.rs)|`Vec.binary_search`|
 |2100. Find Good Days to Rob the Bank|[p2100](./src/lc/p2100.rs)|`Vec`|
 |2104. Sum of Subarray Ranges|[p2104](./src/lc/p2104.rs)||
