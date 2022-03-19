@@ -127,6 +127,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |575. Distribute Candies|[p575](./src/lc/p575.rs)|`HashMap`,`std::cmp::min`|
 |594. Longest Harmonious Subsequence|[p594](./src/lc/p594.rs)|`BTreeMap`,`max`|
 |598. Range Addition II|[p598](./src/lc/p598.rs)|`Vec`,`min`|
+|606. Construct String from Binary Tree|[p606](./src/lc/p606.rs)|`Rc`,`RefCell`|
 |629. K Inverse Pairs Array|[p629](./src/lc/p629.rs)|`Vec`|
 |630. Course Schedule III|[p630](./src/lc/p630.rs)|`Vec`,`sort_by`,`BinaryHeap`|
 |638. Shopping Offers|[p638](./src/lc/p638.rs)|`Vec`,`Reference`,`std::cmp::min`|
@@ -136,6 +137,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |700. Search in a Binary Search Tree|[p700](./src/lc/p700.rs)|`Rc`,`RefCell`,`Option`|
 |709. To Lower Case|[p709](./src/lc/p709.rs)|`match`|
 |717. 1-bit and 2-bit Characters|[p717](./src/lc/p717.rs)||
+|720. Longest Word in Dictionary|[p720](./src/lc/p720.rs)|`HashSet`,`String.gt`|
 |747. Largest Number At Least Twice of Others|[p747](./src/lc/p747.rs)|`Vec`|
 |748. Shortest Completing Word|[p748](./src/lc/p748.rs)|`Vec`,`match`|
 |786. K-th Smallest Prime Fraction|[p786](./src/lc/p786.rs)|`sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse`|
@@ -203,7 +205,9 @@ The following table is the link for problem solutions with realted Rust topics o
 |2022. Convert 1D Array Into 2D Array|[p2022](./src/lc/p2022.rs)|`Vec`|
 |2029. Stone Game IX|[p2022](./src/lc/p2029.rs)|`Vec`|
 |2034. Stock Price Fluctuation|[p2034](./src/lc/p2034.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
-|2034. Number of Valid Words in a Sentence|[p2047](./src/lc/p2047.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
+|2043. Simple Bank System|[p2043](./src/lc/p2043.rs)||
+|2044. Count Number of Maximum Bitwise-OR Subsets|[p2044](./src/lc/p2044.rs)|`HashMap`,`HashSet`|
+|2047. Number of Valid Words in a Sentence|[p2047](./src/lc/p2047.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
 |2049. Count Nodes With the Highest Score|[p2049](./src/lc/p2049.rs)|`BTreeMap`,`HashMap`,`VecDeque`|
 |2055. Plates Between Candles|[p2055](./src/lc/p2055.rs)|`Vec.binary_search`|
 |2100. Find Good Days to Rob the Bank|[p2100](./src/lc/p2100.rs)|`Vec`|
