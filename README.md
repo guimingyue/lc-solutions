@@ -205,6 +205,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |2022. Convert 1D Array Into 2D Array|[p2022](./src/lc/p2022.rs)|`Vec`|
 |2029. Stone Game IX|[p2022](./src/lc/p2029.rs)|`Vec`|
 |2034. Stock Price Fluctuation|[p2034](./src/lc/p2034.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
+|2039. The Time When the Network Becomes Idle|[p2039](./src/lc/p2039.rs)|`VecDeque`|
 |2043. Simple Bank System|[p2043](./src/lc/p2043.rs)||
 |2044. Count Number of Maximum Bitwise-OR Subsets|[p2044](./src/lc/p2044.rs)|`HashMap`,`HashSet`|
 |2047. Number of Valid Words in a Sentence|[p2047](./src/lc/p2047.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
