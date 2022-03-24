@@ -99,6 +99,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |423. Reconstruct Original Digits from English|[p423](./src/lc/p423.rs)|`HashMap`,`Array`|
 |434. Number of Segments in a String|[p434](./src/lc/p434/Solution.rs)|`String`|
 |438. Find All Anagrams in a String|[p438](./src/lc/p438.rs)|`HashMap`,`Vec`|
+|440. K-th Smallest in Lexicographical Order|[p440](./src/lc/p440.rs)||
 |441. Arranging Coins|[p441](./src/lc/p441/Solution.rs)|`as`|
 |453. Minimum Moves to Equal Array Elements|[p453](./src/lc/p453.rs)|`Vec`|
 |458. Poor Pigs|[p458](./src/lc/p458.rs)|`log2`,`ceil`|
@@ -131,6 +132,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |629. K Inverse Pairs Array|[p629](./src/lc/p629.rs)|`Vec`|
 |630. Course Schedule III|[p630](./src/lc/p630.rs)|`Vec`,`sort_by`,`BinaryHeap`|
 |638. Shopping Offers|[p638](./src/lc/p638.rs)|`Vec`,`Reference`,`std::cmp::min`|
+|661. Image Smoother|[p661](./src/lc/p661.rs)|`const`|
 |677. Map Sum Pairs|[p677](./src/lc/p677.rs)|`HashMap`,`PartialEq`,`Eq`,`Default`|
 |686. Repeated String Match|[p686](./src/lc/p686.rs)|`String`,`contains`|
 |689. Maximum Sum of 3 Non-Overlapping Subarrays|[p689](./src/lc/p689.rs)|`Vec`|
@@ -205,6 +207,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |2022. Convert 1D Array Into 2D Array|[p2022](./src/lc/p2022.rs)|`Vec`|
 |2029. Stone Game IX|[p2022](./src/lc/p2029.rs)|`Vec`|
 |2034. Stock Price Fluctuation|[p2034](./src/lc/p2034.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
+|2038. Remove Colored Pieces if Both Neighbors are the Same Color|[p2038](./src/lc/p2038.rs)||
 |2039. The Time When the Network Becomes Idle|[p2039](./src/lc/p2039.rs)|`VecDeque`|
 |2043. Simple Bank System|[p2043](./src/lc/p2043.rs)||
 |2044. Count Number of Maximum Bitwise-OR Subsets|[p2044](./src/lc/p2044.rs)|`HashMap`,`HashSet`|
