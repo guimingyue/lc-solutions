@@ -134,6 +134,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |638. Shopping Offers|[p638](./src/lc/p638.rs)|`Vec`,`Reference`,`std::cmp::min`|
 |661. Image Smoother|[p661](./src/lc/p661.rs)|`const`|
 |677. Map Sum Pairs|[p677](./src/lc/p677.rs)|`HashMap`,`PartialEq`,`Eq`,`Default`|
+|686. Baseball Game|[p682](./src/lc/p682.rs)||
 |686. Repeated String Match|[p686](./src/lc/p686.rs)|`String`,`contains`|
 |689. Maximum Sum of 3 Non-Overlapping Subarrays|[p689](./src/lc/p689.rs)|`Vec`|
 |700. Search in a Binary Search Tree|[p700](./src/lc/p700.rs)|`Rc`,`RefCell`,`Option`|
