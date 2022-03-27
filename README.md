@@ -206,6 +206,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |2013. Detect Squares|[p2013](./src/lc/p2013.rs)|`HashMap`|
 |2016. Maximum Difference Between Increasing Elements|[p2016](./src/lc/p2016.rs)|`Vec`|
 |2022. Convert 1D Array Into 2D Array|[p2022](./src/lc/p2022.rs)|`Vec`|
+|2028. Find Missing Observations|[p2028](./src/lc/p2028.rs)|`Vec`|
 |2029. Stone Game IX|[p2022](./src/lc/p2029.rs)|`Vec`|
 |2034. Stock Price Fluctuation|[p2034](./src/lc/p2034.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
 |2038. Remove Colored Pieces if Both Neighbors are the Same Color|[p2038](./src/lc/p2038.rs)||
