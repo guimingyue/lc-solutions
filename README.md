@@ -137,6 +137,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |686. Baseball Game|[p682](./src/lc/p682.rs)||
 |686. Repeated String Match|[p686](./src/lc/p686.rs)|`String`,`contains`|
 |689. Maximum Sum of 3 Non-Overlapping Subarrays|[p689](./src/lc/p689.rs)|`Vec`|
+|693. Binary Number with Alternating Bits|[p693](./src/lc/p693.rs)|`>>`|
 |700. Search in a Binary Search Tree|[p700](./src/lc/p700.rs)|`Rc`,`RefCell`,`Option`|
 |709. To Lower Case|[p709](./src/lc/p709.rs)|`match`|
 |717. 1-bit and 2-bit Characters|[p717](./src/lc/p717.rs)||
