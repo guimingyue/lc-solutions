@@ -214,5 +214,10 @@ pub mod p2038;
 pub mod p682;
 pub mod p2028;
 pub mod p693;
+pub mod p2024;
+pub mod p1004;
+pub mod p728;
+pub mod p954;
+pub mod p744;
 
 pub struct Solution {}

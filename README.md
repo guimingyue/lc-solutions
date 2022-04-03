@@ -142,6 +142,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |709. To Lower Case|[p709](./src/lc/p709.rs)|`match`|
 |717. 1-bit and 2-bit Characters|[p717](./src/lc/p717.rs)||
 |720. Longest Word in Dictionary|[p720](./src/lc/p720.rs)|`HashSet`,`String.gt`|
+|728. Self Dividing Numbers|[p728](./src/lc/p728.rs)|`HashSet`,`String.gt`|
+|744. Find Smallest Letter Greater Than Target|[p744](./src/lc/p744.rs)||
 |747. Largest Number At Least Twice of Others|[p747](./src/lc/p747.rs)|`Vec`|
 |748. Shortest Completing Word|[p748](./src/lc/p748.rs)|`Vec`,`match`|
 |786. K-th Smallest Prime Fraction|[p786](./src/lc/p786.rs)|`sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse`|
@@ -159,8 +161,10 @@ The following table is the link for problem solutions with realted Rust topics o
 |911. Online Election|[p911](./src/lc/p911.rs)|`Vec`,`HashMap`,`binary_search`,`match`|
 |917. Number Of Ways To Reconstruct A Tree|[p917](./src/lc/p917.rs)|`Vec.swap`|
 |935. Knight Dialer|[p935](./src/lc/p935.rs)|`Vec`|
+|954. Array of Doubled Pairs|[p954](./src/lc/p954.rs)|`HashMap`|
 |969. Pancake Sorting|[p969](./src/lc/p969.rs)|`Vec`,`Slice`|
 |997. Find the Town Judge|[p997](./src/lc/p997.rs)|`Vec`|
+|1004. Max Consecutive Ones III|[p1004](./src/lc/p1004.rs)||
 |1005. Maximize Sum Of Array After K Negations|[p1005](./src/lc/p1005.rs)|`Vec`,`sort`,`binary_search`,`min`|
 |1009. Complement of Base 10 Integer|[p1009](./src/lc/p1009.rs)|`>>`,`<<`|
 |1020. Number of Enclaves|[p1020](./src/lc/p1020.rs)|`Vec`|
@@ -207,6 +211,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |2013. Detect Squares|[p2013](./src/lc/p2013.rs)|`HashMap`|
 |2016. Maximum Difference Between Increasing Elements|[p2016](./src/lc/p2016.rs)|`Vec`|
 |2022. Convert 1D Array Into 2D Array|[p2022](./src/lc/p2022.rs)|`Vec`|
+|2024. Maximize the Confusion of an Exam|[p204](./src/lc/p2024.rs)|``|
 |2028. Find Missing Observations|[p2028](./src/lc/p2028.rs)|`Vec`|
 |2029. Stone Game IX|[p2022](./src/lc/p2029.rs)|`Vec`|
 |2034. Stock Price Fluctuation|[p2034](./src/lc/p2034.rs)|`BinaryHeap`,`HashMap`,`Reverse`|
