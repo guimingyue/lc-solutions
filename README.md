@@ -147,6 +147,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |744. Find Smallest Letter Greater Than Target|[p744](./src/lc/p744.rs)||
 |747. Largest Number At Least Twice of Others|[p747](./src/lc/p747.rs)|`Vec`|
 |748. Shortest Completing Word|[p748](./src/lc/p748.rs)|`Vec`,`match`|
+|762. Prime Number of Set Bits in Binary Representation|[p762](./src/lc/p762.rs)||
 |786. K-th Smallest Prime Fraction|[p786](./src/lc/p786.rs)|`sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse`|
 |794. Valid Tic-Tac-Toe State|[p794](./src/lc/p794.rs)|`Vec`|
 |798. Smallest Rotation with Highest Score|[p798](./src/lc/p798.rs)|`Vec`|

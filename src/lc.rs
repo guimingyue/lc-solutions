@@ -220,5 +220,6 @@ pub mod p728;
 pub mod p954;
 pub mod p744;
 pub mod p307;
+pub mod p762;
 
 pub struct Solution {}
