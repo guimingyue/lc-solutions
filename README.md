@@ -72,6 +72,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |301. Remove Invalid Parentheses|[p301](./src/lc/p301.rs)|`Tuple`,`String`,`HashSet`|
 |306. Additive Number|[p306](./src/lc/p306.rs)|`String`,`char`,`Slice`|
 |307. Range Sum Query - Mutable|[p307](./src/lc/p307.rs)||
+|310. Minimum Height Trees|[p310](./src/lc/p310.rs)|`HashMap`|
 |318. Maximum Product of Word Lengths|[p318](./src/lc/p318.rs)|`Vec`,`String`|
 |319. Bulb Switcher|[p319](./src/lc/p319.rs)|`sqrt`|
 |322. Coin Change|[p322](./src/lc/p322.rs)|`Vec`|
@@ -148,8 +149,10 @@ The following table is the link for problem solutions with realted Rust topics o
 |747. Largest Number At Least Twice of Others|[p747](./src/lc/p747.rs)|`Vec`|
 |748. Shortest Completing Word|[p748](./src/lc/p748.rs)|`Vec`,`match`|
 |762. Prime Number of Set Bits in Binary Representation|[p762](./src/lc/p762.rs)||
+|780. Reaching Points|[p780](./src/lc/p780.rs)||
 |786. K-th Smallest Prime Fraction|[p786](./src/lc/p786.rs)|`sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse`|
 |794. Valid Tic-Tac-Toe State|[p794](./src/lc/p794.rs)|`Vec`|
+|796. Rotate String|[p796](./src/lc/p796.rs)||
 |798. Smallest Rotation with Highest Score|[p798](./src/lc/p798.rs)|`Vec`|
 |807. Max Increase to Keep City Skyline|[p807](./src/lc/p807.rs)|`Vec`|
 |825. Friends Of Appropriate Ages|[p825](./src/lc/p825.rs)|`Vec`|
