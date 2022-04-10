@@ -154,6 +154,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |794. Valid Tic-Tac-Toe State|[p794](./src/lc/p794.rs)|`Vec`|
 |796. Rotate String|[p796](./src/lc/p796.rs)||
 |798. Smallest Rotation with Highest Score|[p798](./src/lc/p798.rs)|`Vec`|
+|804. Unique Morse Code Words|[p804](./src/lc/p804.rs)|`HashSet`|
 |807. Max Increase to Keep City Skyline|[p807](./src/lc/p807.rs)|`Vec`|
 |825. Friends Of Appropriate Ages|[p825](./src/lc/p825.rs)|`Vec`|
 |838. Push Dominoes|[p838](./src/lc/p838.rs)|`Vec`|
