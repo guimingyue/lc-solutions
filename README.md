@@ -88,6 +88,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |382. Linked List Random Node|[p382](./src/lc/p382.rs)|`Box`,`rand`|
 |383. Ransom Note|[p383](./src/lc/p383.rs)|`Vec`|
 |384. Shuffle an Array|[p384](./src/lc/p384.rs)|`Vec`,`clone`,`rand`|
+|385. Mini Parser|[p385](./src/lc/p385.rs)||
 |390. Elimination Game|[p390](./src/lc/p390.rs)|`match`|
 |393. UTF-8 Validation|[p393](./src/lc/p393.rs)|`Vec`|
 |397. Integer Replacement|[p397](./src/lc/p397.rs)|`min`|
@@ -155,6 +156,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |796. Rotate String|[p796](./src/lc/p796.rs)||
 |798. Smallest Rotation with Highest Score|[p798](./src/lc/p798.rs)|`Vec`|
 |804. Unique Morse Code Words|[p804](./src/lc/p804.rs)|`HashSet`|
+|806. Number of Lines To Write String|[p806](./src/lc/p806.rs)||
 |807. Max Increase to Keep City Skyline|[p807](./src/lc/p807.rs)|`Vec`|
 |825. Friends Of Appropriate Ages|[p825](./src/lc/p825.rs)|`Vec`|
 |838. Push Dominoes|[p838](./src/lc/p838.rs)|`Vec`|
@@ -198,6 +200,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1614. Maximum Nesting Depth of the Parentheses|[p1614](./src/lc/p1614.rs)|`Vec(stack)`|
 |1629. Slowest Key|[p1629](./src/lc/p1629.rs)|`Vec`,`String`|
 |1631. Path With Minimum Effort|[p1631](./src/lc/p1631.rs)|`Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple`|
+|1672. Richest Customer Wealth|[p1672](./src/lc/p1672.rs)|`Iter.map`,`Iter.sum`,`Iter.max`|
 |1688. Count of Matches in Tournament|[p1688](./src/lc/p1688.rs)||
 |1705. Maximum Number of Eaten Apples|[p1705](./src/lc/p1705.rs)|`Vec`,`Reverse`|
 |1706. Where Will the Ball Fall|[p1706](./src/lc/p1706.rs)|`Vec`|
