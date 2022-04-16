@@ -109,6 +109,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |461. Hamming Distance|[p461](./src/lc/p461.rs)|`count_ones1,`^`|
 |475. Heaters|[p475](./src/lc/p475.rs)|`Vec`|
 |476. Number Complement|[p476](./src/lc/p476.rs)|`>>`,`<<`|
+|479. Largest Palindrome Product|[p479](./src/lc/p479.rs)|`pow`|
 |482. License Key Formatting|[p482](./src/lc/p482/Solution.rs)|`String`,`slice`|
 |488. Zuma Game|[p488](./src/lc/p488.rs)|`HashSet`|
 |492. Construct the Rectangle|[p492](./src/lc/p492.rs)|`sqrt`,`Vec`|
