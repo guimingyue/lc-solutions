@@ -159,6 +159,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |804. Unique Morse Code Words|[p804](./src/lc/p804.rs)|`HashSet`|
 |806. Number of Lines To Write String|[p806](./src/lc/p806.rs)||
 |807. Max Increase to Keep City Skyline|[p807](./src/lc/p807.rs)|`Vec`|
+|819. Most Common Word|[p819](./src/lc/p819.rs)|`HashMap`|
 |825. Friends Of Appropriate Ages|[p825](./src/lc/p825.rs)|`Vec`|
 |838. Push Dominoes|[p838](./src/lc/p838.rs)|`Vec`|
 |846. Hand of Straights|[p846](./src/lc/p846.rs)|`BTreeMap`,`VecDeque`,`FromIterator`|
