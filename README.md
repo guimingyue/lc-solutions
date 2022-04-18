@@ -89,6 +89,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |383. Ransom Note|[p383](./src/lc/p383.rs)|`Vec`|
 |384. Shuffle an Array|[p384](./src/lc/p384.rs)|`Vec`,`clone`,`rand`|
 |385. Mini Parser|[p385](./src/lc/p385.rs)||
+|386. Lexicographical Numbers|[p386](./src/lc/p386.rs)||
 |390. Elimination Game|[p390](./src/lc/p390.rs)|`match`|
 |393. UTF-8 Validation|[p393](./src/lc/p393.rs)|`Vec`|
 |397. Integer Replacement|[p397](./src/lc/p397.rs)|`min`|
