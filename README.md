@@ -93,6 +93,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |390. Elimination Game|[p390](./src/lc/p390.rs)|`match`|
 |393. UTF-8 Validation|[p393](./src/lc/p393.rs)|`Vec`|
 |397. Integer Replacement|[p397](./src/lc/p397.rs)|`min`|
+|398. Random Pick Index|[p398](./src/lc/p398.rs)|`HashMap`|
 |391. Perfect Rectangle|[p391](./src/lc/p391.rs)|`HashMap`,`unwrap_or`,`struct`|
 |400. Nth Digit|[p400](./src/lc/p400.rs)|`pow`|
 |405. Convert a Number to Hexadecimal|[p405](./src/lc/p405/Solution.rs)|`String`,`Range`,`char`|
@@ -167,6 +168,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |851. Loud and Rich|[p851](./src/lc/p851.rs)|`Vec`|
 |852. Peak Index in a Mountain Array|[p852](./src/lc/p852.rs)|`Vec`|
 |859. Buddy Strings|[p859](./src/lc/p859.rs)|`String`|
+|868. Binary Gap|[p868](./src/lc/p868.rs)||
 |869. Reordered Power of 2|[p869](./src/lc/p869.rs)|`HashSet`,`BinaryHeap`,`Reverse`|
 |884. Uncommon Words from Two Sentences|[p884](./src/lc/p884.rs)|`HashMap`,`String`,`split`|
 |911. Online Election|[p911](./src/lc/p911.rs)|`Vec`,`HashMap`,`binary_search`,`match`|
