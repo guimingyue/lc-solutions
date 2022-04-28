@@ -237,5 +237,8 @@ pub mod p824;
 pub mod p396;
 pub mod p868;
 pub mod p398;
+pub mod p883;
+pub mod p417;
+pub mod p905;
 
 pub struct Solution {}
