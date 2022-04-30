@@ -173,6 +173,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |883. Projection Area of 3D Shapes|[p883](./src/lc/p883.rs)|`HashMap`|
 |884. Uncommon Words from Two Sentences|[p884](./src/lc/p884.rs)|`HashMap`,`String`,`split`|
 |905. Sort Array By Parity|[p905](./src/lc/p905.rs)||
+|908. Smallest Range I|[p908](./src/lc/p908.rs)||
 |911. Online Election|[p911](./src/lc/p911.rs)|`Vec`,`HashMap`,`binary_search`,`match`|
 |917. Number Of Ways To Reconstruct A Tree|[p917](./src/lc/p917.rs)|`Vec.swap`|
 |935. Knight Dialer|[p935](./src/lc/p935.rs)|`Vec`|
