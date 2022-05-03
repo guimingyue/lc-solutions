@@ -100,6 +100,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |407. Trapping Rain Water II|[p407](./src/lc/p407.rs)|`Vec`,`BinaryHeap`,`std::cmp::Reverse`,`std::cmp::max`|
 |412. Fizz Buzz|[p412](./src/lc/p412.rs)|`String`, `formate!`|
 |414. Third Maximum Number|[p414](./src/lc/p414/Solution.rs)|`Vec`, `if-let`|
+|417. Pacific Atlantic Water Flow|[p417](./src/lc/p417.rs)||
 |419. Battleships in a Board|[p419](./src/lc/p419.rs)|`Vec`|
 |423. Reconstruct Original Digits from English|[p423](./src/lc/p423.rs)|`HashMap`,`Array`|
 |434. Number of Segments in a String|[p434](./src/lc/p434/Solution.rs)|`String`|
@@ -177,6 +178,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |911. Online Election|[p911](./src/lc/p911.rs)|`Vec`,`HashMap`,`binary_search`,`match`|
 |917. Number Of Ways To Reconstruct A Tree|[p917](./src/lc/p917.rs)|`Vec.swap`|
 |935. Knight Dialer|[p935](./src/lc/p935.rs)|`Vec`|
+|937. Reorder Data in Log Files|[p937](./src/lc/p937.rs)|`Vec`,`sort_by`|
 |954. Array of Doubled Pairs|[p954](./src/lc/p954.rs)|`HashMap`|
 |969. Pancake Sorting|[p969](./src/lc/p969.rs)|`Vec`,`Slice`|
 |997. Find the Town Judge|[p997](./src/lc/p997.rs)|`Vec`|
