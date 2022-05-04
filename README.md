@@ -222,6 +222,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |1780. Check if Number is a Sum of Powers of Three|[p1780](./src/lc/p1780.rs)|`pow`|
 |1791. Find Center of Star Graph|[p1791](./src/lc/p1791.rs)||
 |1816. Truncate Sentence|[p1816](./src/lc/p1816.rs)|`String`|
+|1823. Find the Winner of the Circular Game|[p1823](./src/lc/p1823.rs)||
 |1984. Minimum Difference Between Highest and Lowest of K Scores|[p1984](./src/lc/p1984.rs)|`Vec`|
 |1995. Count Special Quadruplets|[p1995](./src/lc/p1995.rs)|`String`|
 |1996. The Number of Weak Characters in the Game|[p1996](./src/lc/p1996.rs)|`Vec`,`sort_by`|
