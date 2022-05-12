@@ -181,6 +181,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |917. Number Of Ways To Reconstruct A Tree|[p917](./src/lc/p917.rs)|`Vec.swap`|
 |935. Knight Dialer|[p935](./src/lc/p935.rs)|`Vec`|
 |937. Reorder Data in Log Files|[p937](./src/lc/p937.rs)|`Vec`,`sort_by`|
+|942. DI String Match|[p942](./src/lc/p942.rs)||
+|944. Delete Columns to Make Sorted|[p944](./src/lc/p944.rs)||
 |954. Array of Doubled Pairs|[p954](./src/lc/p954.rs)|`HashMap`|
 |969. Pancake Sorting|[p969](./src/lc/p969.rs)|`Vec`,`Slice`|
 |997. Find the Town Judge|[p997](./src/lc/p997.rs)|`Vec`|
