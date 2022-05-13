@@ -249,6 +249,11 @@ The following table is the link for problem solutions with realted Rust topics o
 |2100. Find Good Days to Rob the Bank|[p2100](./src/lc/p2100.rs)|`Vec`|
 |2104. Sum of Subarray Ranges|[p2104](./src/lc/p2104.rs)||
 
+### Cracking the Coding Interview, 6th Edition
+|Problem|Solution|Related Rust keywords|
+|-------|---------|---------|
+|01.05. One Away LCCI|[p0105](./src/interview/p0105.rs)||
+
 ### 《剑指 Offer》题目
 |Problem|Solution|Related Rust keywords|
 |-------|---------|---------|
