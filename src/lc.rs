@@ -249,5 +249,6 @@ pub mod p433;
 pub mod p442;
 pub mod p942;
 pub mod p944;
+pub mod p812;
 
 pub struct Solution {}
