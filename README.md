@@ -112,6 +112,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 453. Minimum Moves to Equal Array Elements                        | [p453](./src/lc/p453.rs)            | `Vec`                                                           |
 | 458. Poor Pigs                                                    | [p458](./src/lc/p458.rs)            | `log2`,`ceil`                                                   |
 | 461. Hamming Distance                                             | [p461](./src/lc/p461.rs)            | `count_ones1,`^`                                                |
+| 462. Minimum Moves to Equal Array Elements II                     | [p462](./src/lc/p42.rs)             | |
 | 475. Heaters                                                      | [p475](./src/lc/p475.rs)            | `Vec`                                                           |
 | 476. Number Complement                                            | [p476](./src/lc/p476.rs)            | `>>`,`<<`                                                       |
 | 479. Largest Palindrome Product                                   | [p479](./src/lc/p479.rs)            | `pow`                                                           |
@@ -142,6 +143,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 630. Course Schedule III                                          | [p630](./src/lc/p630.rs)            | `Vec`,`sort_by`,`BinaryHeap`                                    |
 | 638. Shopping Offers                                              | [p638](./src/lc/p638.rs)            | `Vec`,`Reference`,`std::cmp::min`                               |
 | 661. Image Smoother                                               | [p661](./src/lc/p661.rs)            | `const`                                                         |
+| 668. Kth Smallest Number in Multiplication Table                  | [p668](./src/lc/p668.rs)            |                                                         |
 | 677. Map Sum Pairs                                                | [p677](./src/lc/p677.rs)            | `HashMap`,`PartialEq`,`Eq`,`Default`                            |
 | 686. Baseball Game                                                | [p682](./src/lc/p682.rs)            ||
 | 686. Repeated String Match                                        | [p686](./src/lc/p686.rs)            | `String`,`contains`                                             |
@@ -184,6 +186,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 937. Reorder Data in Log Files                                    | [p937](./src/lc/p937.rs)            | `Vec`,`sort_by`                                                 |
 | 942. DI String Match                                              | [p942](./src/lc/p942.rs)            ||
 | 944. Delete Columns to Make Sorted                                | [p944](./src/lc/p944.rs)            ||
+| 953. Verifying an Alien Dictionary                                | [p953](./src/lc/p953.rs)            | `HashMap`                                                       |
 | 954. Array of Doubled Pairs                                       | [p954](./src/lc/p954.rs)            | `HashMap`                                                       |
 | 969. Pancake Sorting                                              | [p969](./src/lc/p969.rs)            | `Vec`,`Slice`                                                   |
 | 997. Find the Town Judge                                          | [p997](./src/lc/p997.rs)            | `Vec`                                                           |
