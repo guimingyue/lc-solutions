@@ -105,6 +105,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 423. Reconstruct Original Digits from English                     | [p423](./src/lc/p423.rs)            | `HashMap`,`Array`                                               |
 | 433. Minimum Genetic Mutation                                     | [p433](./src/lc/p433.rs)            ||
 | 434. Number of Segments in a String                               | [p434](./src/lc/p434/Solution.rs)   | `String`                                                        |
+| 436. Find Right Interval                                          | [p434](./src/lc/p436.rs)            | `sort_by`                                                        |
 | 438. Find All Anagrams in a String                                | [p438](./src/lc/p438.rs)            | `HashMap`,`Vec`                                                 |
 | 440. K-th Smallest in Lexicographical Order                       | [p440](./src/lc/p440.rs)            ||
 | 441. Arranging Coins                                              | [p441](./src/lc/p441/Solution.rs)   | `as`                                                            |
@@ -188,6 +189,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 944. Delete Columns to Make Sorted                                | [p944](./src/lc/p944.rs)            ||
 | 953. Verifying an Alien Dictionary                                | [p953](./src/lc/p953.rs)            | `HashMap`                                                       |
 | 954. Array of Doubled Pairs                                       | [p954](./src/lc/p954.rs)            | `HashMap`                                                       |
+| 961. N-Repeated Element in Size 2N Array                          | [p961](./src/lc/p961.rs)            |                                                    |
 | 969. Pancake Sorting                                              | [p969](./src/lc/p969.rs)            | `Vec`,`Slice`                                                   |
 | 997. Find the Town Judge                                          | [p997](./src/lc/p997.rs)            | `Vec`                                                           |
 | 1004. Max Consecutive Ones III                                    | [p1004](./src/lc/p1004.rs)          ||
