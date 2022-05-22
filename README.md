@@ -114,6 +114,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 458. Poor Pigs                                                    | [p458](./src/lc/p458.rs)            | `log2`,`ceil`                                                   |
 | 461. Hamming Distance                                             | [p461](./src/lc/p461.rs)            | `count_ones1,`^`                                                |
 | 462. Minimum Moves to Equal Array Elements II                     | [p462](./src/lc/p42.rs)             | |
+| 464. Can I Win                     | [p464](./src/lc/p464.rs)            | `HashMap`|
 | 475. Heaters                                                      | [p475](./src/lc/p475.rs)            | `Vec`                                                           |
 | 476. Number Complement                                            | [p476](./src/lc/p476.rs)            | `>>`,`<<`                                                       |
 | 479. Largest Palindrome Product                                   | [p479](./src/lc/p479.rs)            | `pow`                                                           |
