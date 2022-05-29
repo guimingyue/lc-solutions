@@ -116,6 +116,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 462. Minimum Moves to Equal Array Elements II                     | [p462](./src/lc/p42.rs)             | |
 | 464. Can I Win                                                    | [p464](./src/lc/p464.rs)            | `HashMap`|
 | 467. Unique Substrings in Wraparound String                       | [p467](./src/lc/p467.rs)            | |
+| 468. Validate IP Address                                          | [p468](./src/lc/p468.rs)            |`match` |
 | 475. Heaters                                                      | [p475](./src/lc/p475.rs)            | `Vec`                                              |
 | 476. Number Complement                                            | [p476](./src/lc/p476.rs)            | `>>`,`<<`                                          |
 | 479. Largest Palindrome Product                                   | [p479](./src/lc/p479.rs)            | `pow`                                              |
@@ -200,7 +201,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1005. Maximize Sum Of Array After K Negations                     | [p1005](./src/lc/p1005.rs)          | `Vec`,`sort`,`binary_search`,`min`                 |
 | 1009. Complement of Base 10 Integer                               | [p1009](./src/lc/p1009.rs)          | `>>`,`<<`                                          |
 | 1020. Number of Enclaves                                          | [p1020](./src/lc/p1020.rs)          | `Vec`                                              |
-| 1021. Remove Outermost Parentheses                                          | [p1021](./src/lc/p1021.rs)          |                                                    |
+| 1021. Remove Outermost Parentheses                                | [p1021](./src/lc/p1021.rs)          |                                                    |
 | 1034. Coloring A Border                                           | [p1034](./src/lc/p1034.rs)          | `Vec`                                              |
 | 1078. Occurrences After Bigram                                    | [p1078](./src/lc/p1078.rs)          | `Vec`,`String`,`match-if`                          |
 | 1154. Day of the Year                                             | [p1154](./src/lc/p1154.rs)          | `match`,`match-if`,`const`                         |
