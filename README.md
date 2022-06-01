@@ -117,6 +117,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 464. Can I Win                                                    | [p464](./src/lc/p464.rs)            | `HashMap`|
 | 467. Unique Substrings in Wraparound String                       | [p467](./src/lc/p467.rs)            | |
 | 468. Validate IP Address                                          | [p468](./src/lc/p468.rs)            |`match` |
+| 473. Matchsticks to Square                                                      | [p473](./src/lc/p473.rs)            | `<<`,`!`                                              |
 | 475. Heaters                                                      | [p475](./src/lc/p475.rs)            | `Vec`                                              |
 | 476. Number Complement                                            | [p476](./src/lc/p476.rs)            | `>>`,`<<`                                          |
 | 479. Largest Palindrome Product                                   | [p479](./src/lc/p479.rs)            | `pow`                                              |
