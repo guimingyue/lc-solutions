@@ -4,7 +4,7 @@ LeetCode problem solutions using Rust programming language.
 
 ## Common Util
 
-* [ListNode](./src/lc/common/ListNode.rs)
+* [ListNode](./rust/src/lc/common/ListNode.rs)
   * `new_from(Vec<i32>)` -> Option<Box<ListNode>>: create a linked list from a `Vec<i32>` object. 
   * `to_vec(Option<Box<ListNode>>) -> Vec<i32>`: serialize a linked list to a `Vec<i32>` object
 
@@ -15,261 +15,269 @@ The following table is the link for problem solutions with realted Rust topics o
 ### Problems from leetcode
 | Problem                                                           | Solution                            | Related Rust keywords                            |
 |:------------------------------------------------------------------|-------------------------------------|--------------------------------------------------|
-| 6. ZigZag Conversion                                              | [p6](./src/lc/p6.rs)                | `String`                                         |
-| 9. Palindrome Number                                              | [p9](./src/lc/p9/Solution.rs)       | `i32`,`if`,`while`                               |
-| 13. Roman to Integer                                              | [p13](./src/lc/p13/Solution.rs)     | `Pattern`,`for`,`Option`,`String`,`Reference`    |
-| 19. Remove Nth Node From End of List                              | [p19](./src/lc/p19/Solution.rs)     | `Option`,`Reference`                             |
-| 22. Generate Parentheses                                          | [p22](./src/lc/p22.rs)              | `Vec`,`String`                                   |
-| 29. Divide Two Integers                                           | [p29](./src/lc/p29.rs)              | `i32`                                            |
-| 38. Count and Say                                                 | [p38](./src/lc/p38.rs)              | `String, char`                                   |
-| 42. Trapping Rain Water                                           | [p42](./src/lc/p42.rs)              | `Vec`,`BinaryHeap`,`Reverse`,`max`               |
-| 62. Unique Paths                                                  | [p62](./src/lc/p62.rs)              | `Vec`                                            |
-| 63. Unique Paths II                                               | [p63](./src/lc/p63.rs)              | `Vec`                                            |
-| 64. Minimum Path Sum                                              | [p63](./src/lc/p64.rs)              | `Vec`                                            |
-| 66. Plus One                                                      | [p66](./src/lc/p66/Solution.rs)     | `Vec`,`while`                                    |
-| 67. Add Binary                                                    | [p67](./src/lc/p67/Solution.rs)     | `String`,`Rev`,`Iterator`,`Option`               |
-| 71. Simplify Path                                                 | [p71](./src/lc/p71.rs)              | `Vec`,`String`                                   |
-| 72. Edit Distance                                                 | [p72](./src/lc/p72.rs)              | `Vec`,`String`,`min`                             |
-| 74. Search a 2D Matrix                                            | [p74](./src/lc/p74.rs)              | `Vec`                                            |
-| 75. Sort Colors                                                   | [p75](./src/lc/p75.rs)              | `Vec`                                            |
-| 82. Remove Duplicates from Sorted List II                         | [p82](./src/lc/p82/Solution.rs)     | `Vec`                                            |
-| 83. Remove Duplicates from Sorted List                            | [p83](./src/lc/p83/Solution.rs)     | `mut`, `Reference`,`Option`                      |
-| 88. Merge Sorted Array                                            | [p88](./src/lc/p88.rs)              | `Vec`                                            |
-| 89. Gray Code                                                     | [p89](./src/lc/p89.rs)              | `Vec`                                            |
-| 93. Restore IP Addresses                                          | [p93](./src/lc/p93.rs)              | `Vec`,`parse`                                    |
-| 97. Interleaving String                                           | [p97](./src/lc/p97.rs)              | `Vec`,`String`                                   |
-| 118. Pascal's Triangle                                            | [p118](./src/lc/p118.rs)            | `Vec`                                            |
-| 119. Pascal's Triangle II                                         | [p119](./src/lc/p119.rs)            | `Vec`                                            |
-| 125. Valid Palindrome                                             | [p125](./src/lc/p125/Solution.rs)   | `String`,`Rev`,`Iterator`,`Option`               |
-| 136. Single Number                                                | [p136](./src/lc/p136.rs)            | `Vec`,`^`                                        |
-| 137. Single Number II                                             | [p137](./src/lc/p137.rs)            | `Vec`,`>>`,`<<`                                  |
-| 166. Fraction to Recurring Decimal                                | [p166](./src/lc/p166/Solution.rs)   | `String`,`Vec`,`char`                            |
-| 169. Majority Element                                             | [p169](./src/lc/p169.rs)            | `Vec`,`Iterator`                                 |
-| 172. Factorial Trailing Zeroes                                    | [p172](./src/lc/p172.rs)            ||
-| 187. Repeated DNA Sequences                                       | [p187](./src/lc/p187/Solution.rs)   | `String`,`Vec`,`HashMap`                         |
-| 190. Reverse Bits                                                 | [p190](./src/lc/p190.rs)            | `>>`, `<<`                                       |
-| 191. Number of 1 Bits                                             | [p191](./src/lc/p191.rs)            | `u32`,`i32`                                      |
-| 200. Number of Islands                                            | [p200](./src/lc/p200.rs)            | `Vec`                                            |
-| 201. Bitwise AND of Numbers Range                                 | [p201](./src/lc/p201.rs)            | `>>`,`<<`,`!`                                    |
-| 206. Reverse Linked List                                          | [p206](./src/lc/p206/Solution.rs)   | `Option`,`Box`                                   |
-| 211. Design Add and Search Words Data Structure                   | [p211](./src/lc/p211.rs)            | `Default`,`HashMap`                              |
-| 219. Contains Duplicate II                                        | [p219](./src/lc/p219.rs)            | Vec`                                             |
-| 228. Summary Ranges                                               | [p228](./src/lc/p228.rs)            | `Vec`,`String`                                   |
-| 229. Majority Element II                                          | [p229](./src/lc/p229.rs)            | `Vec`,`Iterator`                                 |
-| 230. Kth Smallest Element in a BST                                | [p230](./src/lc/p230.rs)            | `Rc`,`RefCell`,`Vec`                             |
-| 231. Power of Two                                                 | [p231](./src/lc/p231.rs)            | `&`                                              |
-| 232. Implement Queue using Stacks                                 | [p232](./src/lc/p232.rs)            | `Vec`                                            |
-| 238. Product of Array Except Self                                 | [p238](./src/lc/p238.rs)            | `Vec`                                            |
-| 240. Search a 2D Matrix II                                        | [p240](./src/lc/p240.rs)            | `Vec`                                            |
-| 242. Valid Anagram                                                | [p242](./src/lc/p242.rs)            | `String`                                         |
-| 258. Add Digits                                                   | [p258](./src/lc/p258.rs)            ||
-| 260. Single Number III                                            | [p260](./src/lc/p260.rs)            | `Vec`, `^`, `>>`,`<<`                            |
-| 268. Missing Number                                               | [p268](./src/lc/p268.rs)            | `Vec`                                            |
-| 273. Integer to English Words                                     | [p273](./src/lc/p273/Solution.rs)   | `String`                                         |
-| 282. Expression Add Operators                                     | [p282](./src/lc/p282.rs)            | `Vec`,`String`                                   |
-| 299. Bulls and Cows                                               | [p299](./src/lc/p299.rs)            | `HashMap`,`BTreeSet`,`format!`                   |
-| 300. Longest Increasing Subsequence                               | [p300](./src/lc/p300.rs)            | `Vec`,`max`                                      |
-| 301. Remove Invalid Parentheses                                   | [p301](./src/lc/p301.rs)            | `Tuple`,`String`,`HashSet`                       |
-| 306. Additive Number                                              | [p306](./src/lc/p306.rs)            | `String`,`char`,`Slice`                          |
-| 307. Range Sum Query - Mutable                                    | [p307](./src/lc/p307.rs)            ||
-| 310. Minimum Height Trees                                         | [p310](./src/lc/p310.rs)            | `HashMap`                                        |
-| 318. Maximum Product of Word Lengths                              | [p318](./src/lc/p318.rs)            | `Vec`,`String`                                   |
-| 319. Bulb Switcher                                                | [p319](./src/lc/p319.rs)            | `sqrt`                                           |
-| 322. Coin Change                                                  | [p322](./src/lc/p322.rs)            | `Vec`                                            |
-| 334. Increasing Triplet Subsequence                               | [p334](./src/lc/p334.rs)            | `Vec`                                            |
-| 335. Self Crossing                                                | [p335](./src/lc/p335.rs)            | `Vec`                                            |
-| 352. Data Stream as Disjoint Intervals                            | [p352](./src/lc/p352/Solution.rs)   | `struct`,`Vec`,`method`,`impl`                   |
-| 357. Count Numbers with Unique Digits                             | [p357](./src/lc/p357.rs)            ||
-| 367. Valid Perfect Square                                         | [p367](./src/lc/p367.rs)            | `Vec`                                            |
-| 372. Super Pow                                                    | [p372](./src/lc/p372.rs)            | `Vec`                                            |
-| 373. Find K Pairs with Smallest Sums                              | [p373](./src/lc/p373.rs)            | `Vec`,`BinaryHeap`                               |
-| 374. Guess Number Higher or Lower                                 | [p374](./src/lc/p374.rs)            | `i32`                                            |
-| 375. Guess Number Higher or Lower II                              | [p375](./src/lc/p375.rs)            | `Vec`,`min`,`max`                                |
-| 382. Linked List Random Node                                      | [p382](./src/lc/p382.rs)            | `Box`,`rand`                                     |
-| 383. Ransom Note                                                  | [p383](./src/lc/p383.rs)            | `Vec`                                            |
-| 384. Shuffle an Array                                             | [p384](./src/lc/p384.rs)            | `Vec`,`clone`,`rand`                             |
-| 385. Mini Parser                                                  | [p385](./src/lc/p385.rs)            ||
-| 386. Lexicographical Numbers                                      | [p386](./src/lc/p386.rs)            ||
-| 390. Elimination Game                                             | [p390](./src/lc/p390.rs)            | `match`                                          |
-| 393. UTF-8 Validation                                             | [p393](./src/lc/p393.rs)            | `Vec`                                            |
-| 397. Integer Replacement                                          | [p397](./src/lc/p397.rs)            | `min`                                            |
-| 398. Random Pick Index                                            | [p398](./src/lc/p398.rs)            | `HashMap`                                        |
-| 391. Perfect Rectangle                                            | [p391](./src/lc/p391.rs)            | `HashMap`,`unwrap_or`,`struct`                   |
-| 400. Nth Digit                                                    | [p400](./src/lc/p400.rs)            | `pow`                                            |
-| 405. Convert a Number to Hexadecimal                              | [p405](./src/lc/p405/Solution.rs)   | `String`,`Range`,`char`                          |
-| 407. Trapping Rain Water II                                       | [p407](./src/lc/p407.rs)            | `Vec`,`BinaryHeap`,`std::cmp::Reverse`,`std::cmp::max` |
-| 412. Fizz Buzz                                                    | [p412](./src/lc/p412.rs)            | `String`, `formate!`                             |
-| 414. Third Maximum Number                                         | [p414](./src/lc/p414/Solution.rs)   | `Vec`, `if-let`                                  |
-| 417. Pacific Atlantic Water Flow                                  | [p417](./src/lc/p417.rs)            ||
-| 419. Battleships in a Board                                       | [p419](./src/lc/p419.rs)            | `Vec`                                            |
-| 423. Reconstruct Original Digits from English                     | [p423](./src/lc/p423.rs)            | `HashMap`,`Array`                                |
-| 433. Minimum Genetic Mutation                                     | [p433](./src/lc/p433.rs)            ||
-| 434. Number of Segments in a String                               | [p434](./src/lc/p434/Solution.rs)   | `String`                                         |
-| 436. Find Right Interval                                          | [p434](./src/lc/p436.rs)            | `sort_by`                                         |
-| 438. Find All Anagrams in a String                                | [p438](./src/lc/p438.rs)            | `HashMap`,`Vec`                                  |
-| 440. K-th Smallest in Lexicographical Order                       | [p440](./src/lc/p440.rs)            ||
-| 441. Arranging Coins                                              | [p441](./src/lc/p441/Solution.rs)   | `as`                                             |
-| 442. Find All Duplicates in an Array                              | [p442](./src/lc/p442.rs)            ||
-| 453. Minimum Moves to Equal Array Elements                        | [p453](./src/lc/p453.rs)            | `Vec`                                            |
-| 458. Poor Pigs                                                    | [p458](./src/lc/p458.rs)            | `log2`,`ceil`                                    |
-| 461. Hamming Distance                                             | [p461](./src/lc/p461.rs)            | `count_ones1,`^`                                 |
-| 462. Minimum Moves to Equal Array Elements II                     | [p462](./src/lc/p42.rs)             | |
-| 464. Can I Win                                                    | [p464](./src/lc/p464.rs)            | `HashMap`|
-| 467. Unique Substrings in Wraparound String                       | [p467](./src/lc/p467.rs)            | |
-| 468. Validate IP Address                                          | [p468](./src/lc/p468.rs)            |`match` |
-| 473. Matchsticks to Square                                        | [p473](./src/lc/p473.rs)            | `<<`,`!`                                            |
-| 475. Heaters                                                      | [p475](./src/lc/p475.rs)            | `Vec`                                            |
-| 476. Number Complement                                            | [p476](./src/lc/p476.rs)            | `>>`,`<<`                                        |
-| 479. Largest Palindrome Product                                   | [p479](./src/lc/p479.rs)            | `pow`                                            |
-| 482. License Key Formatting                                       | [p482](./src/lc/p482/Solution.rs)   | `String`,`slice`                                 |
-| 488. Zuma Game                                                    | [p488](./src/lc/p488.rs)            | `HashSet`                                        |
-| 492. Construct the Rectangle                                      | [p492](./src/lc/p492.rs)            | `sqrt`,`Vec`                                     |
-| 495. Teemo Attacking                                              | [p495](./src/lc/p495.rs)            | `Vec`                                            |
-| 496. Next Greater Element I                                       | [p496](./src/lc/p496.rs)            | `HashMap`,`Vec`                                  |
-| 500. Keyboard Row                                                 | [p500](./src/lc/p500.rs)            | `Vec`,`String`,`const`                           |
-| 504. Base 7                                                       | [p504](./src/lc/p504.rs)            | `Vec.reverse`                                    |
-| 506. Relative Ranks                                               | [p506](./src/lc/p506.rs)            | `Vec`,`binary_search_by`,`sort_by`,`HashMap`     |
-| 507. Perfect Number                                               | [p507](./src/lc/p507.rs)            | `sqrt`                                           |
-| 518. Coin Change 2                                                | [p518](./src/lc/p518.rs)            | `Vec`                                            |
-| 519. Random Flip Matrix                                           | [p519](./src/lc/p519.rs)            | `Vec`,`rand`                                     |
-| 520. Detect Capital                                               | [p520](./src/lc/p520.rs)            | `String`                                         |
-| 521. Longest Uncommon Subsequence I                               | [p521](./src/lc/p521.rs)            ||
-| 537. Complex Number Multiplication                                | [p537](./src/lc/p537.rs)            | `String.split`                                   |
-| 539. Minimum Time Difference                                      | [p539](./src/lc/p539.rs)            | `Vec`                                            |
-| 540. Single Element in a Sorted Array                             | [p540](./src/lc/p540.rs)            ||
-| 553. Optimal Division                                             | [p553](./src/lc/p553.rs)            | `format!`                                        |
-| 563. Binary Tree Tilt                                             | [p563](./src/lc/p563.rs)            | `Option`,`Rc`,`RefCell`,`abs`                    |
-| 564. Find the Closest Palindrome                                  | [p564](./src/lc/p564.rs)            | `FromStr`,`Vec.extend`,`Vec.extend_from_slice`   |
-| 575. Distribute Candies                                           | [p575](./src/lc/p575.rs)            | `HashMap`,`std::cmp::min`                        |
-| 594. Longest Harmonious Subsequence                               | [p594](./src/lc/p594.rs)            | `BTreeMap`,`max`                                 |
-| 598. Range Addition II                                            | [p598](./src/lc/p598.rs)            | `Vec`,`min`                                      |
-| 606. Construct String from Binary Tree                            | [p606](./src/lc/p606.rs)            | `Rc`,`RefCell`                                   |
-| 629. K Inverse Pairs Array                                        | [p629](./src/lc/p629.rs)            | `Vec`                                            |
-| 630. Course Schedule III                                          | [p630](./src/lc/p630.rs)            | `Vec`,`sort_by`,`BinaryHeap`                     |
-| 638. Shopping Offers                                              | [p638](./src/lc/p638.rs)            | `Vec`,`Reference`,`std::cmp::min`                |
-| 661. Image Smoother                                               | [p661](./src/lc/p661.rs)            | `const`                                          |
-| 668. Kth Smallest Number in Multiplication Table                  | [p668](./src/lc/p668.rs)            |                                                  |
-| 677. Map Sum Pairs                                                | [p677](./src/lc/p677.rs)            | `HashMap`,`PartialEq`,`Eq`,`Default`             |
-| 686. Baseball Game                                                | [p682](./src/lc/p682.rs)            ||
-| 686. Repeated String Match                                        | [p686](./src/lc/p686.rs)            | `String`,`contains`                              |
-| 689. Maximum Sum of 3 Non-Overlapping Subarrays                   | [p689](./src/lc/p689.rs)            | `Vec`                                            |
-| 693. Binary Number with Alternating Bits                          | [p693](./src/lc/p693.rs)            | `>>`                                             |
-| 699. Falling Squares                                              | [p699](./src/lc/p699.rs)            |                                                  |
-| 700. Search in a Binary Search Tree                               | [p700](./src/lc/p700.rs)            | `Rc`,`RefCell`,`Option`                          |
-| 709. To Lower Case                                                | [p709](./src/lc/p709.rs)            | `match`                                          |
-| 717. 1-bit and 2-bit Characters                                   | [p717](./src/lc/p717.rs)            ||
-| 720. Longest Word in Dictionary                                   | [p720](./src/lc/p720.rs)            | `HashSet`,`String.gt`                            |
-| 728. Self Dividing Numbers                                        | [p728](./src/lc/p728.rs)            | `HashSet`,`String.gt`                            |
-| 744. Find Smallest Letter Greater Than Target                     | [p744](./src/lc/p744.rs)            ||
-| 747. Largest Number At Least Twice of Others                      | [p747](./src/lc/p747.rs)            | `Vec`                                            |
-| 748. Shortest Completing Word                                     | [p748](./src/lc/p748.rs)            | `Vec`,`match`                                    |
-| 762. Prime Number of Set Bits in Binary Representation            | [p762](./src/lc/p762.rs)            ||
-| 780. Reaching Points                                              | [p780](./src/lc/p780.rs)            ||
-| 786. K-th Smallest Prime Fraction                                 | [p786](./src/lc/p786.rs)            | `sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse` |
-| 794. Valid Tic-Tac-Toe State                                      | [p794](./src/lc/p794.rs)            | `Vec`                                            |
-| 796. Rotate String                                                | [p796](./src/lc/p796.rs)            ||
-| 798. Smallest Rotation with Highest Score                         | [p798](./src/lc/p798.rs)            | `Vec`                                            |
-| 804. Unique Morse Code Words                                      | [p804](./src/lc/p804.rs)            | `HashSet`                                        |
-| 806. Number of Lines To Write String                              | [p806](./src/lc/p806.rs)            ||
-| 807. Max Increase to Keep City Skyline                            | [p807](./src/lc/p807.rs)            | `Vec`                                            |
-| 812. Largest Triangle Area                                        | [p812](./src/lc/p812.rs)            | `f64`                                            |
-| 819. Most Common Word                                             | [p819](./src/lc/p819.rs)            | `HashMap`                                        |
-| 825. Friends Of Appropriate Ages                                  | [p825](./src/lc/p825.rs)            | `Vec`                                            |
-| 829. Consecutive Numbers Sum                                  | [p829](./src/lc/p829.rs)            |                                               |
-| 838. Push Dominoes                                                | [p838](./src/lc/p838.rs)            | `Vec`                                            |
-| 846. Hand of Straights                                            | [p846](./src/lc/p846.rs)            | `BTreeMap`,`VecDeque`,`FromIterator`             |
-| 851. Loud and Rich                                                | [p851](./src/lc/p851.rs)            | `Vec`                                            |
-| 852. Peak Index in a Mountain Array                               | [p852](./src/lc/p852.rs)            | `Vec`                                            |
-| 859. Buddy Strings                                                | [p859](./src/lc/p859.rs)            | `String`                                         |
-| 868. Binary Gap                                                   | [p868](./src/lc/p868.rs)            ||
-| 869. Reordered Power of 2                                         | [p869](./src/lc/p869.rs)            | `HashSet`,`BinaryHeap`,`Reverse`                 |
-| 883. Projection Area of 3D Shapes                                 | [p883](./src/lc/p883.rs)            | `HashMap`                                        |
-| 884. Uncommon Words from Two Sentences                            | [p884](./src/lc/p884.rs)            | `HashMap`,`String`,`split`                       |
-| 905. Sort Array By Parity                                         | [p905](./src/lc/p905.rs)            ||
-| 908. Smallest Range I                                             | [p908](./src/lc/p908.rs)            ||
-| 911. Online Election                                              | [p911](./src/lc/p911.rs)            | `Vec`,`HashMap`,`binary_search`,`match`          |
-| 917. Number Of Ways To Reconstruct A Tree                         | [p917](./src/lc/p917.rs)            | `Vec.swap`                                       |
-| 935. Knight Dialer                                                | [p935](./src/lc/p935.rs)            | `Vec`                                            |
-| 937. Reorder Data in Log Files                                    | [p937](./src/lc/p937.rs)            | `Vec`,`sort_by`                                  |
-| 942. DI String Match                                              | [p942](./src/lc/p942.rs)            ||
-| 944. Delete Columns to Make Sorted                                | [p944](./src/lc/p944.rs)            ||
-| 953. Verifying an Alien Dictionary                                | [p953](./src/lc/p953.rs)            | `HashMap`                                        |
-| 954. Array of Doubled Pairs                                       | [p954](./src/lc/p954.rs)            | `HashMap`                                        |
-| 961. N-Repeated Element in Size 2N Array                          | [p961](./src/lc/p961.rs)            |                                                |
-| 965. Univalued Binary Tree                                        | [p965](./src/lc/p965.rs)            |                                                |
-| 969. Pancake Sorting                                              | [p969](./src/lc/p969.rs)            | `Vec`,`Slice`                                    |
-| 997. Find the Town Judge                                          | [p997](./src/lc/p997.rs)            | `Vec`                                            |
-| 1004. Max Consecutive Ones III                                    | [p1004](./src/lc/p1004.rs)          ||
-| 1005. Maximize Sum Of Array After K Negations                     | [p1005](./src/lc/p1005.rs)          | `Vec`,`sort`,`binary_search`,`min`               |
-| 1009. Complement of Base 10 Integer                               | [p1009](./src/lc/p1009.rs)          | `>>`,`<<`                                        |
-| 1020. Number of Enclaves                                          | [p1020](./src/lc/p1020.rs)          | `Vec`                                            |
-| 1021. Remove Outermost Parentheses                                | [p1021](./src/lc/p1021.rs)          |                                                  |
-| 1034. Coloring A Border                                           | [p1034](./src/lc/p1034.rs)          | `Vec`                                            |
-| 1078. Occurrences After Bigram                                    | [p1078](./src/lc/p1078.rs)          | `Vec`,`String`,`match-if`                        |
-| 1154. Day of the Year                                             | [p1154](./src/lc/p1154.rs)          | `match`,`match-if`,`const`                       |
-| 1185. Day of the Week                                             | [p1185](./src/lc/p1185.rs)          | `const`                                          |
-| 1189. Maximum Number of Balloons                                  | [p1189](./src/lc/p1189.rs)          | `HashMap`                                        |
-| 1218. Longest Arithmetic Subsequence of Given Difference          | [p1218](./src/lc/p1218.rs)          | `Vec`,`max`,`HashMap`                            |
-| 1219. Path with Maximum Gold                                      | [p1219](./src/lc/p1219.rs)          | `Vec`                                            |
-| 1332. Remove Palindromic Subsequences                             | [p1332](./src/lc/p1332.rs)          | `String`                                         |
-| 1342. Number of Steps to Reduce a Number to Zero                  | [p1342](./src/lc/p1342.rs)          ||
-| 1345. Jump Game IV                                                | [p1345](./src/lc/p1345.rs)          | `HashMap`,`HashSet`,`VecDeque`                   |
-| 1380. Lucky Numbers in a Matrix                                   | [p1380](./src/lc/p1380.rs)          | `Vec`                                            |
-| 1405. Longest Happy String                                        | [p1405](./src/lc/p1405.rs)          | `BinaryHeap`,`Vec`                               |
-| 1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | [p1414](./src/lc/p1414.rs)          | `binary_search`                                  |
-| 1436. Destination City                                            | [p1436](./src/lc/p1436/Solution.rs) | `String`,`Vec`,`HashMap`                         |
-| 1446. Consecutive Characters                                      | [p1446](./src/lc/p1446.rs)          | `String`,`max`                                   |
-| 1446. Simplified Fractions                                        | [p1447](./src/lc/p1447.rs)          | `format!`                                        |
-| 1518. Water Bottles                                               | [p1518](./src/lc/p1518.rs)          ||
-| 1576. Replace All ?'s to Avoid Consecutive Repeating Characters   | [p1576](./src/lc/p1576.rs)          ||
-| 1601. Maximum Number of Achievable Transfer Requests              | [p1601](./src/lc/p1601.rs)          | `count_ones`,`iter.find`                         |
-| 1609. Even Odd Tree                                               | [p1609](./src/lc/p1609.rs)          | `Rc`,`RefCell`,`Vec`                             |
-| 1610. Maximum Number of Visible Points                            | [p1610](./src/lc/p1610.rs)          | `Vec`,`sort_by`,`std::f64::consts::PI`,`partial_cmp`,`atan2` |
-| 1614. Maximum Nesting Depth of the Parentheses                    | [p1614](./src/lc/p1614.rs)          | `Vec(stack)`                                     |
-| 1629. Slowest Key                                                 | [p1629](./src/lc/p1629.rs)          | `Vec`,`String`                                   |
-| 1631. Path With Minimum Effort                                    | [p1631](./src/lc/p1631.rs)          | `Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple` |
-| 1672. Richest Customer Wealth                                     | [p1672](./src/lc/p1672.rs)          | `Iter.map`,`Iter.sum`,`Iter.max`                 |
-| 1688. Count of Matches in Tournament                              | [p1688](./src/lc/p1688.rs)          ||
-| 1705. Maximum Number of Eaten Apples                              | [p1705](./src/lc/p1705.rs)          | `Vec`,`Reverse`                                  |
-| 1706. Where Will the Ball Fall                                    | [p1706](./src/lc/p1706.rs)          | `Vec`                                            |
-| 1716. Calculate Money in Leetcode Bank                            | [p1716](./src/lc/p1716.rs)          ||
-| 1725. Number Of Rectangles That Can Form The Largest Square       | [p1725](./src/lc/p1725.rs)          | `Vec`                                            |
-| 1748. Sum of Unique Elements                                      | [p1748](./src/lc/p1748.rs)          | `Vec`                                            |
-| 1763. Longest Nice Substring                                      | [p1763](./src/lc/p1763.rs)          | `String`,`Slice`                                 |
-| 1765. Map of Highest Peak                                         | [p1765](./src/lc/p1765.rs)          | `VecDeque`                                       |
-| 1780. Check if Number is a Sum of Powers of Three                 | [p1780](./src/lc/p1780.rs)          | `pow`                                            |
-| 1791. Find Center of Star Graph                                   | [p1791](./src/lc/p1791.rs)          ||
-| 1816. Truncate Sentence                                           | [p1816](./src/lc/p1816.rs)          | `String`                                         |
-| 1823. Find the Winner of the Circular Game                        | [p1823](./src/lc/p1823.rs)          ||
-| 1984. Minimum Difference Between Highest and Lowest of K Scores   | [p1984](./src/lc/p1984.rs)          | `Vec`                                            |
-| 1995. Count Special Quadruplets                                   | [p1995](./src/lc/p1995.rs)          | `String`                                         |
-| 1996. The Number of Weak Characters in the Game                   | [p1996](./src/lc/p1996.rs)          | `Vec`,`sort_by`                                  |
-| 2000. Reverse Prefix of Word                                      | [p2000](./src/lc/p2000.rs)          ||
-| 2006. Count Number of Pairs With Absolute Difference K            | [p2006](./src/lc/p2006.rs)          ||
-| 2013. Detect Squares                                              | [p2013](./src/lc/p2013.rs)          | `HashMap`                                        |
-| 2016. Maximum Difference Between Increasing Elements              | [p2016](./src/lc/p2016.rs)          | `Vec`                                            |
-| 2022. Convert 1D Array Into 2D Array                              | [p2022](./src/lc/p2022.rs)          | `Vec`                                            |
-| 2024. Maximize the Confusion of an Exam                           | [p204](./src/lc/p2024.rs)           | ``                                               |
-| 2028. Find Missing Observations                                   | [p2028](./src/lc/p2028.rs)          | `Vec`                                            |
-| 2029. Stone Game IX                                               | [p2022](./src/lc/p2029.rs)          | `Vec`                                            |
-| 2034. Stock Price Fluctuation                                     | [p2034](./src/lc/p2034.rs)          | `BinaryHeap`,`HashMap`,`Reverse`                 |
-| 2038. Remove Colored Pieces if Both Neighbors are the Same Color  | [p2038](./src/lc/p2038.rs)          ||
-| 2039. The Time When the Network Becomes Idle                      | [p2039](./src/lc/p2039.rs)          | `VecDeque`                                       |
-| 2043. Simple Bank System                                          | [p2043](./src/lc/p2043.rs)          ||
-| 2044. Count Number of Maximum Bitwise-OR Subsets                  | [p2044](./src/lc/p2044.rs)          | `HashMap`,`HashSet`                              |
-| 2047. Number of Valid Words in a Sentence                         | [p2047](./src/lc/p2047.rs)          | `BinaryHeap`,`HashMap`,`Reverse`                 |
-| 2049. Count Nodes With the Highest Score                          | [p2049](./src/lc/p2049.rs)          | `BTreeMap`,`HashMap`,`VecDeque`                  |
-| 2055. Plates Between Candles                                      | [p2055](./src/lc/p2055.rs)          | `Vec.binary_search`                              |
-| 2100. Find Good Days to Rob the Bank                              | [p2100](./src/lc/p2100.rs)          | `Vec`                                            |
-| 2104. Sum of Subarray Ranges                                      | [p2104](./src/lc/p2104.rs)          ||
+| 6. ZigZag Conversion                                              | [p6](./rust/src/lc/p6.rs)                | `String`                                         |
+| 9. Palindrome Number                                              | [p9](./rust/src/lc/p9/Solution.rs)       | `i32`,`if`,`while`                               |
+| 13. Roman to Integer                                              | [p13](./rust/src/lc/p13/Solution.rs)     | `Pattern`,`for`,`Option`,`String`,`Reference`    |
+| 19. Remove Nth Node From End of List                              | [p19](./rust/src/lc/p19/Solution.rs)     | `Option`,`Reference`                             |
+| 22. Generate Parentheses                                          | [p22](./rust/src/lc/p22.rs)              | `Vec`,`String`                                   |
+| 29. Divide Two Integers                                           | [p29](./rust/src/lc/p29.rs)              | `i32`                                            |
+| 38. Count and Say                                                 | [p38](./rust/src/lc/p38.rs)              | `String, char`                                   |
+| 42. Trapping Rain Water                                           | [p42](./rust/src/lc/p42.rs)              | `Vec`,`BinaryHeap`,`Reverse`,`max`               |
+| 62. Unique Paths                                                  | [p62](./rust/src/lc/p62.rs)              | `Vec`                                            |
+| 63. Unique Paths II                                               | [p63](./rust/src/lc/p63.rs)              | `Vec`                                            |
+| 64. Minimum Path Sum                                              | [p63](./rust/src/lc/p64.rs)              | `Vec`                                            |
+| 66. Plus One                                                      | [p66](./rust/src/lc/p66/Solution.rs)     | `Vec`,`while`                                    |
+| 67. Add Binary                                                    | [p67](./rust/src/lc/p67/Solution.rs)     | `String`,`Rev`,`Iterator`,`Option`               |
+| 71. Simplify Path                                                 | [p71](./rust/src/lc/p71.rs)              | `Vec`,`String`                                   |
+| 72. Edit Distance                                                 | [p72](./rust/src/lc/p72.rs)              | `Vec`,`String`,`min`                             |
+| 74. Search a 2D Matrix                                            | [p74](./rust/src/lc/p74.rs)              | `Vec`                                            |
+| 75. Sort Colors                                                   | [p75](./rust/src/lc/p75.rs)              | `Vec`                                            |
+| 82. Remove Duplicates from Sorted List II                         | [p82](./rust/src/lc/p82/Solution.rs)     | `Vec`                                            |
+| 83. Remove Duplicates from Sorted List                            | [p83](./rust/src/lc/p83/Solution.rs)     | `mut`, `Reference`,`Option`                      |
+| 88. Merge Sorted Array                                            | [p88](./rust/src/lc/p88.rs)              | `Vec`                                            |
+| 89. Gray Code                                                     | [p89](./rust/src/lc/p89.rs)              | `Vec`                                            |
+| 93. Restore IP Addresses                                          | [p93](./rust/src/lc/p93.rs)              | `Vec`,`parse`                                    |
+| 97. Interleaving String                                           | [p97](./rust/src/lc/p97.rs)              | `Vec`,`String`                                   |
+| 118. Pascal's Triangle                                            | [p118](./rust/src/lc/p118.rs)            | `Vec`                                            |
+| 119. Pascal's Triangle II                                         | [p119](./rust/src/lc/p119.rs)            | `Vec`                                            |
+| 125. Valid Palindrome                                             | [p125](./rust/src/lc/p125/Solution.rs)   | `String`,`Rev`,`Iterator`,`Option`               |
+| 136. Single Number                                                | [p136](./rust/src/lc/p136.rs)            | `Vec`,`^`                                        |
+| 137. Single Number II                                             | [p137](./rust/src/lc/p137.rs)            | `Vec`,`>>`,`<<`                                  |
+| 166. Fraction to Recurring Decimal                                | [p166](./rust/src/lc/p166/Solution.rs)   | `String`,`Vec`,`char`                            |
+| 167. Two Sum II - Input Array Is Sorted                               | [p167](./go/p167.go)   |                          |
+| 169. Majority Element                                             | [p169](./rust/src/lc/p169.rs)            | `Vec`,`Iterator`                                 |
+| 172. Factorial Trailing Zeroes                                    | [p172](./rust/src/lc/p172.rs)            ||
+| 187. Repeated DNA Sequences                                       | [p187](./rust/src/lc/p187/Solution.rs)   | `String`,`Vec`,`HashMap`                         |
+| 190. Reverse Bits                                                 | [p190](./rust/src/lc/p190.rs)            | `>>`, `<<`                                       |
+| 191. Number of 1 Bits                                             | [p191](./rust/src/lc/p191.rs)            | `u32`,`i32`                                      |
+| 200. Number of Islands                                            | [p200](./rust/src/lc/p200.rs)            | `Vec`                                            |
+| 201. Bitwise AND of Numbers Range                                 | [p201](./rust/src/lc/p201.rs)            | `>>`,`<<`,`!`                                    |
+| 206. Reverse Linked List                                          | [p206](./rust/src/lc/p206/Solution.rs)   | `Option`,`Box`                                   |
+| 211. Design Add and Search Words Data Structure                   | [p211](./rust/src/lc/p211.rs)            | `Default`,`HashMap`                              |
+| 219. Contains Duplicate II                                        | [p219](./rust/src/lc/p219.rs)            | Vec`                                             |
+| 228. Summary Ranges                                               | [p228](./rust/src/lc/p228.rs)            | `Vec`,`String`                                   |
+| 229. Majority Element II                                          | [p229](./rust/src/lc/p229.rs)            | `Vec`,`Iterator`                                 |
+| 230. Kth Smallest Element in a BST                                | [p230](./rust/src/lc/p230.rs)            | `Rc`,`RefCell`,`Vec`                             |
+| 231. Power of Two                                                 | [p231](./rust/src/lc/p231.rs)            | `&`                                              |
+| 232. Implement Queue using Stacks                                 | [p232](./rust/src/lc/p232.rs)            | `Vec`                                            |
+| 238. Product of Array Except Self                                 | [p238](./rust/src/lc/p238.rs)            | `Vec`                                            |
+| 240. Search a 2D Matrix II                                        | [p240](./rust/src/lc/p240.rs)            | `Vec`                                            |
+| 242. Valid Anagram                                                | [p242](./rust/src/lc/p242.rs)            | `String`                                         |
+| 258. Add Digits                                                   | [p258](./rust/src/lc/p258.rs)            ||
+| 260. Single Number III                                            | [p260](./rust/src/lc/p260.rs)            | `Vec`, `^`, `>>`,`<<`                            |
+| 268. Missing Number                                               | [p268](./rust/src/lc/p268.rs)            | `Vec`                                            |
+| 273. Integer to English Words                                     | [p273](./rust/src/lc/p273/Solution.rs)   | `String`                                         |
+| 278. First Bad Version                                     | [p278](./go/p278.go)   |                                      |
+| 282. Expression Add Operators                                     | [p282](./rust/src/lc/p282.rs)            | `Vec`,`String`                                   |
+| 299. Bulls and Cows                                               | [p299](./rust/src/lc/p299.rs)            | `HashMap`,`BTreeSet`,`format!`                   |
+| 300. Longest Increasing Subsequence                               | [p300](./rust/src/lc/p300.rs)            | `Vec`,`max`                                      |
+| 301. Remove Invalid Parentheses                                   | [p301](./rust/src/lc/p301.rs)            | `Tuple`,`String`,`HashSet`                       |
+| 306. Additive Number                                              | [p306](./rust/src/lc/p306.rs)            | `String`,`char`,`Slice`                          |
+| 307. Range Sum Query - Mutable                                    | [p307](./rust/src/lc/p307.rs)            ||
+| 310. Minimum Height Trees                                         | [p310](./rust/src/lc/p310.rs)            | `HashMap`                                        |
+| 318. Maximum Product of Word Lengths                              | [p318](./rust/src/lc/p318.rs)            | `Vec`,`String`                                   |
+| 319. Bulb Switcher                                                | [p319](./rust/src/lc/p319.rs)            | `sqrt`                                           |
+| 322. Coin Change                                                  | [p322](./rust/src/lc/p322.rs)            | `Vec`                                            |
+| 334. Increasing Triplet Subsequence                               | [p334](./rust/src/lc/p334.rs)            | `Vec`                                            |
+| 335. Self Crossing                                                | [p335](./rust/src/lc/p335.rs)            | `Vec`                                            |
+| 352. Data Stream as Disjoint Intervals                            | [p352](./rust/src/lc/p352/Solution.rs)   | `struct`,`Vec`,`method`,`impl`                   |
+| 357. Count Numbers with Unique Digits                             | [p357](./rust/src/lc/p357.rs)            ||
+| 367. Valid Perfect Square                                         | [p367](./rust/src/lc/p367.rs)            | `Vec`                                            |
+| 372. Super Pow                                                    | [p372](./rust/src/lc/p372.rs)            | `Vec`                                            |
+| 373. Find K Pairs with Smallest Sums                              | [p373](./rust/src/lc/p373.rs)            | `Vec`,`BinaryHeap`                               |
+| 374. Guess Number Higher or Lower                                 | [p374](./rust/src/lc/p374.rs)            | `i32`                                            |
+| 375. Guess Number Higher or Lower II                              | [p375](./rust/src/lc/p375.rs)            | `Vec`,`min`,`max`                                |
+| 382. Linked List Random Node                                      | [p382](./rust/src/lc/p382.rs)            | `Box`,`rand`                                     |
+| 383. Ransom Note                                                  | [p383](./rust/src/lc/p383.rs)            | `Vec`                                            |
+| 384. Shuffle an Array                                             | [p384](./rust/src/lc/p384.rs)            | `Vec`,`clone`,`rand`                             |
+| 385. Mini Parser                                                  | [p385](./rust/src/lc/p385.rs)            ||
+| 386. Lexicographical Numbers                                      | [p386](./rust/src/lc/p386.rs)            ||
+| 390. Elimination Game                                             | [p390](./rust/src/lc/p390.rs)            | `match`                                          |
+| 393. UTF-8 Validation                                             | [p393](./rust/src/lc/p393.rs)            | `Vec`                                            |
+| 397. Integer Replacement                                          | [p397](./rust/src/lc/p397.rs)            | `min`                                            |
+| 398. Random Pick Index                                            | [p398](./rust/src/lc/p398.rs)            | `HashMap`                                        |
+| 391. Perfect Rectangle                                            | [p391](./rust/src/lc/p391.rs)            | `HashMap`,`unwrap_or`,`struct`                   |
+| 400. Nth Digit                                                    | [p400](./rust/src/lc/p400.rs)            | `pow`                                            |
+| 405. Convert a Number to Hexadecimal                              | [p405](./rust/src/lc/p405/Solution.rs)   | `String`,`Range`,`char`                          |
+| 407. Trapping Rain Water II                                       | [p407](./rust/src/lc/p407.rs)            | `Vec`,`BinaryHeap`,`std::cmp::Reverse`,`std::cmp::max` |
+| 412. Fizz Buzz                                                    | [p412](./rust/src/lc/p412.rs)            | `String`, `formate!`                             |
+| 414. Third Maximum Number                                         | [p414](./rust/src/lc/p414/Solution.rs)   | `Vec`, `if-let`                                  |
+| 417. Pacific Atlantic Water Flow                                  | [p417](./rust/src/lc/p417.rs)            ||
+| 419. Battleships in a Board                                       | [p419](./rust/src/lc/p419.rs)            | `Vec`                                            |
+| 423. Reconstruct Original Digits from English                     | [p423](./rust/src/lc/p423.rs)            | `HashMap`,`Array`                                |
+| 433. Minimum Genetic Mutation                                     | [p433](./rust/src/lc/p433.rs)            ||
+| 434. Number of Segments in a String                               | [p434](./rust/src/lc/p434/Solution.rs)   | `String`                                         |
+| 436. Find Right Interval                                          | [p434](./rust/src/lc/p436.rs)            | `sort_by`                                         |
+| 438. Find All Anagrams in a String                                | [p438](./rust/src/lc/p438.rs)            | `HashMap`,`Vec`                                  |
+| 440. K-th Smallest in Lexicographical Order                       | [p440](./rust/src/lc/p440.rs)            ||
+| 441. Arranging Coins                                              | [p441](./rust/src/lc/p441/Solution.rs)   | `as`                                             |
+| 442. Find All Duplicates in an Array                              | [p442](./rust/src/lc/p442.rs)            ||
+| 453. Minimum Moves to Equal Array Elements                        | [p453](./rust/src/lc/p453.rs)            | `Vec`                                            |
+| 458. Poor Pigs                                                    | [p458](./rust/src/lc/p458.rs)            | `log2`,`ceil`                                    |
+| 461. Hamming Distance                                             | [p461](./rust/src/lc/p461.rs)            | `count_ones1,`^`                                 |
+| 462. Minimum Moves to Equal Array Elements II                     | [p462](./rust/src/lc/p42.rs)             | |
+| 464. Can I Win                                                    | [p464](./rust/src/lc/p464.rs)            | `HashMap`|
+| 467. Unique Substrings in Wraparound String                       | [p467](./rust/src/lc/p467.rs)            | |
+| 468. Validate IP Address                                          | [p468](./rust/src/lc/p468.rs)            |`match` |
+| 473. Matchsticks to Square                                        | [p473](./rust/src/lc/p473.rs)            | `<<`,`!`                                            |
+| 475. Heaters                                                      | [p475](./rust/src/lc/p475.rs)            | `Vec`                                            |
+| 476. Number Complement                                            | [p476](./rust/src/lc/p476.rs)            | `>>`,`<<`                                        |
+| 478. Generate Random Point in a Circle                                            | [p478](./go/p478.go)            |                                       |
+| 479. Largest Palindrome Product                                   | [p479](./rust/src/lc/p479.rs)            | `pow`                                            |
+| 482. License Key Formatting                                       | [p482](./rust/src/lc/p482/Solution.rs)   | `String`,`slice`                                 |
+| 488. Zuma Game                                                    | [p488](./rust/src/lc/p488.rs)            | `HashSet`                                        |
+| 492. Construct the Rectangle                                      | [p492](./rust/src/lc/p492.rs)            | `sqrt`,`Vec`                                     |
+| 495. Teemo Attacking                                              | [p495](./rust/src/lc/p495.rs)            | `Vec`                                            |
+| 496. Next Greater Element I                                       | [p496](./rust/src/lc/p496.rs)            | `HashMap`,`Vec`                                  |
+| 500. Keyboard Row                                                 | [p500](./rust/src/lc/p500.rs)            | `Vec`,`String`,`const`                           |
+| 504. Base 7                                                       | [p504](./rust/src/lc/p504.rs)            | `Vec.reverse`                                    |
+| 506. Relative Ranks                                               | [p506](./rust/src/lc/p506.rs)            | `Vec`,`binary_search_by`,`sort_by`,`HashMap`     |
+| 507. Perfect Number                                               | [p507](./rust/src/lc/p507.rs)            | `sqrt`                                           |
+| 518. Coin Change 2                                                | [p518](./rust/src/lc/p518.rs)            | `Vec`                                            |
+| 519. Random Flip Matrix                                           | [p519](./rust/src/lc/p519.rs)            | `Vec`,`rand`                                     |
+| 520. Detect Capital                                               | [p520](./rust/src/lc/p520.rs)            | `String`                                         |
+| 521. Longest Uncommon Subsequence I                               | [p521](./rust/src/lc/p521.rs)            ||
+| 537. Complex Number Multiplication                                | [p537](./rust/src/lc/p537.rs)            | `String.split`                                   |
+| 539. Minimum Time Difference                                      | [p539](./rust/src/lc/p539.rs)            | `Vec`                                            |
+| 540. Single Element in a Sorted Array                             | [p540](./rust/src/lc/p540.rs)            ||
+| 553. Optimal Division                                             | [p553](./rust/src/lc/p553.rs)            | `format!`                                        |
+| 563. Binary Tree Tilt                                             | [p563](./rust/src/lc/p563.rs)            | `Option`,`Rc`,`RefCell`,`abs`                    |
+| 564. Find the Closest Palindrome                                  | [p564](./rust/src/lc/p564.rs)            | `FromStr`,`Vec.extend`,`Vec.extend_from_slice`   |
+| 575. Distribute Candies                                           | [p575](./rust/src/lc/p575.rs)            | `HashMap`,`std::cmp::min`                        |
+| 594. Longest Harmonious Subsequence                               | [p594](./rust/src/lc/p594.rs)            | `BTreeMap`,`max`                                 |
+| 598. Range Addition II                                            | [p598](./rust/src/lc/p598.rs)            | `Vec`,`min`                                      |
+| 606. Construct String from Binary Tree                            | [p606](./rust/src/lc/p606.rs)            | `Rc`,`RefCell`                                   |
+| 629. K Inverse Pairs Array                                        | [p629](./rust/src/lc/p629.rs)            | `Vec`                                            |
+| 630. Course Schedule III                                          | [p630](./rust/src/lc/p630.rs)            | `Vec`,`sort_by`,`BinaryHeap`                     |
+| 638. Shopping Offers                                              | [p638](./rust/src/lc/p638.rs)            | `Vec`,`Reference`,`std::cmp::min`                |
+| 661. Image Smoother                                               | [p661](./rust/src/lc/p661.rs)            | `const`                                          |
+| 668. Kth Smallest Number in Multiplication Table                  | [p668](./rust/src/lc/p668.rs)            |                                                  |
+| 677. Map Sum Pairs                                                | [p677](./rust/src/lc/p677.rs)            | `HashMap`,`PartialEq`,`Eq`,`Default`             |
+| 686. Baseball Game                                                | [p682](./rust/src/lc/p682.rs)            ||
+| 686. Repeated String Match                                        | [p686](./rust/src/lc/p686.rs)            | `String`,`contains`                              |
+| 689. Maximum Sum of 3 Non-Overlapping Subarrays                   | [p689](./rust/src/lc/p689.rs)            | `Vec`                                            |
+| 693. Binary Number with Alternating Bits                          | [p693](./rust/src/lc/p693.rs)            | `>>`                                             |
+| 699. Falling Squares                                              | [p699](./rust/src/lc/p699.rs)            |                                                  |
+| 700. Search in a Binary Search Tree                               | [p700](./rust/src/lc/p700.rs)            | `Rc`,`RefCell`,`Option`                          |
+| 709. To Lower Case                                                | [p709](./rust/src/lc/p709.rs)            | `match`                                          |
+| 717. 1-bit and 2-bit Characters                                   | [p717](./rust/src/lc/p717.rs)            ||
+| 720. Longest Word in Dictionary                                   | [p720](./rust/src/lc/p720.rs)            | `HashSet`,`String.gt`                            |
+| 728. Self Dividing Numbers                                        | [p728](./rust/src/lc/p728.rs)            | `HashSet`,`String.gt`                            |
+| 744. Find Smallest Letter Greater Than Target                     | [p744](./rust/src/lc/p744.rs)            ||
+| 747. Largest Number At Least Twice of Others                      | [p747](./rust/src/lc/p747.rs)            | `Vec`                                            |
+| 748. Shortest Completing Word                                     | [p748](./rust/src/lc/p748.rs)            | `Vec`,`match`                                    |
+| 762. Prime Number of Set Bits in Binary Representation            | [p762](./rust/src/lc/p762.rs)            ||
+| 780. Reaching Points                                              | [p780](./rust/src/lc/p780.rs)            ||
+| 786. K-th Smallest Prime Fraction                                 | [p786](./rust/src/lc/p786.rs)            | `sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse` |
+| 794. Valid Tic-Tac-Toe State                                      | [p794](./rust/src/lc/p794.rs)            | `Vec`                                            |
+| 796. Rotate String                                                | [p796](./rust/src/lc/p796.rs)            ||
+| 798. Smallest Rotation with Highest Score                         | [p798](./rust/src/lc/p798.rs)            | `Vec`                                            |
+| 804. Unique Morse Code Words                                      | [p804](./rust/src/lc/p804.rs)            | `HashSet`                                        |
+| 806. Number of Lines To Write String                              | [p806](./rust/src/lc/p806.rs)            ||
+| 807. Max Increase to Keep City Skyline                            | [p807](./rust/src/lc/p807.rs)            | `Vec`                                            |
+| 812. Largest Triangle Area                                        | [p812](./rust/src/lc/p812.rs)            | `f64`                                            |
+| 819. Most Common Word                                             | [p819](./rust/src/lc/p819.rs)            | `HashMap`                                        |
+| 825. Friends Of Appropriate Ages                                  | [p825](./rust/src/lc/p825.rs)            | `Vec`                                            |
+| 829. Consecutive Numbers Sum                                  | [p829](./rust/src/lc/p829.rs)            |                                               |
+| 838. Push Dominoes                                                | [p838](./rust/src/lc/p838.rs)            | `Vec`                                            |
+| 846. Hand of Straights                                            | [p846](./rust/src/lc/p846.rs)            | `BTreeMap`,`VecDeque`,`FromIterator`             |
+| 851. Loud and Rich                                                | [p851](./rust/src/lc/p851.rs)            | `Vec`                                            |
+| 852. Peak Index in a Mountain Array                               | [p852](./rust/src/lc/p852.rs)            | `Vec`                                            |
+| 859. Buddy Strings                                                | [p859](./rust/src/lc/p859.rs)            | `String`                                         |
+| 868. Binary Gap                                                   | [p868](./rust/src/lc/p868.rs)            ||
+| 869. Reordered Power of 2                                         | [p869](./rust/src/lc/p869.rs)            | `HashSet`,`BinaryHeap`,`Reverse`                 |
+| 883. Projection Area of 3D Shapes                                 | [p883](./rust/src/lc/p883.rs)            | `HashMap`                                        |
+| 884. Uncommon Words from Two Sentences                            | [p884](./rust/src/lc/p884.rs)            | `HashMap`,`String`,`split`                       |
+| 905. Sort Array By Parity                                         | [p905](./rust/src/lc/p905.rs)            ||
+| 908. Smallest Range I                                             | [p908](./rust/src/lc/p908.rs)            ||
+| 911. Online Election                                              | [p911](./rust/src/lc/p911.rs)            | `Vec`,`HashMap`,`binary_search`,`match`          |
+| 917. Number Of Ways To Reconstruct A Tree                         | [p917](./rust/src/lc/p917.rs)            | `Vec.swap`                                       |
+| 929. Unique Email Addresses                        | [p929](./go/p929.go)            |                                        |
+| 935. Knight Dialer                                                | [p935](./rust/src/lc/p935.rs)            | `Vec`                                            |
+| 937. Reorder Data in Log Files                                    | [p937](./rust/src/lc/p937.rs)            | `Vec`,`sort_by`                                  |
+| 942. DI String Match                                              | [p942](./rust/src/lc/p942.rs)            ||
+| 944. Delete Columns to Make Sorted                                | [p944](./rust/src/lc/p944.rs)            ||
+| 953. Verifying an Alien Dictionary                                | [p953](./rust/src/lc/p953.rs)            | `HashMap`                                        |
+| 954. Array of Doubled Pairs                                       | [p954](./rust/src/lc/p954.rs)            | `HashMap`                                        |
+| 961. N-Repeated Element in Size 2N Array                          | [p961](./rust/src/lc/p961.rs)            |                                                |
+| 965. Univalued Binary Tree                                        | [p965](./rust/src/lc/p965.rs)            |                                                |
+| 969. Pancake Sorting                                              | [p969](./rust/src/lc/p969.rs)            | `Vec`,`Slice`                                    |
+| 997. Find the Town Judge                                          | [p997](./rust/src/lc/p997.rs)            | `Vec`                                            |
+| 1004. Max Consecutive Ones III                                    | [p1004](./rust/src/lc/p1004.rs)          ||
+| 1005. Maximize Sum Of Array After K Negations                     | [p1005](./rust/src/lc/p1005.rs)          | `Vec`,`sort`,`binary_search`,`min`               |
+| 1009. Complement of Base 10 Integer                               | [p1009](./rust/src/lc/p1009.rs)          | `>>`,`<<`                                        |
+| 1020. Number of Enclaves                                          | [p1020](./rust/src/lc/p1020.rs)          | `Vec`                                            |
+| 1021. Remove Outermost Parentheses                                | [p1021](./rust/src/lc/p1021.rs)          |                                                  |
+| 1034. Coloring A Border                                           | [p1034](./rust/src/lc/p1034.rs)          | `Vec`                                            |
+| 1078. Occurrences After Bigram                                    | [p1078](./rust/src/lc/p1078.rs)          | `Vec`,`String`,`match-if`                        |
+| 1154. Day of the Year                                             | [p1154](./rust/src/lc/p1154.rs)          | `match`,`match-if`,`const`                       |
+| 1185. Day of the Week                                             | [p1185](./rust/src/lc/p1185.rs)          | `const`                                          |
+| 1189. Maximum Number of Balloons                                  | [p1189](./rust/src/lc/p1189.rs)          | `HashMap`                                        |
+| 1218. Longest Arithmetic Subsequence of Given Difference          | [p1218](./rust/src/lc/p1218.rs)          | `Vec`,`max`,`HashMap`                            |
+| 1219. Path with Maximum Gold                                      | [p1219](./rust/src/lc/p1219.rs)          | `Vec`                                            |
+| 1332. Remove Palindromic Subsequences                             | [p1332](./rust/src/lc/p1332.rs)          | `String`                                         |
+| 1342. Number of Steps to Reduce a Number to Zero                  | [p1342](./rust/src/lc/p1342.rs)          ||
+| 1345. Jump Game IV                                                | [p1345](./rust/src/lc/p1345.rs)          | `HashMap`,`HashSet`,`VecDeque`                   |
+| 1351. Count Negative Numbers in a Sorted Matrix                                               | [p1351](./go/p1351.go)          | |
+| 1380. Lucky Numbers in a Matrix                                   | [p1380](./rust/src/lc/p1380.rs)          | `Vec`                                            |
+| 1385.  Find the Distance Value Between Two Arrays                                   | [p1385](./go/p1385.go)          |                                            |
+| 1405. Longest Happy String                                        | [p1405](./rust/src/lc/p1405.rs)          | `BinaryHeap`,`Vec`                               |
+| 1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | [p1414](./rust/src/lc/p1414.rs)          | `binary_search`                                  |
+| 1436. Destination City                                            | [p1436](./rust/src/lc/p1436/Solution.rs) | `String`,`Vec`,`HashMap`                         |
+| 1446. Consecutive Characters                                      | [p1446](./rust/src/lc/p1446.rs)          | `String`,`max`                                   |
+| 1446. Simplified Fractions                                        | [p1447](./rust/src/lc/p1447.rs)          | `format!`                                        |
+| 1518. Water Bottles                                               | [p1518](./rust/src/lc/p1518.rs)          ||
+| 1539. Kth Missing Positive Number                               | [p1539](./go/p1539.go)          ||
+| 1576. Replace All ?'s to Avoid Consecutive Repeating Characters   | [p1576](./rust/src/lc/p1576.rs)          ||
+| 1601. Maximum Number of Achievable Transfer Requests              | [p1601](./rust/src/lc/p1601.rs)          | `count_ones`,`iter.find`                         |
+| 1608. Special Array With X Elements Greater Than or Equal X        [p1608](./go/p1608.go)          |                             |
+| 1609. Even Odd Tree                                               | [p1609](./rust/src/lc/p1609.rs)          | `Rc`,`RefCell`,`Vec`                             |
+| 1610. Maximum Number of Visible Points                            | [p1610](./rust/src/lc/p1610.rs)          | `Vec`,`sort_by`,`std::f64::consts::PI`,`partial_cmp`,`atan2` |
+| 1614. Maximum Nesting Depth of the Parentheses                    | [p1614](./rust/src/lc/p1614.rs)          | `Vec(stack)`                                     |
+| 1629. Slowest Key                                                 | [p1629](./rust/src/lc/p1629.rs)          | `Vec`,`String`                                   |
+| 1631. Path With Minimum Effort                                    | [p1631](./rust/src/lc/p1631.rs)          | `Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple` |
+| 1672. Richest Customer Wealth                                     | [p1672](./rust/src/lc/p1672.rs)          | `Iter.map`,`Iter.sum`,`Iter.max`                 |
+| 1688. Count of Matches in Tournament                              | [p1688](./rust/src/lc/p1688.rs)          ||
+| 1705. Maximum Number of Eaten Apples                              | [p1705](./rust/src/lc/p1705.rs)          | `Vec`,`Reverse`                                  |
+| 1706. Where Will the Ball Fall                                    | [p1706](./rust/src/lc/p1706.rs)          | `Vec`                                            |
+| 1716. Calculate Money in Leetcode Bank                            | [p1716](./rust/src/lc/p1716.rs)          ||
+| 1725. Number Of Rectangles That Can Form The Largest Square       | [p1725](./rust/src/lc/p1725.rs)          | `Vec`                                            |
+| 1748. Sum of Unique Elements                                      | [p1748](./rust/src/lc/p1748.rs)          | `Vec`                                            |
+| 1763. Longest Nice Substring                                      | [p1763](./rust/src/lc/p1763.rs)          | `String`,`Slice`                                 |
+| 1765. Map of Highest Peak                                         | [p1765](./rust/src/lc/p1765.rs)          | `VecDeque`                                       |
+| 1780. Check if Number is a Sum of Powers of Three                 | [p1780](./rust/src/lc/p1780.rs)          | `pow`                                            |
+| 1791. Find Center of Star Graph                                   | [p1791](./rust/src/lc/p1791.rs)          ||
+| 1816. Truncate Sentence                                           | [p1816](./rust/src/lc/p1816.rs)          | `String`                                         |
+| 1823. Find the Winner of the Circular Game                        | [p1823](./rust/src/lc/p1823.rs)          ||
+| 1984. Minimum Difference Between Highest and Lowest of K Scores   | [p1984](./rust/src/lc/p1984.rs)          | `Vec`                                            |
+| 1995. Count Special Quadruplets                                   | [p1995](./rust/src/lc/p1995.rs)          | `String`                                         |
+| 1996. The Number of Weak Characters in the Game                   | [p1996](./rust/src/lc/p1996.rs)          | `Vec`,`sort_by`                                  |
+| 2000. Reverse Prefix of Word                                      | [p2000](./rust/src/lc/p2000.rs)          ||
+| 2006. Count Number of Pairs With Absolute Difference K            | [p2006](./rust/src/lc/p2006.rs)          ||
+| 2013. Detect Squares                                              | [p2013](./rust/src/lc/p2013.rs)          | `HashMap`                                        |
+| 2016. Maximum Difference Between Increasing Elements              | [p2016](./rust/src/lc/p2016.rs)          | `Vec`                                            |
+| 2022. Convert 1D Array Into 2D Array                              | [p2022](./rust/src/lc/p2022.rs)          | `Vec`                                            |
+| 2024. Maximize the Confusion of an Exam                           | [p204](./rust/src/lc/p2024.rs)           | ``                                               |
+| 2028. Find Missing Observations                                   | [p2028](./rust/src/lc/p2028.rs)          | `Vec`                                            |
+| 2029. Stone Game IX                                               | [p2022](./rust/src/lc/p2029.rs)          | `Vec`                                            |
+| 2034. Stock Price Fluctuation                                     | [p2034](./rust/src/lc/p2034.rs)          | `BinaryHeap`,`HashMap`,`Reverse`                 |
+| 2038. Remove Colored Pieces if Both Neighbors are the Same Color  | [p2038](./rust/src/lc/p2038.rs)          ||
+| 2039. The Time When the Network Becomes Idle                      | [p2039](./rust/src/lc/p2039.rs)          | `VecDeque`                                       |
+| 2043. Simple Bank System                                          | [p2043](./rust/src/lc/p2043.rs)          ||
+| 2044. Count Number of Maximum Bitwise-OR Subsets                  | [p2044](./rust/src/lc/p2044.rs)          | `HashMap`,`HashSet`                              |
+| 2047. Number of Valid Words in a Sentence                         | [p2047](./rust/src/lc/p2047.rs)          | `BinaryHeap`,`HashMap`,`Reverse`                 |
+| 2049. Count Nodes With the Highest Score                          | [p2049](./rust/src/lc/p2049.rs)          | `BTreeMap`,`HashMap`,`VecDeque`                  |
+| 2055. Plates Between Candles                                      | [p2055](./rust/src/lc/p2055.rs)          | `Vec.binary_search`                              |
+| 2100. Find Good Days to Rob the Bank                              | [p2100](./rust/src/lc/p2100.rs)          | `Vec`                                            |
+| 2104. Sum of Subarray Ranges                                      | [p2104](./rust/src/lc/p2104.rs)          ||
 
 ### Cracking the Coding Interview, 6th Edition
 | Problem              | Solution                          |Related Rust keywords|
 |----------------------|-----------------------------------|---------|
-| 01.05. One Away LCCI | [p0105](./src/interview/p0105.rs) ||
-| 17.11. Find Closest LCCI | [p1711](./src/interview/p1711.rs) ||
+| 01.05. One Away LCCI | [p0105](./rust/src/interview/p0105.rs) ||
+| 17.11. Find Closest LCCI | [p1711](./rust/src/interview/p1711.rs) ||
 
 ### 《剑指 Offer》题目
 |Problem|Solution|Related Rust keywords|
 |-------|---------|---------|
-|剑指 Offer II 001. 整数除法|[p001](./src/offer/p001.rs)|`abs`|
+|剑指 Offer II 001. 整数除法|[p001](./rust/src/offer/p001.rs)|`abs`|
