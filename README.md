@@ -1,6 +1,6 @@
 # lc-rust
 
-LeetCode problem solutions using Rust programming language.
+LeetCode problem solutions using programming language that I am learning. Now there are Rust and Go.
 
 ## Common Util
 
