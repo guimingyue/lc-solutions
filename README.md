@@ -130,6 +130,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 492. Construct the Rectangle                                      | [p492](./rust/src/lc/p492.rs)            | `sqrt`,`Vec`                                     |
 | 495. Teemo Attacking                                              | [p495](./rust/src/lc/p495.rs)            | `Vec`                                            |
 | 496. Next Greater Element I                                       | [p496](./rust/src/lc/p496.rs)            | `HashMap`,`Vec`                                  |
+| 497. Random Point in Non-overlapping Rectangles                   | [p497](./go/p497.go)            |                                  |
 | 500. Keyboard Row                                                 | [p500](./rust/src/lc/p500.rs)            | `Vec`,`String`,`const`                           |
 | 504. Base 7                                                       | [p504](./rust/src/lc/p504.rs)            | `Vec.reverse`                                    |
 | 506. Relative Ranks                                               | [p506](./rust/src/lc/p506.rs)            | `Vec`,`binary_search_by`,`sort_by`,`HashMap`     |
@@ -164,6 +165,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 717. 1-bit and 2-bit Characters                                   | [p717](./rust/src/lc/p717.rs)            ||
 | 720. Longest Word in Dictionary                                   | [p720](./rust/src/lc/p720.rs)            | `HashSet`,`String.gt`                            |
 | 728. Self Dividing Numbers                                        | [p728](./rust/src/lc/p728.rs)            | `HashSet`,`String.gt`                            |
+| 730. Count Different Palindromic Subsequences                                       | [p730](./go/p730.rs)            |                            |
+| 732. My Calendar III                                        | [p732](./g0/p732.rs)            |  |
 | 744. Find Smallest Letter Greater Than Target                     | [p744](./rust/src/lc/p744.rs)            ||
 | 747. Largest Number At Least Twice of Others                      | [p747](./rust/src/lc/p747.rs)            | `Vec`                                            |
 | 748. Shortest Completing Word                                     | [p748](./rust/src/lc/p748.rs)            | `Vec`,`match`                                    |
@@ -187,12 +190,15 @@ The following table is the link for problem solutions with realted Rust topics o
 | 859. Buddy Strings                                                | [p859](./rust/src/lc/p859.rs)            | `String`                                         |
 | 868. Binary Gap                                                   | [p868](./rust/src/lc/p868.rs)            ||
 | 869. Reordered Power of 2                                         | [p869](./rust/src/lc/p869.rs)            | `HashSet`,`BinaryHeap`,`Reverse`                 |
+| 875. Koko Eating Bananas                                         | [p875](./go/p875.go)            |               |
 | 883. Projection Area of 3D Shapes                                 | [p883](./rust/src/lc/p883.rs)            | `HashMap`                                        |
 | 884. Uncommon Words from Two Sentences                            | [p884](./rust/src/lc/p884.rs)            | `HashMap`,`String`,`split`                       |
+| 890. Find and Replace Pattern                           | [p890](./go/p890.go)            |                       |
 | 905. Sort Array By Parity                                         | [p905](./rust/src/lc/p905.rs)            ||
 | 908. Smallest Range I                                             | [p908](./rust/src/lc/p908.rs)            ||
 | 911. Online Election                                              | [p911](./rust/src/lc/p911.rs)            | `Vec`,`HashMap`,`binary_search`,`match`          |
 | 917. Number Of Ways To Reconstruct A Tree                         | [p917](./rust/src/lc/p917.rs)            | `Vec.swap`                                       |
+| 926. Flip String to Monotone Increasing                        | [p926](./go/p926.go)            |                                        |
 | 929. Unique Email Addresses                        | [p929](./go/p929.go)            |                                        |
 | 935. Knight Dialer                                                | [p935](./rust/src/lc/p935.rs)            | `Vec`                                            |
 | 937. Reorder Data in Log Files                                    | [p937](./rust/src/lc/p937.rs)            | `Vec`,`sort_by`                                  |
@@ -210,6 +216,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1020. Number of Enclaves                                          | [p1020](./rust/src/lc/p1020.rs)          | `Vec`                                            |
 | 1021. Remove Outermost Parentheses                                | [p1021](./rust/src/lc/p1021.rs)          |                                                  |
 | 1034. Coloring A Border                                           | [p1034](./rust/src/lc/p1034.rs)          | `Vec`                                            |
+| 1037. Valid Boomerang                                         | [p1037](./go/p1037.go)          |                                             |
 | 1078. Occurrences After Bigram                                    | [p1078](./rust/src/lc/p1078.rs)          | `Vec`,`String`,`match-if`                        |
 | 1154. Day of the Year                                             | [p1154](./rust/src/lc/p1154.rs)          | `match`,`match-if`,`const`                       |
 | 1185. Day of the Week                                             | [p1185](./rust/src/lc/p1185.rs)          | `const`                                          |
