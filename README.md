@@ -131,6 +131,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 495. Teemo Attacking                                              | [p495](./rust/src/lc/p495.rs)            | `Vec`                                            |
 | 496. Next Greater Element I                                       | [p496](./rust/src/lc/p496.rs)            | `HashMap`,`Vec`                                  |
 | 497. Random Point in Non-overlapping Rectangles                   | [p497](./go/p497.go)            |                                  |
+| 498. Diagonal Traverse                   | [p498](./go/p498.go)            |                                  |
 | 500. Keyboard Row                                                 | [p500](./rust/src/lc/p500.rs)            | `Vec`,`String`,`const`                           |
 | 504. Base 7                                                       | [p504](./rust/src/lc/p504.rs)            | `Vec.reverse`                                    |
 | 506. Relative Ranks                                               | [p506](./rust/src/lc/p506.rs)            | `Vec`,`binary_search_by`,`sort_by`,`HashMap`     |
@@ -139,6 +140,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 519. Random Flip Matrix                                           | [p519](./rust/src/lc/p519.rs)            | `Vec`,`rand`                                     |
 | 520. Detect Capital                                               | [p520](./rust/src/lc/p520.rs)            | `String`                                         |
 | 521. Longest Uncommon Subsequence I                               | [p521](./rust/src/lc/p521.rs)            ||
+| 532. K-diff Pairs in an Array                               | [p532](./rust/src/lc/p532.rs)            |`HashMap`|
 | 537. Complex Number Multiplication                                | [p537](./rust/src/lc/p537.rs)            | `String.split`                                   |
 | 539. Minimum Time Difference                                      | [p539](./rust/src/lc/p539.rs)            | `Vec`                                            |
 | 540. Single Element in a Sorted Array                             | [p540](./rust/src/lc/p540.rs)            ||
@@ -163,6 +165,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 700. Search in a Binary Search Tree                               | [p700](./rust/src/lc/p700.rs)            | `Rc`,`RefCell`,`Option`                          |
 | 709. To Lower Case                                                | [p709](./rust/src/lc/p709.rs)            | `match`                                          |
 | 717. 1-bit and 2-bit Characters                                   | [p717](./rust/src/lc/p717.rs)            ||
+| 719. Find K-th Smallest Pair Distance                                   | [p719](./rust/src/lc/p719.rs)            |`BTreeMap`|
 | 720. Longest Word in Dictionary                                   | [p720](./rust/src/lc/p720.rs)            | `HashSet`,`String.gt`                            |
 | 728. Self Dividing Numbers                                        | [p728](./rust/src/lc/p728.rs)            | `HashSet`,`String.gt`                            |
 | 730. Count Different Palindromic Subsequences                                       | [p730](./go/p730.rs)            |                            |
@@ -217,7 +220,9 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1021. Remove Outermost Parentheses                                | [p1021](./rust/src/lc/p1021.rs)          |                                                  |
 | 1034. Coloring A Border                                           | [p1034](./rust/src/lc/p1034.rs)          | `Vec`                                            |
 | 1037. Valid Boomerang                                         | [p1037](./go/p1037.go)          |                                             |
+| 1051. Valid Boomerang                                         | [p1051](./go/p1051.go)          |                                             |
 | 1078. Occurrences After Bigram                                    | [p1078](./rust/src/lc/p1078.rs)          | `Vec`,`String`,`match-if`                        |
+| 1089. Duplicate Zeros                                    | [p1089](./go/p1089.go)          |     |
 | 1154. Day of the Year                                             | [p1154](./rust/src/lc/p1154.rs)          | `match`,`match-if`,`const`                       |
 | 1185. Day of the Week                                             | [p1185](./rust/src/lc/p1185.rs)          | `const`                                          |
 | 1189. Maximum Number of Balloons                                  | [p1189](./rust/src/lc/p1189.rs)          | `HashMap`                                        |
@@ -289,3 +294,4 @@ The following table is the link for problem solutions with realted Rust topics o
 |Problem|Solution|Related Rust keywords|
 |-------|---------|---------|
 |剑指 Offer II 001. 整数除法|[p001](./rust/src/offer/p001.rs)|`abs`|
+|剑指 Offer II 029. 排序的循环链表|[p029](./go/offer029.go)||
