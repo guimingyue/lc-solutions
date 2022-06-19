@@ -136,6 +136,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 504. Base 7                                                       | [p504](./rust/src/lc/p504.rs)            | `Vec.reverse`                                    |
 | 506. Relative Ranks                                               | [p506](./rust/src/lc/p506.rs)            | `Vec`,`binary_search_by`,`sort_by`,`HashMap`     |
 | 507. Perfect Number                                               | [p507](./rust/src/lc/p507.rs)            | `sqrt`                                           |
+| 508. Most Frequent Subtree Sum                                               | [p508](./go/p508.go)            |                                           |
 | 518. Coin Change 2                                                | [p518](./rust/src/lc/p518.rs)            | `Vec`                                            |
 | 519. Random Flip Matrix                                           | [p519](./rust/src/lc/p519.rs)            | `Vec`,`rand`                                     |
 | 520. Detect Capital                                               | [p520](./rust/src/lc/p520.rs)            | `String`                                         |
