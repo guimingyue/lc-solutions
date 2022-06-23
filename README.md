@@ -22,6 +22,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 19. Remove Nth Node From End of List                              | [p19](./rust/src/lc/p19/Solution.rs)     | `Option`,`Reference`                             |
 | 22. Generate Parentheses                                          | [p22](./rust/src/lc/p22.rs)              | `Vec`,`String`                                   |
 | 29. Divide Two Integers                                           | [p29](./rust/src/lc/p29.rs)              | `i32`                                            |
+| 30. Substring with Concatenation of All Words       | [p30](./rust/src/lc/p30.rs)              | `HashMap`                                            |
 | 38. Count and Say                                                 | [p38](./rust/src/lc/p38.rs)              | `String, char`                                   |
 | 42. Trapping Rain Water                                           | [p42](./rust/src/lc/p42.rs)              | `Vec`,`BinaryHeap`,`Reverse`,`max`               |
 | 62. Unique Paths                                                  | [p62](./rust/src/lc/p62.rs)              | `Vec`                                            |
