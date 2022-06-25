@@ -297,3 +297,4 @@ The following table is the link for problem solutions with realted Rust topics o
 |-------|---------|---------|
 |剑指 Offer II 001. 整数除法|[p001](./rust/src/offer/p001.rs)|`abs`|
 |剑指 Offer II 029. 排序的循环链表|[p029](./go/offer029.go)||
+|剑指 Offer II 091. 粉刷房子|[p091](./go/offer091.go)||
