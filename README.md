@@ -138,6 +138,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 506. Relative Ranks                                               | [p506](./rust/src/lc/p506.rs)            | `Vec`,`binary_search_by`,`sort_by`,`HashMap`     |
 | 507. Perfect Number                                               | [p507](./rust/src/lc/p507.rs)            | `sqrt`                                           |
 | 508. Most Frequent Subtree Sum                                               | [p508](./go/p508.go)            |                                           |
+| 513. Find Bottom Left Tree Value  | [p513](./go/p513.go)            |                                            |
+| 515. Find Largest Value in Each Tree Row  | [p515](./go/p515.go)            |                                            |
 | 518. Coin Change 2                                                | [p518](./rust/src/lc/p518.rs)            | `Vec`                                            |
 | 519. Random Flip Matrix                                           | [p519](./rust/src/lc/p519.rs)            | `Vec`,`rand`                                     |
 | 520. Detect Capital                                               | [p520](./rust/src/lc/p520.rs)            | `String`                                         |
@@ -225,6 +227,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1051. Valid Boomerang                                         | [p1051](./go/p1051.go)          |                                             |
 | 1078. Occurrences After Bigram                                    | [p1078](./rust/src/lc/p1078.rs)          | `Vec`,`String`,`match-if`                        |
 | 1089. Duplicate Zeros                                    | [p1089](./go/p1089.go)          |     |
+| 1108. Defanging an IP Address                                    | [p1108](./go/p1108.go)          |     |
 | 1154. Day of the Year                                             | [p1154](./rust/src/lc/p1154.rs)          | `match`,`match-if`,`const`                       |
 | 1185. Day of the Week                                             | [p1185](./rust/src/lc/p1185.rs)          | `const`                                          |
 | 1189. Maximum Number of Balloons                                  | [p1189](./rust/src/lc/p1189.rs)          | `HashMap`                                        |
