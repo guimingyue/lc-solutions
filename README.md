@@ -168,6 +168,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 699. Falling Squares                                              | [p699](./rust/src/lc/p699.rs)            |                                                  |
 | 700. Search in a Binary Search Tree                               | [p700](./rust/src/lc/p700.rs)            | `Rc`,`RefCell`,`Option`                          |
 | 709. To Lower Case                                                | [p709](./rust/src/lc/p709.rs)            | `match`                                          |
+| 710. Random Pick with Blacklist  | [p710](./go//p710/p710.go)            |                                          |
 | 717. 1-bit and 2-bit Characters                                   | [p717](./rust/src/lc/p717.rs)            ||
 | 719. Find K-th Smallest Pair Distance                                   | [p719](./rust/src/lc/p719.rs)            |`BTreeMap`|
 | 720. Longest Word in Dictionary                                   | [p720](./rust/src/lc/p720.rs)            | `HashSet`,`String.gt`                            |
