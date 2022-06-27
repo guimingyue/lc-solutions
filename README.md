@@ -144,7 +144,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 519. Random Flip Matrix                                           | [p519](./rust/src/lc/p519.rs)            | `Vec`,`rand`                                     |
 | 520. Detect Capital                                               | [p520](./rust/src/lc/p520.rs)            | `String`                                         |
 | 521. Longest Uncommon Subsequence I                               | [p521](./rust/src/lc/p521.rs)            ||
-| 521. Longest Uncommon Subsequence II                               | [p521](./go/p522.go)            ||
+| 522. Longest Uncommon Subsequence II                               | [p522](./go/p522.go)            ||
 | 532. K-diff Pairs in an Array                               | [p532](./rust/src/lc/p532.rs)            |`HashMap`|
 | 537. Complex Number Multiplication                                | [p537](./rust/src/lc/p537.rs)            | `String.split`                                   |
 | 539. Minimum Time Difference                                      | [p539](./rust/src/lc/p539.rs)            | `Vec`                                            |
