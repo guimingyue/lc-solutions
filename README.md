@@ -64,6 +64,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 232. Implement Queue using Stacks                                 | [p232](./rust/src/lc/p232.rs)            | `Vec`                                            |
 | 238. Product of Array Except Self                                 | [p238](./rust/src/lc/p238.rs)            | `Vec`                                            |
 | 240. Search a 2D Matrix II                                        | [p240](./rust/src/lc/p240.rs)            | `Vec`                                            |
+| 241. Different Ways to Add Parentheses                            | [p241](./go/p241.go)            |                                           |
 | 242. Valid Anagram                                                | [p242](./rust/src/lc/p242.rs)            | `String`                                         |
 | 258. Add Digits                                                   | [p258](./rust/src/lc/p258.rs)            ||
 | 260. Single Number III                                            | [p260](./rust/src/lc/p260.rs)            | `Vec`, `^`, `>>`,`<<`                            |
@@ -80,6 +81,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 318. Maximum Product of Word Lengths                              | [p318](./rust/src/lc/p318.rs)            | `Vec`,`String`                                   |
 | 319. Bulb Switcher                                                | [p319](./rust/src/lc/p319.rs)            | `sqrt`                                           |
 | 322. Coin Change                                                  | [p322](./rust/src/lc/p322.rs)            | `Vec`                                            |
+| 324. Wiggle Sort II                                               | [p324](./go/p324.go)            |                                            |
 | 334. Increasing Triplet Subsequence                               | [p334](./rust/src/lc/p334.rs)            | `Vec`                                            |
 | 335. Self Crossing                                                | [p335](./rust/src/lc/p335.rs)            | `Vec`                                            |
 | 352. Data Stream as Disjoint Intervals                            | [p352](./rust/src/lc/p352/Solution.rs)   | `struct`,`Vec`,`method`,`impl`                   |
@@ -231,6 +233,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1089. Duplicate Zeros                                    | [p1089](./go/p1089.go)          |     |
 | 1108. Defanging an IP Address                                    | [p1108](./go/p1108.go)          |     |
 | 1154. Day of the Year                                             | [p1154](./rust/src/lc/p1154.rs)          | `match`,`match-if`,`const`                       |
+| 1175. Prime Arrangements                       | [p1175](./go/p1175.go)          | |
 | 1185. Day of the Week                                             | [p1185](./rust/src/lc/p1185.rs)          | `const`                                          |
 | 1189. Maximum Number of Balloons                                  | [p1189](./rust/src/lc/p1189.rs)          | `HashMap`                                        |
 | 1218. Longest Arithmetic Subsequence of Given Difference          | [p1218](./rust/src/lc/p1218.rs)          | `Vec`,`max`,`HashMap`                            |
