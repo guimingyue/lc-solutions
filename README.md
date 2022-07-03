@@ -152,6 +152,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 539. Minimum Time Difference                                      | [p539](./rust/src/lc/p539.rs)            | `Vec`                                            |
 | 540. Single Element in a Sorted Array                             | [p540](./rust/src/lc/p540.rs)            ||
 | 553. Optimal Division                                             | [p553](./rust/src/lc/p553.rs)            | `format!`                                        |
+| 556.  Next Greater Element III          | [p556](./go/p556.go)            |                                        |
 | 563. Binary Tree Tilt                                             | [p563](./rust/src/lc/p563.rs)            | `Option`,`Rc`,`RefCell`,`abs`                    |
 | 564. Find the Closest Palindrome                                  | [p564](./rust/src/lc/p564.rs)            | `FromStr`,`Vec.extend`,`Vec.extend_from_slice`   |
 | 575. Distribute Candies                                           | [p575](./rust/src/lc/p575.rs)            | `HashMap`,`std::cmp::min`                        |
@@ -205,6 +206,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 883. Projection Area of 3D Shapes                                 | [p883](./rust/src/lc/p883.rs)            | `HashMap`                                        |
 | 884. Uncommon Words from Two Sentences                            | [p884](./rust/src/lc/p884.rs)            | `HashMap`,`String`,`split`                       |
 | 890. Find and Replace Pattern                           | [p890](./go/p890.go)            |                       |
+| 897. Increasing Order Search Tree                           | [p897](./go/p897.go)            |                       |
 | 905. Sort Array By Parity                                         | [p905](./rust/src/lc/p905.rs)            ||
 | 908. Smallest Range I                                             | [p908](./rust/src/lc/p908.rs)            ||
 | 911. Online Election                                              | [p911](./rust/src/lc/p911.rs)            | `Vec`,`HashMap`,`binary_search`,`match`          |
@@ -304,5 +306,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |Problem|Solution|Related Rust keywords|
 |-------|---------|---------|
 |剑指 Offer II 001. 整数除法|[p001](./rust/src/offer/p001.rs)|`abs`|
+|剑指 Offer 03. 数组中重复的数字|[offer03](./go/offer03.go)||
+|剑指 Offer 04. 二维数组中的查找|[offer04](./go/offer04.go)||
+|剑指 Offer 06. 从尾到头打印链表|[offer06](./go/offer06.go)||
 |剑指 Offer II 029. 排序的循环链表|[p029](./go/offer029.go)||
 |剑指 Offer II 091. 粉刷房子|[p091](./go/offer091.go)||
