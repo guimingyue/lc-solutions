@@ -162,6 +162,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 629. K Inverse Pairs Array                                        | [p629](./rust/src/lc/p629.rs)            | `Vec`                                            |
 | 630. Course Schedule III                                          | [p630](./rust/src/lc/p630.rs)            | `Vec`,`sort_by`,`BinaryHeap`                     |
 | 638. Shopping Offers                                              | [p638](./rust/src/lc/p638.rs)            | `Vec`,`Reference`,`std::cmp::min`                |
+| 648. Replace Words                                              | [p648](./go/p648.go)            | |
 | 661. Image Smoother                                               | [p661](./rust/src/lc/p661.rs)            | `const`                                          |
 | 668. Kth Smallest Number in Multiplication Table                  | [p668](./rust/src/lc/p668.rs)            |                                                  |
 | 677. Map Sum Pairs                                                | [p677](./rust/src/lc/p677.rs)            | `HashMap`,`PartialEq`,`Eq`,`Default`             |
@@ -177,6 +178,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 719. Find K-th Smallest Pair Distance                                   | [p719](./rust/src/lc/p719.rs)            |`BTreeMap`|
 | 720. Longest Word in Dictionary                                   | [p720](./rust/src/lc/p720.rs)            | `HashSet`,`String.gt`                            |
 | 728. Self Dividing Numbers                                        | [p728](./rust/src/lc/p728.rs)            | `HashSet`,`String.gt`                            |
+| 729. My Calendar I                                        | [p729](./go/p729.go)            |  |
 | 730. Count Different Palindromic Subsequences                                       | [p730](./go/p730.rs)            |                            |
 | 732. My Calendar III                                        | [p732](./g0/p732.rs)            |  |
 | 744. Find Smallest Letter Greater Than Target                     | [p744](./rust/src/lc/p744.rs)            ||
@@ -202,6 +204,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 859. Buddy Strings                                                | [p859](./rust/src/lc/p859.rs)            | `String`                                         |
 | 868. Binary Gap                                                   | [p868](./rust/src/lc/p868.rs)            ||
 | 869. Reordered Power of 2                                         | [p869](./rust/src/lc/p869.rs)            | `HashSet`,`BinaryHeap`,`Reverse`                 |
+| 873. Length of Longest Fibonacci Subsequence    | [p873](./go/p873.go)            |               |
 | 875. Koko Eating Bananas                                         | [p875](./go/p875.go)            |               |
 | 883. Projection Area of 3D Shapes                                 | [p883](./rust/src/lc/p883.rs)            | `HashMap`                                        |
 | 884. Uncommon Words from Two Sentences                            | [p884](./rust/src/lc/p884.rs)            | `HashMap`,`String`,`split`                       |
@@ -238,6 +241,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1175. Prime Arrangements                       | [p1175](./go/p1175.go)          | |
 | 1185. Day of the Week                                             | [p1185](./rust/src/lc/p1185.rs)          | `const`                                          |
 | 1189. Maximum Number of Balloons                                  | [p1189](./rust/src/lc/p1189.rs)          | `HashMap`                                        |
+| 1200. Minimum Absolute Difference                                  | [p1200](./go/p1200.go)          | |
+| 1217. Minimum Cost to Move Chips to The Same Position          | [p1218](./go/p1217.go)          ||
 | 1218. Longest Arithmetic Subsequence of Given Difference          | [p1218](./rust/src/lc/p1218.rs)          | `Vec`,`max`,`HashMap`                            |
 | 1219. Path with Maximum Gold                                      | [p1219](./rust/src/lc/p1219.rs)          | `Vec`                                            |
 | 1332. Remove Palindromic Subsequences                             | [p1332](./rust/src/lc/p1332.rs)          | `String`                                         |
