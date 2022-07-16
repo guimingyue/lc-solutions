@@ -152,7 +152,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 539. Minimum Time Difference                                      | [p539](./rust/src/lc/p539.rs)            | `Vec`                                            |
 | 540. Single Element in a Sorted Array                             | [p540](./rust/src/lc/p540.rs)            ||
 | 553. Optimal Division                                             | [p553](./rust/src/lc/p553.rs)            | `format!`                                        |
-| 556.  Next Greater Element III          | [p556](./go/p556.go)            |                                        |
+| 556. Next Greater Element III          | [p556](./go/p556.go)            |                                        |
+| 558.  Logical OR of Two Binary Grids Represented as Quad-Trees | [p558](./go/p558.go)            |                                        |
 | 563. Binary Tree Tilt                                             | [p563](./rust/src/lc/p563.rs)            | `Option`,`Rc`,`RefCell`,`abs`                    |
 | 564. Find the Closest Palindrome                                  | [p564](./rust/src/lc/p564.rs)            | `FromStr`,`Vec.extend`,`Vec.extend_from_slice`   |
 | 575. Distribute Candies                                           | [p575](./rust/src/lc/p575.rs)            | `HashMap`,`std::cmp::min`                        |
@@ -165,6 +166,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 648. Replace Words                                              | [p648](./go/p648.go)            | |
 | 661. Image Smoother                                               | [p661](./rust/src/lc/p661.rs)            | `const`                                          |
 | 668. Kth Smallest Number in Multiplication Table                  | [p668](./rust/src/lc/p668.rs)            |                                                  |
+| 676. Implement Magic Dictionary | [p676](./go/p676.go)            |             |
 | 677. Map Sum Pairs                                                | [p677](./rust/src/lc/p677.rs)            | `HashMap`,`PartialEq`,`Eq`,`Default`             |
 | 686. Baseball Game                                                | [p682](./rust/src/lc/p682.rs)            ||
 | 686. Repeated String Match                                        | [p686](./rust/src/lc/p686.rs)            | `String`,`contains`                              |
@@ -180,8 +182,10 @@ The following table is the link for problem solutions with realted Rust topics o
 | 728. Self Dividing Numbers                                        | [p728](./rust/src/lc/p728.rs)            | `HashSet`,`String.gt`                            |
 | 729. My Calendar I                                        | [p729](./go/p729.go)            |  |
 | 730. Count Different Palindromic Subsequences                                       | [p730](./go/p730.rs)            |                            |
-| 732. My Calendar III                                        | [p732](./g0/p732.rs)            |  |
+| 732. My Calendar III                                        | [p732](./rust/src/lc/p732.rs)            |  |
+| 735. Asteroid Collision  | [p735](./g0/p735.go)            |  |
 | 744. Find Smallest Letter Greater Than Target                     | [p744](./rust/src/lc/p744.rs)            ||
+| 745. Prefix and Suffix Search                     | [p745](./go/p745.go)            ||
 | 747. Largest Number At Least Twice of Others                      | [p747](./rust/src/lc/p747.rs)            | `Vec`                                            |
 | 748. Shortest Completing Word                                     | [p748](./rust/src/lc/p748.rs)            | `Vec`,`match`                                    |
 | 762. Prime Number of Set Bits in Binary Representation            | [p762](./rust/src/lc/p762.rs)            ||
@@ -245,6 +249,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1217. Minimum Cost to Move Chips to The Same Position          | [p1218](./go/p1217.go)          ||
 | 1218. Longest Arithmetic Subsequence of Given Difference          | [p1218](./rust/src/lc/p1218.rs)          | `Vec`,`max`,`HashMap`                            |
 | 1219. Path with Maximum Gold                                      | [p1219](./rust/src/lc/p1219.rs)          | `Vec`                                            |
+| 1252. Cells with Odd Values in a Matrix   | [p1252](./go/p1252.go)          |                                          |
 | 1332. Remove Palindromic Subsequences                             | [p1332](./rust/src/lc/p1332.rs)          | `String`                                         |
 | 1342. Number of Steps to Reduce a Number to Zero                  | [p1342](./rust/src/lc/p1342.rs)          ||
 | 1345. Jump Game IV                                                | [p1345](./rust/src/lc/p1345.rs)          | `HashMap`,`HashSet`,`VecDeque`                   |
@@ -314,5 +319,6 @@ The following table is the link for problem solutions with realted Rust topics o
 |剑指 Offer 03. 数组中重复的数字|[offer03](./go/offer03.go)||
 |剑指 Offer 04. 二维数组中的查找|[offer04](./go/offer04.go)||
 |剑指 Offer 06. 从尾到头打印链表|[offer06](./go/offer06.go)||
-|剑指 Offer II 029. 排序的循环链表|[p029](./go/offer029.go)||
+|剑指 Offer II 029. 排序的循环链表|[offer029](./go/offer029.go)||
+|剑指 Offer II 041. 滑动窗口的平均值|[offerII041](./go/offerII041.go)||
 |剑指 Offer II 091. 粉刷房子|[p091](./go/offer091.go)||
