@@ -156,6 +156,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 558.  Logical OR of Two Binary Grids Represented as Quad-Trees | [p558](./go/p558.go)            |                                        |
 | 563. Binary Tree Tilt                                             | [p563](./rust/src/lc/p563.rs)            | `Option`,`Rc`,`RefCell`,`abs`                    |
 | 564. Find the Closest Palindrome                                  | [p564](./rust/src/lc/p564.rs)            | `FromStr`,`Vec.extend`,`Vec.extend_from_slice`   |
+| 565. Array Nesting| [p565](./go/p566.go)            | |
 | 575. Distribute Candies                                           | [p575](./rust/src/lc/p575.rs)            | `HashMap`,`std::cmp::min`                        |
 | 594. Longest Harmonious Subsequence                               | [p594](./rust/src/lc/p594.rs)            | `BTreeMap`,`max`                                 |
 | 598. Range Addition II                                            | [p598](./rust/src/lc/p598.rs)            | `Vec`,`min`                                      |
