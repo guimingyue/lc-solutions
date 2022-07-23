@@ -183,12 +183,14 @@ The following table is the link for problem solutions with realted Rust topics o
 | 728. Self Dividing Numbers                                        | [p728](./rust/src/lc/p728.rs)            | `HashSet`,`String.gt`                            |
 | 729. My Calendar I                                        | [p729](./go/p729.go)            |  |
 | 730. Count Different Palindromic Subsequences                                       | [p730](./go/p730.rs)            |                            |
+| 731. My Calendar II                                     | [p731](./go/p731.go)            |  |
 | 732. My Calendar III                                        | [p732](./rust/src/lc/p732.rs)            |  |
 | 735. Asteroid Collision  | [p735](./g0/p735.go)            |  |
 | 744. Find Smallest Letter Greater Than Target                     | [p744](./rust/src/lc/p744.rs)            ||
 | 745. Prefix and Suffix Search                     | [p745](./go/p745.go)            ||
 | 747. Largest Number At Least Twice of Others                      | [p747](./rust/src/lc/p747.rs)            | `Vec`                                            |
 | 748. Shortest Completing Word                                     | [p748](./rust/src/lc/p748.rs)            | `Vec`,`match`                                    |
+| 757. Set Intersection Size At Least Two         | [p757](./rust/src/lc/p757.rs)            |                                     |
 | 762. Prime Number of Set Bits in Binary Representation            | [p762](./rust/src/lc/p762.rs)            ||
 | 780. Reaching Points                                              | [p780](./rust/src/lc/p780.rs)            ||
 | 786. K-th Smallest Prime Fraction                                 | [p786](./rust/src/lc/p786.rs)            | `sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse` |
@@ -199,6 +201,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 806. Number of Lines To Write String                              | [p806](./rust/src/lc/p806.rs)            ||
 | 807. Max Increase to Keep City Skyline                            | [p807](./rust/src/lc/p807.rs)            | `Vec`                                            |
 | 812. Largest Triangle Area                                        | [p812](./rust/src/lc/p812.rs)            | `f64`                                            |
+| 814. Binary Tree Pruning                                       | [p814](./go/p814.go)            |                                        |
 | 819. Most Common Word                                             | [p819](./rust/src/lc/p819.rs)            | `HashMap`                                        |
 | 825. Friends Of Appropriate Ages                                  | [p825](./rust/src/lc/p825.rs)            | `Vec`                                            |
 | 829. Consecutive Numbers Sum                                  | [p829](./rust/src/lc/p829.rs)            |                                               |
@@ -251,6 +254,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1218. Longest Arithmetic Subsequence of Given Difference          | [p1218](./rust/src/lc/p1218.rs)          | `Vec`,`max`,`HashMap`                            |
 | 1219. Path with Maximum Gold                                      | [p1219](./rust/src/lc/p1219.rs)          | `Vec`                                            |
 | 1252. Cells with Odd Values in a Matrix   | [p1252](./go/p1252.go)          |                                          |
+| 1260. Shift 2D Grid   | [p1260](./go/p1260.go)          |                                          |
 | 1332. Remove Palindromic Subsequences                             | [p1332](./rust/src/lc/p1332.rs)          | `String`                                         |
 | 1342. Number of Steps to Reduce a Number to Zero                  | [p1342](./rust/src/lc/p1342.rs)          ||
 | 1345. Jump Game IV                                                | [p1345](./rust/src/lc/p1345.rs)          | `HashMap`,`HashSet`,`VecDeque`                   |
@@ -323,3 +327,4 @@ The following table is the link for problem solutions with realted Rust topics o
 |剑指 Offer II 029. 排序的循环链表|[offer029](./go/offer029.go)||
 |剑指 Offer II 041. 滑动窗口的平均值|[offerII041](./go/offerII041.go)||
 |剑指 Offer II 091. 粉刷房子|[p091](./go/offer091.go)||
+|剑指 Offer II 115. 重建序列|[p115](./rust/src/offer/offerII115.rs)||
