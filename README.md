@@ -158,6 +158,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 564. Find the Closest Palindrome                                  | [p564](./rust/src/lc/p564.rs)            | `FromStr`,`Vec.extend`,`Vec.extend_from_slice`   |
 | 565. Array Nesting| [p565](./go/p566.go)            | |
 | 575. Distribute Candies                                           | [p575](./rust/src/lc/p575.rs)            | `HashMap`,`std::cmp::min`                        |
+| 592. Fraction Addition and Subtraction         [p592](./go/p592.go)            |                       |
 | 594. Longest Harmonious Subsequence                               | [p594](./rust/src/lc/p594.rs)            | `BTreeMap`,`max`                                 |
 | 598. Range Addition II                                            | [p598](./rust/src/lc/p598.rs)            | `Vec`,`min`                                      |
 | 606. Construct String from Binary Tree                            | [p606](./rust/src/lc/p606.rs)            | `Rc`,`RefCell`                                   |
@@ -222,6 +223,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 908. Smallest Range I                                             | [p908](./rust/src/lc/p908.rs)            ||
 | 911. Online Election                                              | [p911](./rust/src/lc/p911.rs)            | `Vec`,`HashMap`,`binary_search`,`match`          |
 | 917. Number Of Ways To Reconstruct A Tree                         | [p917](./rust/src/lc/p917.rs)            | `Vec.swap`                                       |
+| 919. Complete Binary Tree Inserter                         | [p919](./go/p919.go)            |                                      |
 | 926. Flip String to Monotone Increasing                        | [p926](./go/p926.go)            |                                        |
 | 929. Unique Email Addresses                        | [p929](./go/p929.go)            |                                        |
 | 935. Knight Dialer                                                | [p935](./rust/src/lc/p935.rs)            | `Vec`                                            |
@@ -246,7 +248,9 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1089. Duplicate Zeros                                    | [p1089](./go/p1089.go)          |     |
 | 1108. Defanging an IP Address                                    | [p1108](./go/p1108.go)          |     |
 | 1154. Day of the Year                                             | [p1154](./rust/src/lc/p1154.rs)          | `match`,`match-if`,`const`                       |
+| 1161. Maximum Level Sum of a Binary Tree                                             | [p1161](./go/p1161.go)          |                        |
 | 1175. Prime Arrangements                       | [p1175](./go/p1175.go)          | |
+| 1184. Distance Between Bus Stops   | [p1184](./go/p1184.go)          |                                        |
 | 1185. Day of the Week                                             | [p1185](./rust/src/lc/p1185.rs)          | `const`                                          |
 | 1189. Maximum Number of Balloons                                  | [p1189](./rust/src/lc/p1189.rs)          | `HashMap`                                        |
 | 1200. Minimum Absolute Difference                                  | [p1200](./go/p1200.go)          | |
@@ -255,6 +259,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1219. Path with Maximum Gold                                      | [p1219](./rust/src/lc/p1219.rs)          | `Vec`                                            |
 | 1252. Cells with Odd Values in a Matrix   | [p1252](./go/p1252.go)          |                                          |
 | 1260. Shift 2D Grid   | [p1260](./go/p1260.go)          |                                          |
+| 1331. Rank Transform of an Array  | [p1331](./go/p1331.go)          |                                          |
 | 1332. Remove Palindromic Subsequences                             | [p1332](./rust/src/lc/p1332.rs)          | `String`                                         |
 | 1342. Number of Steps to Reduce a Number to Zero                  | [p1342](./rust/src/lc/p1342.rs)          ||
 | 1345. Jump Game IV                                                | [p1345](./rust/src/lc/p1345.rs)          | `HashMap`,`HashSet`,`VecDeque`                   |
