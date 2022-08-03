@@ -162,6 +162,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 594. Longest Harmonious Subsequence                               | [p594](./rust/src/lc/p594.rs)            | `BTreeMap`,`max`                                 |
 | 598. Range Addition II                                            | [p598](./rust/src/lc/p598.rs)            | `Vec`,`min`                                      |
 | 606. Construct String from Binary Tree                            | [p606](./rust/src/lc/p606.rs)            | `Rc`,`RefCell`                                   |
+| 622. Design Circular Queue | [p622](./go/p622.go)            |                                           |
 | 629. K Inverse Pairs Array                                        | [p629](./rust/src/lc/p629.rs)            | `Vec`                                            |
 | 630. Course Schedule III                                          | [p630](./rust/src/lc/p630.rs)            | `Vec`,`sort_by`,`BinaryHeap`                     |
 | 638. Shopping Offers                                              | [p638](./rust/src/lc/p638.rs)            | `Vec`,`Reference`,`std::cmp::min`                |
@@ -218,6 +219,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 883. Projection Area of 3D Shapes                                 | [p883](./rust/src/lc/p883.rs)            | `HashMap`                                        |
 | 884. Uncommon Words from Two Sentences                            | [p884](./rust/src/lc/p884.rs)            | `HashMap`,`String`,`split`                       |
 | 890. Find and Replace Pattern                           | [p890](./go/p890.go)            |                       |
+| 899. Orderly Queue                           | [p899](./rust/src/lc/p899.rs)            |                       |
 | 897. Increasing Order Search Tree                           | [p897](./go/p897.go)            |                       |
 | 905. Sort Array By Parity                                         | [p905](./rust/src/lc/p905.rs)            ||
 | 908. Smallest Range I                                             | [p908](./rust/src/lc/p908.rs)            ||
@@ -264,6 +266,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1342. Number of Steps to Reduce a Number to Zero                  | [p1342](./rust/src/lc/p1342.rs)          ||
 | 1345. Jump Game IV                                                | [p1345](./rust/src/lc/p1345.rs)          | `HashMap`,`HashSet`,`VecDeque`                   |
 | 1351. Count Negative Numbers in a Sorted Matrix                                               | [p1351](./go/p1351.go)          | |
+| 1374. Generate a String With Characters That Have Odd Counts   | [p1374](./go/p1374.go)          | |
 | 1380. Lucky Numbers in a Matrix                                   | [p1380](./rust/src/lc/p1380.rs)          | `Vec`                                            |
 | 1385.  Find the Distance Value Between Two Arrays                                   | [p1385](./go/p1385.go)          |                                            |
 | 1405. Longest Happy String                                        | [p1405](./rust/src/lc/p1405.rs)          | `BinaryHeap`,`Vec`                               |
