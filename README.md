@@ -163,9 +163,11 @@ The following table is the link for problem solutions with realted Rust topics o
 | 598. Range Addition II                                            | [p598](./rust/src/lc/p598.rs)            | `Vec`,`min`                                      |
 | 606. Construct String from Binary Tree                            | [p606](./rust/src/lc/p606.rs)            | `Rc`,`RefCell`                                   |
 | 622. Design Circular Queue | [p622](./go/p622.go)            |                                           |
+| 623. Add One Row to Tree | [p623](./go/p623.go)            |                                           |
 | 629. K Inverse Pairs Array                                        | [p629](./rust/src/lc/p629.rs)            | `Vec`                                            |
 | 630. Course Schedule III                                          | [p630](./rust/src/lc/p630.rs)            | `Vec`,`sort_by`,`BinaryHeap`                     |
 | 638. Shopping Offers                                              | [p638](./rust/src/lc/p638.rs)            | `Vec`,`Reference`,`std::cmp::min`                |
+| 640. Solve the Equation  | [p640](./go/p640.go)            | |
 | 648. Replace Words                                              | [p648](./go/p648.go)            | |
 | 661. Image Smoother                                               | [p661](./rust/src/lc/p661.rs)            | `const`                                          |
 | 668. Kth Smallest Number in Multiplication Table                  | [p668](./rust/src/lc/p668.rs)            |                                                  |
@@ -194,6 +196,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 748. Shortest Completing Word                                     | [p748](./rust/src/lc/p748.rs)            | `Vec`,`match`                                    |
 | 757. Set Intersection Size At Least Two         | [p757](./rust/src/lc/p757.rs)            |                                     |
 | 762. Prime Number of Set Bits in Binary Representation            | [p762](./rust/src/lc/p762.rs)            ||
+| 768. Max Chunks To Make Sorted II            | [p768](./go/p768.go)            ||
+| 769. Max Chunks To Make Sorted            | [p769](./go/p769.go)            ||
 | 780. Reaching Points                                              | [p780](./rust/src/lc/p780.rs)            ||
 | 786. K-th Smallest Prime Fraction                                 | [p786](./rust/src/lc/p786.rs)            | `sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse` |
 | 794. Valid Tic-Tac-Toe State                                      | [p794](./rust/src/lc/p794.rs)            | `Vec`                                            |
@@ -261,6 +265,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1219. Path with Maximum Gold                                      | [p1219](./rust/src/lc/p1219.rs)          | `Vec`                                            |
 | 1252. Cells with Odd Values in a Matrix   | [p1252](./go/p1252.go)          |                                          |
 | 1260. Shift 2D Grid   | [p1260](./go/p1260.go)          |                                          |
+| 1282. Group the People Given the Group Size They Belong To  | [p1282](./go/p1282.go)          |                                          |
 | 1331. Rank Transform of an Array  | [p1331](./go/p1331.go)          |                                          |
 | 1332. Remove Palindromic Subsequences                             | [p1332](./rust/src/lc/p1332.rs)          | `String`                                         |
 | 1342. Number of Steps to Reduce a Number to Zero                  | [p1342](./rust/src/lc/p1342.rs)          ||
@@ -269,8 +274,12 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1374. Generate a String With Characters That Have Odd Counts   | [p1374](./go/p1374.go)          | |
 | 1380. Lucky Numbers in a Matrix                                   | [p1380](./rust/src/lc/p1380.rs)          | `Vec`                                            |
 | 1385.  Find the Distance Value Between Two Arrays                                   | [p1385](./go/p1385.go)          |                                            |
+| 1403. Minimum Subsequence in Non-Increasing Order    | [p1403](../go/p1403.go)          ||
 | 1405. Longest Happy String                                        | [p1405](./rust/src/lc/p1405.rs)          | `BinaryHeap`,`Vec`                               |
+| 1408. String Matching in an Array  | [p1408](./go/p1408.go)          | |
+| 1413. Minimum Value to Get Positive Step by Step Sum| [p1413](./go/p1413.go)          ||
 | 1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | [p1414](./rust/src/lc/p1414.rs)          | `binary_search`                                  |
+| 1417. Reformat The String | [p1417](./go/p1417.go)          |                                |
 | 1436. Destination City                                            | [p1436](./rust/src/lc/p1436/Solution.rs) | `String`,`Vec`,`HashMap`                         |
 | 1446. Consecutive Characters                                      | [p1446](./rust/src/lc/p1446.rs)          | `String`,`max`                                   |
 | 1446. Simplified Fractions                                        | [p1447](./rust/src/lc/p1447.rs)          | `format!`                                        |
