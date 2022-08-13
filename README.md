@@ -274,7 +274,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1374. Generate a String With Characters That Have Odd Counts   | [p1374](./go/p1374.go)          | |
 | 1380. Lucky Numbers in a Matrix                                   | [p1380](./rust/src/lc/p1380.rs)          | `Vec`                                            |
 | 1385.  Find the Distance Value Between Two Arrays                                   | [p1385](./go/p1385.go)          |                                            |
-| 1403. Minimum Subsequence in Non-Increasing Order    | [p1403](../go/p1403.go)          ||
+| 1403. Minimum Subsequence in Non-Increasing Order    | [p1403](./go/p1403.go)          ||
 | 1405. Longest Happy String                                        | [p1405](./rust/src/lc/p1405.rs)          | `BinaryHeap`,`Vec`                               |
 | 1408. String Matching in an Array  | [p1408](./go/p1408.go)          | |
 | 1413. Minimum Value to Get Positive Step by Step Sum| [p1413](./go/p1413.go)          ||
