@@ -280,6 +280,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1413. Minimum Value to Get Positive Step by Step Sum| [p1413](./go/p1413.go)          ||
 | 1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | [p1414](./rust/src/lc/p1414.rs)          | `binary_search`                                  |
 | 1417. Reformat The String | [p1417](./go/p1417.go)          |                                |
+| 1422. Maximum Score After Splitting a String | [p1422](./go/p1422.go)          |                                |
 | 1436. Destination City                                            | [p1436](./rust/src/lc/p1436/Solution.rs) | `String`,`Vec`,`HashMap`                         |
 | 1446. Consecutive Characters                                      | [p1446](./rust/src/lc/p1446.rs)          | `String`,`max`                                   |
 | 1446. Simplified Fractions                                        | [p1447](./rust/src/lc/p1447.rs)          | `format!`                                        |
