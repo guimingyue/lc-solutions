@@ -168,6 +168,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 630. Course Schedule III                                          | [p630](./rust/src/lc/p630.rs)            | `Vec`,`sort_by`,`BinaryHeap`                     |
 | 638. Shopping Offers                                              | [p638](./rust/src/lc/p638.rs)            | `Vec`,`Reference`,`std::cmp::min`                |
 | 640. Solve the Equation  | [p640](./go/p640.go)            | |
+| 641. Design Circular Deque  | [p641](./go/p641.go)            | |
 | 648. Replace Words                                              | [p648](./go/p648.go)            | |
 | 661. Image Smoother                                               | [p661](./rust/src/lc/p661.rs)            | `const`                                          |
 | 668. Kth Smallest Number in Multiplication Table                  | [p668](./rust/src/lc/p668.rs)            |                                                  |
@@ -263,9 +264,11 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1217. Minimum Cost to Move Chips to The Same Position          | [p1218](./go/p1217.go)          ||
 | 1218. Longest Arithmetic Subsequence of Given Difference          | [p1218](./rust/src/lc/p1218.rs)          | `Vec`,`max`,`HashMap`                            |
 | 1219. Path with Maximum Gold                                      | [p1219](./rust/src/lc/p1219.rs)          | `Vec`                                            |
+| 1224. Maximum Equal Frequency    | [p1224](./rust/src/lc/p1224.rs)          | `HashMap`                                            |
 | 1252. Cells with Odd Values in a Matrix   | [p1252](./go/p1252.go)          |                                          |
 | 1260. Shift 2D Grid   | [p1260](./go/p1260.go)          |                                          |
 | 1282. Group the People Given the Group Size They Belong To  | [p1282](./go/p1282.go)          |                                          |
+| 1302. Deepest Leaves Sum  | [p1302](./go/p1302.go)          |                                          |
 | 1331. Rank Transform of an Array  | [p1331](./go/p1331.go)          |                                          |
 | 1332. Remove Palindromic Subsequences                             | [p1332](./rust/src/lc/p1332.rs)          | `String`                                         |
 | 1342. Number of Steps to Reduce a Number to Zero                  | [p1342](./rust/src/lc/p1342.rs)          ||
@@ -283,7 +286,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1422. Maximum Score After Splitting a String | [p1422](./go/p1422.go)          |                                |
 | 1436. Destination City                                            | [p1436](./rust/src/lc/p1436/Solution.rs) | `String`,`Vec`,`HashMap`                         |
 | 1446. Consecutive Characters                                      | [p1446](./rust/src/lc/p1446.rs)          | `String`,`max`                                   |
-| 1446. Simplified Fractions                                        | [p1447](./rust/src/lc/p1447.rs)          | `format!`                                        |
+| 1447. Simplified Fractions                                        | [p1447](./rust/src/lc/p1447.rs)          | `format!`                                        |
+| 1450. Number of Students Doing Homework at a Given Time   | [p1450](./go/p1450.go)          |    |
 | 1518. Water Bottles                                               | [p1518](./rust/src/lc/p1518.rs)          ||
 | 1539. Kth Missing Positive Number                               | [p1539](./go/p1539.go)          ||
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters   | [p1576](./rust/src/lc/p1576.rs)          ||
@@ -294,6 +298,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1614. Maximum Nesting Depth of the Parentheses                    | [p1614](./rust/src/lc/p1614.rs)          | `Vec(stack)`                                     |
 | 1629. Slowest Key                                                 | [p1629](./rust/src/lc/p1629.rs)          | `Vec`,`String`                                   |
 | 1631. Path With Minimum Effort                                    | [p1631](./rust/src/lc/p1631.rs)          | `Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple` |
+| 1656. Design an Ordered Stream | [p1631](./go/p1656.go)          | |
 | 1672. Richest Customer Wealth                                     | [p1672](./rust/src/lc/p1672.rs)          | `Iter.map`,`Iter.sum`,`Iter.max`                 |
 | 1688. Count of Matches in Tournament                              | [p1688](./rust/src/lc/p1688.rs)          ||
 | 1705. Maximum Number of Eaten Apples                              | [p1705](./rust/src/lc/p1705.rs)          | `Vec`,`Reverse`                                  |
