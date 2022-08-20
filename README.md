@@ -170,6 +170,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 640. Solve the Equation  | [p640](./go/p640.go)            | |
 | 641. Design Circular Deque  | [p641](./go/p641.go)            | |
 | 648. Replace Words                                              | [p648](./go/p648.go)            | |
+| 654. Maximum Binary Tree        | [p654](./go/p654.go)            | |
 | 661. Image Smoother                                               | [p661](./rust/src/lc/p661.rs)            | `const`                                          |
 | 668. Kth Smallest Number in Multiplication Table                  | [p668](./rust/src/lc/p668.rs)            |                                                  |
 | 676. Implement Magic Dictionary | [p676](./go/p676.go)            |             |
