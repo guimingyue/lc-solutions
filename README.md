@@ -289,6 +289,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1446. Consecutive Characters                                      | [p1446](./rust/src/lc/p1446.rs)          | `String`,`max`                                   |
 | 1447. Simplified Fractions                                        | [p1447](./rust/src/lc/p1447.rs)          | `format!`                                        |
 | 1450. Number of Students Doing Homework at a Given Time   | [p1450](./go/p1450.go)          |    |
+| 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence   | [p1455](./go/p1455.go)          |    |
 | 1518. Water Bottles                                               | [p1518](./rust/src/lc/p1518.rs)          ||
 | 1539. Kth Missing Positive Number                               | [p1539](./go/p1539.go)          ||
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters   | [p1576](./rust/src/lc/p1576.rs)          ||
