@@ -1,3 +1,5 @@
+package leetcode
+
 func constructMaximumBinaryTree(nums []int) *TreeNode {
 	if len(nums) == 0 {
 		return nil

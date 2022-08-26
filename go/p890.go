@@ -1,3 +1,5 @@
+package leetcode
+
 func findAndReplacePattern(words []string, pattern string) []string {
 	res := make([]string, 0)
 	for i := 0; i < len(words); i++ {

@@ -1,5 +1,7 @@
+package p769
+
 func maxChunksToSorted(arr []int) int {
-    res := 0
+	res := 0
 	max := 0
 	maxf := func(a, b int) int {
 		if a > b {

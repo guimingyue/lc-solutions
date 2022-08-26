@@ -1,5 +1,7 @@
+package leetcode
+
 func minCost(costs [][]int) int {
-    min := func(v1 int, v2 int) int {
+	min := func(v1 int, v2 int) int {
 		if v1 > v2 {
 			return v2
 		} else {

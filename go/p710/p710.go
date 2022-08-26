@@ -1,3 +1,5 @@
+package p710
+
 import (
 	"github.com/emirpasic/gods/sets/hashset"
 	"math/rand"

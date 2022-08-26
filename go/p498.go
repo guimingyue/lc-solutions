@@ -1,3 +1,5 @@
+package leetcode
+
 func findDiagonalOrder(mat [][]int) []int {
 	dir := [][]int{{-1, 1}, {1, -1}}
 	res := make([]int, 0)

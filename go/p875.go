@@ -1,3 +1,5 @@
+package leetcode
+
 func minEatingSpeed(piles []int, h int) int {
 	max := piles[0]
 	sum := 0

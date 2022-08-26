@@ -1,3 +1,5 @@
+package leetcode
+
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
@@ -6,8 +8,8 @@
  *     Right *TreeNode
  * }
  */
- func largestValues(root *TreeNode) []int {
-    res := make([]int, 0)
+func largestValues(root *TreeNode) []int {
+	res := make([]int, 0)
 	if root == nil {
 		return res
 	}
@@ -31,4 +33,4 @@
 		res = append(res, max)
 	}
 	return res
-} 
+}

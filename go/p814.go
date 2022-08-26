@@ -1,3 +1,5 @@
+package leetcode
+
 func pruneTree(root *TreeNode) *TreeNode {
 	n, _ := prune(root)
 	return n

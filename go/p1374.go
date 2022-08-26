@@ -1,3 +1,5 @@
+package leetcode
+
 func generateTheString(n int) string {
 	arr := make([]byte, 26)
 	for i := 0; i < 26; i++ {

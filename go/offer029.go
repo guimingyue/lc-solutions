@@ -1,3 +1,5 @@
+package leetcode
+
 /**
  * Definition for a Node.
  * type Node struct {
@@ -6,8 +8,8 @@
  * }
  */
 
- func insert(aNode *Node, x int) *Node {
-    if aNode == nil {
+func insert(aNode *Node, x int) *Node {
+	if aNode == nil {
 		aNode = &Node{Val: x}
 		aNode.Next = aNode
 	} else {

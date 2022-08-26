@@ -1,5 +1,7 @@
+package leetcode
+
 func maxScore(s string) int {
-    zeroNum := 0
+	zeroNum := 0
 	oneNum := 0
 	for _, c := range s {
 		if c == '1' {

@@ -1,5 +1,7 @@
+package leetcode
+
 func asteroidCollision(asteroids []int) []int {
-    res := make([]int, 0)
+	res := make([]int, 0)
 	for _, aster := range asteroids {
 		alive := true
 		for alive && aster < 0 && len(res) > 0 && res[len(res)-1] > 0 {

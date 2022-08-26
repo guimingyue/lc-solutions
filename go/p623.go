@@ -1,3 +1,5 @@
+package leetcode
+
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
@@ -6,8 +8,8 @@
  *     Right *TreeNode
  * }
  */
- func addOneRow(root *TreeNode, val int, depth int) *TreeNode {
-    if depth == 1 {
+func addOneRow(root *TreeNode, val int, depth int) *TreeNode {
+	if depth == 1 {
 		return &TreeNode{Val: val, Left: root}
 	}
 	queue := make([]*TreeNode, 1)

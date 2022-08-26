@@ -1,3 +1,5 @@
+package leetcode
+
 func twoSum(numbers []int, target int) []int {
 	var i, j = 0, len(numbers) - 1
 	for i < j {

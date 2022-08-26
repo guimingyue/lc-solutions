@@ -1,3 +1,5 @@
+package leetcode
+
 func isBoomerang(points [][]int) bool {
 	if equals(points[0], points[1]) || equals(points[1], points[2]) || equals(points[0], points[2]) {
 		return false

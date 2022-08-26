@@ -1,3 +1,5 @@
+package p641
+
 type MyCircularDeque struct {
 	front, rear int
 	elements    []int
@@ -52,7 +54,7 @@ func (this *MyCircularDeque) GetRear() int {
 	if this.IsEmpty() {
 		return -1
 	}
-	idx := (this.rear - 1 +len(this.elements)) % len(this.elements)
+	idx := (this.rear - 1 + len(this.elements)) % len(this.elements)
 	return this.elements[idx]
 }
 

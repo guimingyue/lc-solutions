@@ -1,3 +1,5 @@
+package leetcode
+
 /**
  * Definition for singly-linked list.
  * type ListNode struct {
@@ -5,8 +7,8 @@
  *     Next *ListNode
  * }
  */
- func reversePrint(head *ListNode) []int {
-    arr := make([]int, 0)
+func reversePrint(head *ListNode) []int {
+	arr := make([]int, 0)
 	p := head
 	for p != nil {
 		arr = append(arr, p.Val)

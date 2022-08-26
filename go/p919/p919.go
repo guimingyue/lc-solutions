@@ -1,11 +1,15 @@
+package p919
+
+import "leetcode"
+
 type CBTInserter struct {
-	arr  []*TreeNode
-	root *TreeNode
+	arr  []*leetcode.TreeNode
+	root *leetcode.TreeNode
 }
 
-func Constructor(root *TreeNode) CBTInserter {
-	arr := make([]*TreeNode, 0)
-	q := make([]*TreeNode, 0)
+func Constructor(root *leetcode.TreeNode) CBTInserter {
+	arr := make([]*leetcode.TreeNode, 0)
+	q := make([]*leetcode.TreeNode, 0)
 	q = append(q, root)
 	for len(q) > 0 {
 		node := q[0]
@@ -21,7 +25,7 @@ func Constructor(root *TreeNode) CBTInserter {
 
 	a := arr
 	newRoot := a[0]
-	queue := make([]*TreeNode, 0)
+	queue := make([]*leetcode.TreeNode, 0)
 	queue = append(queue, newRoot)
 	i := 1
 	for i < len(a) {
@@ -42,7 +46,7 @@ func Constructor(root *TreeNode) CBTInserter {
 }
 
 func (this *CBTInserter) Insert(val int) int {
-	node := &TreeNode{Val: val}
+	node := &leetcode.TreeNode{Val: val}
 	this.arr = append(this.arr, node)
 	idx := len(this.arr)
 	parent := this.arr[idx/2-1]
@@ -54,6 +58,6 @@ func (this *CBTInserter) Insert(val int) int {
 	return parent.Val
 }
 
-func (this *CBTInserter) Get_root() *TreeNode {
+func (this *CBTInserter) Get_root() *leetcode.TreeNode {
 	return this.root
 }

@@ -1,5 +1,7 @@
+package leetcode
+
 func countNegatives(grid [][]int) int {
-    var m, n = len(grid) - 1, len(grid[0]) - 1
+	var m, n = len(grid) - 1, len(grid[0]) - 1
 	res := 0
 	for i := 0; i <= m; i++ {
 		var l, r = 0, n

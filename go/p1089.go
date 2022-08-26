@@ -1,3 +1,5 @@
+package leetcode
+
 func duplicateZeros(arr []int) {
 	cnt := 0
 	lastIdx := 0

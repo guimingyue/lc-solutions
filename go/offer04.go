@@ -1,3 +1,4 @@
+package leetcode
 
 func findNumberIn2DArray(matrix [][]int, target int) bool {
 	search := func(arr []int, target int) bool {

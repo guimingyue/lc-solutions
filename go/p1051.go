@@ -1,3 +1,7 @@
+package leetcode
+
+import "sort"
+
 func heightChecker(heights []int) int {
 	n := len(heights)
 	m := make([]int, n)

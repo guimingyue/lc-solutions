@@ -1,3 +1,5 @@
+package leetcode
+
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
@@ -6,7 +8,7 @@
  *     Right *TreeNode
  * }
  */
- func findFrequentTreeSum(root *TreeNode) []int {
+func findFrequentTreeSum(root *TreeNode) []int {
 	m := make(map[int]int)
 	findSumCnt(root, m)
 	res := make([]int, 0)

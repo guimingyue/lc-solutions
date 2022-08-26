@@ -1,5 +1,7 @@
+package leetcode
+
 func minStartValue(nums []int) int {
-    sum := 0
+	sum := 0
 	min := 100
 	for _, v := range nums {
 		sum += v

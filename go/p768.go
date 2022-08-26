@@ -1,5 +1,7 @@
+package leetcode
+
 func maxChunksToSorted(arr []int) int {
-    maxf := func(a, b int) int {
+	maxf := func(a, b int) int {
 		if a > b {
 			return a
 		}

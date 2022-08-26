@@ -126,14 +126,14 @@ The following table is the link for problem solutions with realted Rust topics o
 | 473. Matchsticks to Square                                        | [p473](./rust/src/lc/p473.rs)            | `<<`,`!`                                            |
 | 475. Heaters                                                      | [p475](./rust/src/lc/p475.rs)            | `Vec`                                            |
 | 476. Number Complement                                            | [p476](./rust/src/lc/p476.rs)            | `>>`,`<<`                                        |
-| 478. Generate Random Point in a Circle                                            | [p478](./go/p478.go)            |                                       |
+| 478. Generate Random Point in a Circle                                            | [p478](./go/p478/p478.go)            |                                       |
 | 479. Largest Palindrome Product                                   | [p479](./rust/src/lc/p479.rs)            | `pow`                                            |
 | 482. License Key Formatting                                       | [p482](./rust/src/lc/p482/Solution.rs)   | `String`,`slice`                                 |
 | 488. Zuma Game                                                    | [p488](./rust/src/lc/p488.rs)            | `HashSet`                                        |
 | 492. Construct the Rectangle                                      | [p492](./rust/src/lc/p492.rs)            | `sqrt`,`Vec`                                     |
 | 495. Teemo Attacking                                              | [p495](./rust/src/lc/p495.rs)            | `Vec`                                            |
 | 496. Next Greater Element I                                       | [p496](./rust/src/lc/p496.rs)            | `HashMap`,`Vec`                                  |
-| 497. Random Point in Non-overlapping Rectangles                   | [p497](./go/p497.go)            |                                  |
+| 497. Random Point in Non-overlapping Rectangles                   | [p497](./go/p497/p497.go)            |                                  |
 | 498. Diagonal Traverse                   | [p498](./go/p498.go)            |                                  |
 | 500. Keyboard Row                                                 | [p500](./rust/src/lc/p500.rs)            | `Vec`,`String`,`const`                           |
 | 504. Base 7                                                       | [p504](./rust/src/lc/p504.rs)            | `Vec.reverse`                                    |
@@ -153,7 +153,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 540. Single Element in a Sorted Array                             | [p540](./rust/src/lc/p540.rs)            ||
 | 553. Optimal Division                                             | [p553](./rust/src/lc/p553.rs)            | `format!`                                        |
 | 556. Next Greater Element III          | [p556](./go/p556.go)            |                                        |
-| 558.  Logical OR of Two Binary Grids Represented as Quad-Trees | [p558](./go/p558.go)            |                                        |
+| 558.  Logical OR of Two Binary Grids Represented as Quad-Trees | [p558](./go/p558/p558.go)            |                                        |
 | 563. Binary Tree Tilt                                             | [p563](./rust/src/lc/p563.rs)            | `Option`,`Rc`,`RefCell`,`abs`                    |
 | 564. Find the Closest Palindrome                                  | [p564](./rust/src/lc/p564.rs)            | `FromStr`,`Vec.extend`,`Vec.extend_from_slice`   |
 | 565. Array Nesting| [p565](./go/p566.go)            | |
@@ -162,18 +162,18 @@ The following table is the link for problem solutions with realted Rust topics o
 | 594. Longest Harmonious Subsequence                               | [p594](./rust/src/lc/p594.rs)            | `BTreeMap`,`max`                                 |
 | 598. Range Addition II                                            | [p598](./rust/src/lc/p598.rs)            | `Vec`,`min`                                      |
 | 606. Construct String from Binary Tree                            | [p606](./rust/src/lc/p606.rs)            | `Rc`,`RefCell`                                   |
-| 622. Design Circular Queue | [p622](./go/p622.go)            |                                           |
+| 622. Design Circular Queue | [p622](./go/p622/p622.go)            |                                           |
 | 623. Add One Row to Tree | [p623](./go/p623.go)            |                                           |
 | 629. K Inverse Pairs Array                                        | [p629](./rust/src/lc/p629.rs)            | `Vec`                                            |
 | 630. Course Schedule III                                          | [p630](./rust/src/lc/p630.rs)            | `Vec`,`sort_by`,`BinaryHeap`                     |
 | 638. Shopping Offers                                              | [p638](./rust/src/lc/p638.rs)            | `Vec`,`Reference`,`std::cmp::min`                |
 | 640. Solve the Equation  | [p640](./go/p640.go)            | |
-| 641. Design Circular Deque  | [p641](./go/p641.go)            | |
+| 641. Design Circular Deque  | [p641](./go/p641/p641.go)            | |
 | 648. Replace Words                                              | [p648](./go/p648.go)            | |
 | 654. Maximum Binary Tree        | [p654](./go/p654.go)            | |
 | 661. Image Smoother                                               | [p661](./rust/src/lc/p661.rs)            | `const`                                          |
 | 668. Kth Smallest Number in Multiplication Table                  | [p668](./rust/src/lc/p668.rs)            |                                                  |
-| 676. Implement Magic Dictionary | [p676](./go/p676.go)            |             |
+| 676. Implement Magic Dictionary | [p676](./go/p676/p676.go)            |             |
 | 677. Map Sum Pairs                                                | [p677](./rust/src/lc/p677.rs)            | `HashMap`,`PartialEq`,`Eq`,`Default`             |
 | 686. Baseball Game                                                | [p682](./rust/src/lc/p682.rs)            ||
 | 686. Repeated String Match                                        | [p686](./rust/src/lc/p686.rs)            | `String`,`contains`                              |
@@ -187,19 +187,19 @@ The following table is the link for problem solutions with realted Rust topics o
 | 719. Find K-th Smallest Pair Distance                                   | [p719](./rust/src/lc/p719.rs)            |`BTreeMap`|
 | 720. Longest Word in Dictionary                                   | [p720](./rust/src/lc/p720.rs)            | `HashSet`,`String.gt`                            |
 | 728. Self Dividing Numbers                                        | [p728](./rust/src/lc/p728.rs)            | `HashSet`,`String.gt`                            |
-| 729. My Calendar I                                        | [p729](./go/p729.go)            |  |
+| 729. My Calendar I                                        | [p729](./go/p729/p729.go)            |  |
 | 730. Count Different Palindromic Subsequences                                       | [p730](./go/p730.rs)            |                            |
-| 731. My Calendar II                                     | [p731](./go/p731.go)            |  |
+| 731. My Calendar II                                     | [p731](./rust/src/lc/p731.rs)            |  |
 | 732. My Calendar III                                        | [p732](./rust/src/lc/p732.rs)            |  |
 | 735. Asteroid Collision  | [p735](./g0/p735.go)            |  |
 | 744. Find Smallest Letter Greater Than Target                     | [p744](./rust/src/lc/p744.rs)            ||
-| 745. Prefix and Suffix Search                     | [p745](./go/p745.go)            ||
+| 745. Prefix and Suffix Search                     | [p745](./go/p745/p745.go)            ||
 | 747. Largest Number At Least Twice of Others                      | [p747](./rust/src/lc/p747.rs)            | `Vec`                                            |
 | 748. Shortest Completing Word                                     | [p748](./rust/src/lc/p748.rs)            | `Vec`,`match`                                    |
 | 757. Set Intersection Size At Least Two         | [p757](./rust/src/lc/p757.rs)            |                                     |
 | 762. Prime Number of Set Bits in Binary Representation            | [p762](./rust/src/lc/p762.rs)            ||
 | 768. Max Chunks To Make Sorted II            | [p768](./go/p768.go)            ||
-| 769. Max Chunks To Make Sorted            | [p769](./go/p769.go)            ||
+| 769. Max Chunks To Make Sorted            | [p769](./go/p769/p769.go)            ||
 | 780. Reaching Points                                              | [p780](./rust/src/lc/p780.rs)            ||
 | 786. K-th Smallest Prime Fraction                                 | [p786](./rust/src/lc/p786.rs)            | `sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse` |
 | 794. Valid Tic-Tac-Toe State                                      | [p794](./rust/src/lc/p794.rs)            | `Vec`                                            |

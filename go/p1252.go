@@ -1,3 +1,5 @@
+package leetcode
+
 func oddCells(m int, n int, indices [][]int) int {
 	matrix := make([][]int, m)
 	for i := 0; i < m; i++ {

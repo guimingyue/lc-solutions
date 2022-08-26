@@ -1,5 +1,9 @@
-func wiggleSort(nums []int)  {
-    sort.Slice(nums, func(i, j int) bool {
+package leetcode
+
+import "sort"
+
+func wiggleSort(nums []int) {
+	sort.Slice(nums, func(i, j int) bool {
 		return nums[i]-nums[j] > 0
 	})
 	arr := make([]int, len(nums))

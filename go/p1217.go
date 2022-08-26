@@ -1,4 +1,4 @@
-
+package leetcode
 
 func minCostToMoveChips(position []int) int {
 	abs := func(a int, b int) int {

@@ -1,3 +1,5 @@
+package leetcode
+
 import (
 	"sort"
 	"strings"

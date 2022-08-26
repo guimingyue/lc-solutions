@@ -1,3 +1,5 @@
+package p745
+
 type WordFilter struct {
 	m map[string]int
 }

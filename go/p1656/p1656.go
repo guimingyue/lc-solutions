@@ -1,3 +1,5 @@
+package p1656
+
 type OrderedStream struct {
 	stream []string
 	ptr    int

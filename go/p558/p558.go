@@ -1,17 +1,19 @@
+package p558
+
 /**
  * Definition for a QuadTree node.
- * type Node struct {
- *     Val bool
- *     IsLeaf bool
- *     TopLeft *Node
- *     TopRight *Node
- *     BottomLeft *Node
- *     BottomRight *Node
- * }
  */
+type Node struct {
+	Val         bool
+	IsLeaf      bool
+	TopLeft     *Node
+	TopRight    *Node
+	BottomLeft  *Node
+	BottomRight *Node
+}
 
- func intersect(quadTree1 *Node, quadTree2 *Node) *Node {
-    if quadTree1.IsLeaf {
+func intersect(quadTree1 *Node, quadTree2 *Node) *Node {
+	if quadTree1.IsLeaf {
 		if quadTree1.Val {
 			return &Node{Val: true, IsLeaf: true}
 		}

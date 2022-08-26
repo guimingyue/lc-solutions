@@ -1,3 +1,5 @@
+package leetcode
+
 import "github.com/emirpasic/gods/sets/hashset"
 
 func arrayNesting(nums []int) int {

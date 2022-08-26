@@ -1,3 +1,7 @@
+package leetcode
+
+import "sort"
+
 func specialArray(nums []int) int {
 	sort.Ints(nums)
 	for i := 0; i <= len(nums); i++ {

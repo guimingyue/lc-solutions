@@ -1,3 +1,5 @@
+package leetcode
+
 func addDigits(num int) int {
 	res := num
 	for res >= 10 {

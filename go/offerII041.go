@@ -1,3 +1,5 @@
+package leetcode
+
 type MovingAverage struct {
 	quque []int
 	size  int

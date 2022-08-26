@@ -1,3 +1,5 @@
+package leetcode
+
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
@@ -6,7 +8,7 @@
  *     Right *TreeNode
  * }
  */
- import "math"
+import "math"
 
 func maxLevelSum(root *TreeNode) int {
 	var queue []*TreeNode

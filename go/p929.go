@@ -1,3 +1,7 @@
+package leetcode
+
+import "strings"
+
 func numUniqueEmails(emails []string) int {
 	m := make(map[string]string)
 	for _, v := range emails {

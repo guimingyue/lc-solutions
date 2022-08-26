@@ -1,3 +1,5 @@
+package leetcode
+
 func isPrefixOfWord(sentence string, searchWord string) int {
 	i := 0
 	idx := 0

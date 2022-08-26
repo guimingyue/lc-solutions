@@ -1,3 +1,5 @@
+package leetcode
+
 import "strings"
 
 func reformat(s string) string {

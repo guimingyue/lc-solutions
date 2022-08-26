@@ -1,3 +1,5 @@
+package leetcode
+
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
@@ -6,8 +8,8 @@
  *     Right *TreeNode
  * }
  */
- func deepestLeavesSum(root *TreeNode) int {
-    queue := make([]*TreeNode, 0)
+func deepestLeavesSum(root *TreeNode) int {
+	queue := make([]*TreeNode, 0)
 	queue = append(queue, root)
 	levelSum := 0
 	for len(queue) > 0 {
@@ -26,9 +28,9 @@
 			}
 		}
 		queue = queue[size:]
-		
-			levelSum = sum
-	
+
+		levelSum = sum
+
 	}
 	return levelSum
 }

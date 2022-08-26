@@ -1,5 +1,7 @@
+package leetcode
+
 func groupThePeople(groupSizes []int) [][]int {
-    m := make(map[int][]int)
+	m := make(map[int][]int)
 	for i, v := range groupSizes {
 		list, _ := m[v]
 		list = append(list, i)

@@ -1,3 +1,5 @@
+package p676
+
 import (
 	"github.com/emirpasic/gods/sets/hashset"
 )
@@ -33,5 +35,3 @@ func (this *MagicDictionary) Search(searchWord string) bool {
 	}
 	return false
 }
-
-

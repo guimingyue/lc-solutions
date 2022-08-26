@@ -1,3 +1,7 @@
+package p478
+
+import "math/rand"
+
 type Solution struct {
 	radius, x, y float64
 }

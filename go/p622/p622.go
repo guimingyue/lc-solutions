@@ -1,3 +1,5 @@
+package p622
+
 type MyCircularQueue struct {
 	back []int
 	h, t int

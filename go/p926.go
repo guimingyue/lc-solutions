@@ -1,3 +1,5 @@
+package leetcode
+
 func minFlipsMonoIncr(s string) int {
 	var dp0, dp1 = 0, 0
 	n := len(s)

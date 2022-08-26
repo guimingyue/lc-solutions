@@ -1,3 +1,5 @@
+package leetcode
+
 func findKthPositive(arr []int, k int) int {
 	var s = make([]int, len(arr))
 	for i, v := range arr {
@@ -8,7 +10,7 @@ func findKthPositive(arr []int, k int) int {
 	// 1,1,1,3,3,5
 	for i < j {
 		mid := (i + j) / 2
-		if  s[mid] < k {
+		if s[mid] < k {
 			i = mid + 1
 		} else {
 			j = mid

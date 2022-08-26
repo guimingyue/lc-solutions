@@ -1,3 +1,5 @@
+package leetcode
+
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
@@ -6,8 +8,8 @@
  *     Right *TreeNode
  * }
  */
- func findBottomLeftValue(root *TreeNode) int {
-    queue := make([]*TreeNode, 0)
+func findBottomLeftValue(root *TreeNode) int {
+	queue := make([]*TreeNode, 0)
 	queue = append(queue, root)
 	res := 0
 	for len(queue) > 0 {
