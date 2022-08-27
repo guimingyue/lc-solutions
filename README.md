@@ -171,7 +171,10 @@ The following table is the link for problem solutions with realted Rust topics o
 | 641. Design Circular Deque  | [p641](./go/p641/p641.go)            | |
 | 648. Replace Words                                              | [p648](./go/p648.go)            | |
 | 654. Maximum Binary Tree        | [p654](./go/p654.go)            | |
+| 655. Print Binary Tree        | [p655](./go/p655.go)            | |
+| 658. Find K Closest Elements        | [p658](./go/p658.go)            | |
 | 661. Image Smoother                                               | [p661](./rust/src/lc/p661.rs)            | `const`                                          |
+| 662. Maximum Width of Binary Tree | [p662](./go/p662.go)            |   |
 | 668. Kth Smallest Number in Multiplication Table                  | [p668](./rust/src/lc/p668.rs)            |                                                  |
 | 676. Implement Magic Dictionary | [p676](./go/p676/p676.go)            |             |
 | 677. Map Sum Pairs                                                | [p677](./rust/src/lc/p677.rs)            | `HashMap`,`PartialEq`,`Eq`,`Default`             |
@@ -290,6 +293,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1447. Simplified Fractions                                        | [p1447](./rust/src/lc/p1447.rs)          | `format!`                                        |
 | 1450. Number of Students Doing Homework at a Given Time   | [p1450](./go/p1450.go)          |    |
 | 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence   | [p1455](./go/p1455.go)          |    |
+| 1460. Make Two Arrays Equal by Reversing Sub-arrays   | [p1460](./go/p1460.go)          |    |
+| 1464. Maximum Product of Two Elements in an Array   | [p1464](./go/p1464.go)          |    |
 | 1518. Water Bottles                                               | [p1518](./rust/src/lc/p1518.rs)          ||
 | 1539. Kth Missing Positive Number                               | [p1539](./go/p1539.go)          ||
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters   | [p1576](./rust/src/lc/p1576.rs)          ||

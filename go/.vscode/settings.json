@@ -1,5 +1,5 @@
 {
     "go.toolsEnvVars": {
-        "GOPROXY": "https://proxy.golang.org,direct"
+        "GOPROXY": "https://mirrors.aliyun.com/goproxy/,direct"
     }
 }
