@@ -241,12 +241,14 @@ The following table is the link for problem solutions with realted Rust topics o
 | 937. Reorder Data in Log Files                                    | [p937](./rust/src/lc/p937.rs)            | `Vec`,`sort_by`                                  |
 | 942. DI String Match                                              | [p942](./rust/src/lc/p942.rs)            ||
 | 944. Delete Columns to Make Sorted                                | [p944](./rust/src/lc/p944.rs)            ||
+| 946. Validate Stack Sequences                                | [p944](./go/p946.go)            ||
 | 953. Verifying an Alien Dictionary                                | [p953](./rust/src/lc/p953.rs)            | `HashMap`                                        |
 | 954. Array of Doubled Pairs                                       | [p954](./rust/src/lc/p954.rs)            | `HashMap`                                        |
 | 961. N-Repeated Element in Size 2N Array                          | [p961](./rust/src/lc/p961.rs)            |                                                |
 | 965. Univalued Binary Tree                                        | [p965](./rust/src/lc/p965.rs)            |                                                |
 | 969. Pancake Sorting                                              | [p969](./rust/src/lc/p969.rs)            | `Vec`,`Slice`                                    |
 | 997. Find the Town Judge                                          | [p997](./rust/src/lc/p997.rs)            | `Vec`                                            |
+| 998. Maximum Binary Tree II                                          | [p997](./go//p998.go)            ||
 | 1004. Max Consecutive Ones III                                    | [p1004](./rust/src/lc/p1004.rs)          ||
 | 1005. Maximize Sum Of Array After K Negations                     | [p1005](./rust/src/lc/p1005.rs)          | `Vec`,`sort`,`binary_search`,`min`               |
 | 1009. Complement of Base 10 Integer                               | [p1009](./rust/src/lc/p1009.rs)          | `>>`,`<<`                                        |
@@ -295,6 +297,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence   | [p1455](./go/p1455.go)          |    |
 | 1460. Make Two Arrays Equal by Reversing Sub-arrays   | [p1460](./go/p1460.go)          |    |
 | 1464. Maximum Product of Two Elements in an Array   | [p1464](./go/p1464.go)          |    |
+| 1470. Shuffle the Array   | [p1470](./go/p1470.go)          |    |
 | 1518. Water Bottles                                               | [p1518](./rust/src/lc/p1518.rs)          ||
 | 1539. Kth Missing Positive Number                               | [p1539](./go/p1539.go)          ||
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters   | [p1576](./rust/src/lc/p1576.rs)          ||
