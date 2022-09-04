@@ -169,6 +169,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 638. Shopping Offers                                              | [p638](./rust/src/lc/p638.rs)            | `Vec`,`Reference`,`std::cmp::min`                |
 | 640. Solve the Equation  | [p640](./go/p640.go)            | |
 | 641. Design Circular Deque  | [p641](./go/p641/p641.go)            | |
+| 646. Maximum Length of Pair Chain  | [p646](./go/p646.go)            | |
 | 648. Replace Words                                              | [p648](./go/p648.go)            | |
 | 654. Maximum Binary Tree        | [p654](./go/p654.go)            | |
 | 655. Print Binary Tree        | [p655](./go/p655.go)            | |
@@ -178,8 +179,9 @@ The following table is the link for problem solutions with realted Rust topics o
 | 668. Kth Smallest Number in Multiplication Table                  | [p668](./rust/src/lc/p668.rs)            |                                                  |
 | 676. Implement Magic Dictionary | [p676](./go/p676/p676.go)            |             |
 | 677. Map Sum Pairs                                                | [p677](./rust/src/lc/p677.rs)            | `HashMap`,`PartialEq`,`Eq`,`Default`             |
-| 686. Baseball Game                                                | [p682](./rust/src/lc/p682.rs)            ||
+| 682. Baseball Game                                                | [p682](./rust/src/lc/p682.rs)            ||
 | 686. Repeated String Match                                        | [p686](./rust/src/lc/p686.rs)            | `String`,`contains`                              |
+| 687. Longest Univalue Path                                        | [p687](./go/p687.go)            ||
 | 689. Maximum Sum of 3 Non-Overlapping Subarrays                   | [p689](./rust/src/lc/p689.rs)            | `Vec`                                            |
 | 693. Binary Number with Alternating Bits                          | [p693](./rust/src/lc/p693.rs)            | `>>`                                             |
 | 699. Falling Squares                                              | [p699](./rust/src/lc/p699.rs)            |                                                  |
@@ -298,9 +300,11 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1460. Make Two Arrays Equal by Reversing Sub-arrays   | [p1460](./go/p1460.go)          |    |
 | 1464. Maximum Product of Two Elements in an Array   | [p1464](./go/p1464.go)          |    |
 | 1470. Shuffle the Array   | [p1470](./go/p1470.go)          |    |
+| 1475. Final Prices With a Special Discount in a Shop   | [p1475](./go/p1475.go)          |    |
 | 1518. Water Bottles                                               | [p1518](./rust/src/lc/p1518.rs)          ||
 | 1539. Kth Missing Positive Number                               | [p1539](./go/p1539.go)          ||
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters   | [p1576](./rust/src/lc/p1576.rs)          ||
+| 1582. Special Positions in a Binary Matrix   | [p1582](./go/p1582.go)          ||
 | 1601. Maximum Number of Achievable Transfer Requests              | [p1601](./rust/src/lc/p1601.rs)          | `count_ones`,`iter.find`                         |
 | 1608. Special Array With X Elements Greater Than or Equal X       |[p1608](./go/p1608.go)          |                             |
 | 1609. Even Odd Tree                                               | [p1609](./rust/src/lc/p1609.rs)          | `Rc`,`RefCell`,`Vec`                             |
