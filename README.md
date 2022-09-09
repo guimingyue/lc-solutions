@@ -171,11 +171,13 @@ The following table is the link for problem solutions with realted Rust topics o
 | 641. Design Circular Deque  | [p641](./go/p641/p641.go)            | |
 | 646. Maximum Length of Pair Chain  | [p646](./go/p646.go)            | |
 | 648. Replace Words                                              | [p648](./go/p648.go)            | |
+| 652. Find Duplicate Subtrees       | [p652](./go/p652.go)            | |
 | 654. Maximum Binary Tree        | [p654](./go/p654.go)            | |
 | 655. Print Binary Tree        | [p655](./go/p655.go)            | |
 | 658. Find K Closest Elements        | [p658](./go/p658.go)            | |
 | 661. Image Smoother                                               | [p661](./rust/src/lc/p661.rs)            | `const`                                          |
 | 662. Maximum Width of Binary Tree | [p662](./go/p662.go)            |   |
+| 667. Beautiful Arrangement II | [p667](./go/p667.go)            |   |
 | 668. Kth Smallest Number in Multiplication Table                  | [p668](./rust/src/lc/p668.rs)            |                                                  |
 | 676. Implement Magic Dictionary | [p676](./go/p676/p676.go)            |             |
 | 677. Map Sum Pairs                                                | [p677](./rust/src/lc/p677.rs)            | `HashMap`,`PartialEq`,`Eq`,`Default`             |
@@ -305,6 +307,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1539. Kth Missing Positive Number                               | [p1539](./go/p1539.go)          ||
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters   | [p1576](./rust/src/lc/p1576.rs)          ||
 | 1582. Special Positions in a Binary Matrix   | [p1582](./go/p1582.go)          ||
+| 1592. Rearrange Spaces Between Words  | [p1592](./go/p1592.go)          ||
+| 1598. Crawler Log Folder  | [p1598](./go/p1598.go)          ||
 | 1601. Maximum Number of Achievable Transfer Requests              | [p1601](./rust/src/lc/p1601.rs)          | `count_ones`,`iter.find`                         |
 | 1608. Special Array With X Elements Greater Than or Equal X       |[p1608](./go/p1608.go)          |                             |
 | 1609. Even Odd Tree                                               | [p1609](./rust/src/lc/p1609.rs)          | `Rc`,`RefCell`,`Vec`                             |
