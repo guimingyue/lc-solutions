@@ -179,6 +179,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 662. Maximum Width of Binary Tree | [p662](./go/p662.go)            |   |
 | 667. Beautiful Arrangement II | [p667](./go/p667.go)            |   |
 | 668. Kth Smallest Number in Multiplication Table                  | [p668](./rust/src/lc/p668.rs)            |                                                  |
+| 669. Trim a Binary Search Tree | [p669](./go/p669.go)            |   |
 | 676. Implement Magic Dictionary | [p676](./go/p676/p676.go)            |             |
 | 677. Map Sum Pairs                                                | [p677](./rust/src/lc/p677.rs)            | `HashMap`,`PartialEq`,`Eq`,`Default`             |
 | 682. Baseball Game                                                | [p682](./rust/src/lc/p682.rs)            ||
