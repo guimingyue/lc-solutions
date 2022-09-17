@@ -180,6 +180,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 667. Beautiful Arrangement II | [p667](./go/p667.go)            |   |
 | 668. Kth Smallest Number in Multiplication Table                  | [p668](./rust/src/lc/p668.rs)            |                                                  |
 | 669. Trim a Binary Search Tree | [p669](./go/p669.go)            |   |
+| 670. Maximum Swap | [p670](./go/p670.go)            |             |
 | 676. Implement Magic Dictionary | [p676](./go/p676/p676.go)            |             |
 | 677. Map Sum Pairs                                                | [p677](./rust/src/lc/p677.rs)            | `HashMap`,`PartialEq`,`Eq`,`Default`             |
 | 682. Baseball Game                                                | [p682](./rust/src/lc/p682.rs)            ||
@@ -315,6 +316,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1609. Even Odd Tree                                               | [p1609](./rust/src/lc/p1609.rs)          | `Rc`,`RefCell`,`Vec`                             |
 | 1610. Maximum Number of Visible Points                            | [p1610](./rust/src/lc/p1610.rs)          | `Vec`,`sort_by`,`std::f64::consts::PI`,`partial_cmp`,`atan2` |
 | 1614. Maximum Nesting Depth of the Parentheses                    | [p1614](./rust/src/lc/p1614.rs)          | `Vec(stack)`                                     |
+| 1619. Mean of Array After Removing Some Elements| [p1619](./go/p1619.go)          |                                 |
+| 1624. Largest Substring Between Two Equal Characters| [p1624](./go/p1624.go)          |                                 |
 | 1629. Slowest Key                                                 | [p1629](./rust/src/lc/p1629.rs)          | `Vec`,`String`                                   |
 | 1631. Path With Minimum Effort                                    | [p1631](./rust/src/lc/p1631.rs)          | `Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple` |
 | 1656. Design an Ordered Stream | [p1631](./go/p1656.go)          | |
