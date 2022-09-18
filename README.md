@@ -221,6 +221,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 814. Binary Tree Pruning                                       | [p814](./go/p814.go)            |                                        |
 | 819. Most Common Word                                             | [p819](./rust/src/lc/p819.rs)            | `HashMap`                                        |
 | 825. Friends Of Appropriate Ages                                  | [p825](./rust/src/lc/p825.rs)            | `Vec`                                            |
+| 827. Making A Large Island      | [p827](./go/p827/p827.go)            ||
 | 829. Consecutive Numbers Sum                                  | [p829](./rust/src/lc/p829.rs)            |                                               |
 | 838. Push Dominoes                                                | [p838](./rust/src/lc/p838.rs)            | `Vec`                                            |
 | 846. Hand of Straights                                            | [p846](./rust/src/lc/p846.rs)            | `BTreeMap`,`VecDeque`,`FromIterator`             |
