@@ -188,8 +188,10 @@ The following table is the link for problem solutions with realted Rust topics o
 | 687. Longest Univalue Path                                        | [p687](./go/p687.go)            ||
 | 689. Maximum Sum of 3 Non-Overlapping Subarrays                   | [p689](./rust/src/lc/p689.rs)            | `Vec`                                            |
 | 693. Binary Number with Alternating Bits                          | [p693](./rust/src/lc/p693.rs)            | `>>`                                             |
+| 698. Partition to K Equal Sum Subsets                          | [p698](./go/p698.go)            |  |
 | 699. Falling Squares                                              | [p699](./rust/src/lc/p699.rs)            |                                                  |
 | 700. Search in a Binary Search Tree                               | [p700](./rust/src/lc/p700.rs)            | `Rc`,`RefCell`,`Option`                          |
+| 707. Design Linked List   | [p707](./go/p707/p707.go)            |  |
 | 709. To Lower Case                                                | [p709](./rust/src/lc/p709.rs)            | `match`                                          |
 | 710. Random Pick with Blacklist  | [p710](./go//p710/p710.go)            |                                          |
 | 717. 1-bit and 2-bit Characters                                   | [p717](./rust/src/lc/p717.rs)            ||
@@ -227,6 +229,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 846. Hand of Straights                                            | [p846](./rust/src/lc/p846.rs)            | `BTreeMap`,`VecDeque`,`FromIterator`             |
 | 851. Loud and Rich                                                | [p851](./rust/src/lc/p851.rs)            | `Vec`                                            |
 | 852. Peak Index in a Mountain Array                               | [p852](./rust/src/lc/p852.rs)            | `Vec`                                            |
+| 854. K-Similar Strings| [p854](./go/p854.go)            |  |
 | 859. Buddy Strings                                                | [p859](./rust/src/lc/p859.rs)            | `String`                                         |
 | 868. Binary Gap                                                   | [p868](./rust/src/lc/p868.rs)            ||
 | 869. Reordered Power of 2                                         | [p869](./rust/src/lc/p869.rs)            | `HashSet`,`BinaryHeap`,`Reverse`                 |
@@ -321,7 +324,10 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1624. Largest Substring Between Two Equal Characters| [p1624](./go/p1624.go)          |                                 |
 | 1629. Slowest Key                                                 | [p1629](./rust/src/lc/p1629.rs)          | `Vec`,`String`                                   |
 | 1631. Path With Minimum Effort                                    | [p1631](./rust/src/lc/p1631.rs)          | `Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple` |
-| 1656. Design an Ordered Stream | [p1631](./go/p1656.go)          | |
+| 1636. Sort Array by Increasing Frequency  | [p1636](./go/p1636.go)          |  |
+| 1640. Check Array Formation Through Concatenation  | [p1640](./go/p1640.go)          |  |
+| 1652. Defuse the Bomb| [p1652](./go/p1652.go)          | |
+| 1656. Design an Ordered Stream | [p1656](./go/p1656.go)          | |
 | 1672. Richest Customer Wealth                                     | [p1672](./rust/src/lc/p1672.rs)          | `Iter.map`,`Iter.sum`,`Iter.max`                 |
 | 1688. Count of Matches in Tournament                              | [p1688](./rust/src/lc/p1688.rs)          ||
 | 1705. Maximum Number of Eaten Apples                              | [p1705](./rust/src/lc/p1705.rs)          | `Vec`,`Reverse`                                  |
