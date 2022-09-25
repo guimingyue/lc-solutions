@@ -213,6 +213,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 769. Max Chunks To Make Sorted            | [p769](./go/p769/p769.go)            ||
 | 780. Reaching Points                                              | [p780](./rust/src/lc/p780.rs)            ||
 | 786. K-th Smallest Prime Fraction                                 | [p786](./rust/src/lc/p786.rs)            | `sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse` |
+| 788. Rotated Digits     [p788](./go/p788.go)            | |
 | 794. Valid Tic-Tac-Toe State                                      | [p794](./rust/src/lc/p794.rs)            | `Vec`                                            |
 | 796. Rotate String                                                | [p796](./rust/src/lc/p796.rs)            ||
 | 798. Smallest Rotation with Highest Score                         | [p798](./rust/src/lc/p798.rs)            | `Vec`                                            |
