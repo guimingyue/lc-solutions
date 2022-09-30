@@ -369,6 +369,7 @@ The following table is the link for problem solutions with realted Rust topics o
 |----------------------|-----------------------------------|---------|
 | 01.02. Check Permutation LCCI | [p0105](./go/lcci0102.go) ||
 | 01.05. One Away LCCI | [p0105](./rust/src/interview/p0105.rs) ||
+| 01.08. Zero Matrix LCCI | [p0108](./go/lcci0108.go) ||
 | 17.11. Find Closest LCCI | [p1711](./rust/src/interview/p1711.rs) ||
 | 17.19. Missing Two LCCI | [p1719](./go/lcci1711.go) ||
 
