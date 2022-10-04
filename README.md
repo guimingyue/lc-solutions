@@ -247,6 +247,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 911. Online Election                                              | [p911](./rust/src/lc/p911.rs)            | `Vec`,`HashMap`,`binary_search`,`match`          |
 | 917. Number Of Ways To Reconstruct A Tree                         | [p917](./rust/src/lc/p917.rs)            | `Vec.swap`                                       |
 | 919. Complete Binary Tree Inserter                         | [p919](./go/p919.go)            |                                      |
+| 921. Minimum Add to Make Parentheses Valid   | [p921](./go/p921.go)            |                                        |
 | 926. Flip String to Monotone Increasing                        | [p926](./go/p926.go)            |                                        |
 | 929. Unique Email Addresses                        | [p929](./go/p929.go)            |                                        |
 | 935. Knight Dialer                                                | [p935](./rust/src/lc/p935.rs)            | `Vec`                                            |
