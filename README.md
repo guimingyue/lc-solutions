@@ -221,6 +221,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 804. Unique Morse Code Words                                      | [p804](./rust/src/lc/p804.rs)            | `HashSet`                                        |
 | 806. Number of Lines To Write String                              | [p806](./rust/src/lc/p806.rs)            ||
 | 807. Max Increase to Keep City Skyline                            | [p807](./rust/src/lc/p807.rs)            | `Vec`                                            |
+| 811. Subdomain Visit Count  | [p811](./go/p811.go)            | |
 | 812. Largest Triangle Area                                        | [p812](./rust/src/lc/p812.rs)            | `f64`                                            |
 | 814. Binary Tree Pruning                                       | [p814](./go/p814.go)            |                                        |
 | 819. Most Common Word                                             | [p819](./rust/src/lc/p819.rs)            | `HashMap`                                        |
@@ -249,6 +250,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 919. Complete Binary Tree Inserter                         | [p919](./go/p919.go)            |                                      |
 | 921. Minimum Add to Make Parentheses Valid   | [p921](./go/p921.go)            |                                        |
 | 926. Flip String to Monotone Increasing                        | [p926](./go/p926.go)            |                                        |
+| 927. Three Equal Parts   | [p927](./go/p927.go)            |                                        |
 | 929. Unique Email Addresses                        | [p929](./go/p929.go)            |                                        |
 | 935. Knight Dialer                                                | [p935](./rust/src/lc/p935.rs)            | `Vec`                                            |
 | 937. Reorder Data in Log Files                                    | [p937](./rust/src/lc/p937.rs)            | `Vec`,`sort_by`                                  |
@@ -344,6 +346,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1780. Check if Number is a Sum of Powers of Three                 | [p1780](./rust/src/lc/p1780.rs)          | `pow`                                            |
 | 1784. Check if Binary String Has at Most One Segment of Ones| [p1780](./go/p1784.go)          |                                          |
 | 1791. Find Center of Star Graph                                   | [p1791](./rust/src/lc/p1791.rs)          ||
+| 1800. Maximum Ascending Subarray Sum   | [p1800](./go/p1800.go)          |                                         |
 | 1816. Truncate Sentence                                           | [p1816](./rust/src/lc/p1816.rs)          | `String`                                         |
 | 1823. Find the Winner of the Circular Game                        | [p1823](./rust/src/lc/p1823.rs)          ||
 | 1984. Minimum Difference Between Highest and Lowest of K Scores   | [p1984](./rust/src/lc/p1984.rs)          | `Vec`                                            |
