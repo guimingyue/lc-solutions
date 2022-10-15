@@ -224,6 +224,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 811. Subdomain Visit Count  | [p811](./go/p811.go)            | |
 | 812. Largest Triangle Area                                        | [p812](./rust/src/lc/p812.rs)            | `f64`                                            |
 | 814. Binary Tree Pruning                                       | [p814](./go/p814.go)            |                                        |
+| 817. Linked List Components     | [p817](./go/p817.go)            |                                        |
 | 819. Most Common Word                                             | [p819](./rust/src/lc/p819.rs)            | `HashMap`                                        |
 | 825. Friends Of Appropriate Ages                                  | [p825](./rust/src/lc/p825.rs)            | `Vec`                                            |
 | 827. Making A Large Island      | [p827](./go/p827/p827.go)            ||
@@ -233,6 +234,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 851. Loud and Rich                                                | [p851](./rust/src/lc/p851.rs)            | `Vec`                                            |
 | 852. Peak Index in a Mountain Array                               | [p852](./rust/src/lc/p852.rs)            | `Vec`                                            |
 | 854. K-Similar Strings| [p854](./go/p854.go)            |  |
+| 856. Score of Parentheses| [p856](./go/p856.go)            |  |
 | 859. Buddy Strings                                                | [p859](./rust/src/lc/p859.rs)            | `String`                                         |
 | 868. Binary Gap                                                   | [p868](./rust/src/lc/p868.rs)            ||
 | 869. Reordered Power of 2                                         | [p869](./rust/src/lc/p869.rs)            | `HashSet`,`BinaryHeap`,`Reverse`                 |
@@ -254,6 +256,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 929. Unique Email Addresses                        | [p929](./go/p929.go)            |                                        |
 | 935. Knight Dialer                                                | [p935](./rust/src/lc/p935.rs)            | `Vec`                                            |
 | 937. Reorder Data in Log Files                                    | [p937](./rust/src/lc/p937.rs)            | `Vec`,`sort_by`                                  |
+| 940. Distinct Subsequences II| [p940](./go/p940.go)            ||
 | 942. DI String Match                                              | [p942](./rust/src/lc/p942.rs)            ||
 | 944. Delete Columns to Make Sorted                                | [p944](./rust/src/lc/p944.rs)            ||
 | 946. Validate Stack Sequences                                | [p944](./go/p946.go)            ||
@@ -306,6 +309,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1417. Reformat The String | [p1417](./go/p1417.go)          |                                |
 | 1422. Maximum Score After Splitting a String | [p1422](./go/p1422.go)          |                                |
 | 1436. Destination City                                            | [p1436](./rust/src/lc/p1436/Solution.rs) | `String`,`Vec`,`HashMap`                         |
+| 1441. Build an Array With Stack Operations  | [p1441](./go/p1441.go)          | |
 | 1446. Consecutive Characters                                      | [p1446](./rust/src/lc/p1446.rs)          | `String`,`max`                                   |
 | 1447. Simplified Fractions                                        | [p1447](./rust/src/lc/p1447.rs)          | `format!`                                        |
 | 1450. Number of Students Doing Homework at a Given Time   | [p1450](./go/p1450.go)          |    |
@@ -345,6 +349,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1765. Map of Highest Peak                                         | [p1765](./rust/src/lc/p1765.rs)          | `VecDeque`                                       |
 | 1780. Check if Number is a Sum of Powers of Three                 | [p1780](./rust/src/lc/p1780.rs)          | `pow`                                            |
 | 1784. Check if Binary String Has at Most One Segment of Ones| [p1780](./go/p1784.go)          |                                          |
+| 1790. Check if One String Swap Can Make Strings Equal| [p1790](./go/p1790.go)          ||
 | 1791. Find Center of Star Graph                                   | [p1791](./rust/src/lc/p1791.rs)          ||
 | 1800. Maximum Ascending Subarray Sum   | [p1800](./go/p1800.go)          |                                         |
 | 1816. Truncate Sentence                                           | [p1816](./rust/src/lc/p1816.rs)          | `String`                                         |
