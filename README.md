@@ -242,9 +242,11 @@ The following table is the link for problem solutions with realted Rust topics o
 | 875. Koko Eating Bananas                                         | [p875](./go/p875.go)            |               |
 | 883. Projection Area of 3D Shapes                                 | [p883](./rust/src/lc/p883.rs)            | `HashMap`                                        |
 | 884. Uncommon Words from Two Sentences                            | [p884](./rust/src/lc/p884.rs)            | `HashMap`,`String`,`split`                       |
+| 886. Possible Bipartition| [p886](./go/p886.go)            | |
 | 890. Find and Replace Pattern                           | [p890](./go/p890.go)            |                       |
 | 899. Orderly Queue                           | [p899](./rust/src/lc/p899.rs)            |                       |
 | 897. Increasing Order Search Tree                           | [p897](./go/p897.go)            |                       |
+| 904. Fruit Into Baskets| [p904](./go/p904.go)            ||
 | 905. Sort Array By Parity                                         | [p905](./rust/src/lc/p905.rs)            ||
 | 908. Smallest Range I                                             | [p908](./rust/src/lc/p908.rs)            ||
 | 911. Online Election                                              | [p911](./rust/src/lc/p911.rs)            | `Vec`,`HashMap`,`binary_search`,`match`          |
