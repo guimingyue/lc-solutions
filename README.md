@@ -212,6 +212,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 768. Max Chunks To Make Sorted II            | [p768](./go/p768.go)            ||
 | 769. Max Chunks To Make Sorted            | [p769](./go/p769/p769.go)            ||
 | 777. Swap Adjacent in LR String  | [p777](./go/p777.go)            ||
+| 779. K-th Symbol in Grammar  | [p779](./go/p779.go)            ||
 | 780. Reaching Points                                              | [p780](./rust/src/lc/p780.rs)            ||
 | 786. K-th Smallest Prime Fraction                                 | [p786](./rust/src/lc/p786.rs)            | `sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse` |
 | 788. Rotated Digits     [p788](./go/p788.go)            | |
@@ -246,6 +247,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 890. Find and Replace Pattern                           | [p890](./go/p890.go)            |                       |
 | 899. Orderly Queue                           | [p899](./rust/src/lc/p899.rs)            |                       |
 | 897. Increasing Order Search Tree                           | [p897](./go/p897.go)            |                       |
+| 901. Online Stock Span| [p901](./go/p901/p901.go)            ||
 | 904. Fruit Into Baskets| [p904](./go/p904.go)            ||
 | 905. Sort Array By Parity                                         | [p905](./rust/src/lc/p905.rs)            ||
 | 908. Smallest Range I                                             | [p908](./rust/src/lc/p908.rs)            ||
@@ -291,6 +293,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1218. Longest Arithmetic Subsequence of Given Difference          | [p1218](./rust/src/lc/p1218.rs)          | `Vec`,`max`,`HashMap`                            |
 | 1219. Path with Maximum Gold                                      | [p1219](./rust/src/lc/p1219.rs)          | `Vec`                                            |
 | 1224. Maximum Equal Frequency    | [p1224](./rust/src/lc/p1224.rs)          | `HashMap`                                            |
+| 1235. Maximum Profit in Job Scheduling| [p1235](./go/p1235.go)          |  |
 | 1252. Cells with Odd Values in a Matrix   | [p1252](./go/p1252.go)          |                                          |
 | 1260. Shift 2D Grid   | [p1260](./go/p1260.go)          |                                          |
 | 1282. Group the People Given the Group Size They Belong To  | [p1282](./go/p1282.go)          |                                          |
@@ -342,6 +345,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1672. Richest Customer Wealth                                     | [p1672](./rust/src/lc/p1672.rs)          | `Iter.map`,`Iter.sum`,`Iter.max`                 |
 | 1688. Count of Matches in Tournament                              | [p1688](./rust/src/lc/p1688.rs)          ||
 | 1694. Reformat Phone Number| [p1694](./go/p1694.go)          ||
+| 1700. Number of Students Unable to Eat Lunch | [p1700](./go/p1700.go)          | |
 | 1705. Maximum Number of Eaten Apples                              | [p1705](./rust/src/lc/p1705.rs)          | `Vec`,`Reverse`                                  |
 | 1706. Where Will the Ball Fall                                    | [p1706](./rust/src/lc/p1706.rs)          | `Vec`                                            |
 | 1716. Calculate Money in Leetcode Bank                            | [p1716](./rust/src/lc/p1716.rs)          ||
@@ -349,6 +353,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1748. Sum of Unique Elements                                      | [p1748](./rust/src/lc/p1748.rs)          | `Vec`                                            |
 | 1763. Longest Nice Substring                                      | [p1763](./rust/src/lc/p1763.rs)          | `String`,`Slice`                                 |
 | 1765. Map of Highest Peak                                         | [p1765](./rust/src/lc/p1765.rs)          | `VecDeque`                                       |
+| 1768. Merge Strings Alternately | [p1768](./go/p1768.go)          | |
 | 1780. Check if Number is a Sum of Powers of Three                 | [p1780](./rust/src/lc/p1780.rs)          | `pow`                                            |
 | 1784. Check if Binary String Has at Most One Segment of Ones| [p1780](./go/p1784.go)          |                                          |
 | 1790. Check if One String Swap Can Make Strings Equal| [p1790](./go/p1790.go)          ||
