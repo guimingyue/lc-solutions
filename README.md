@@ -128,6 +128,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 476. Number Complement                                            | [p476](./rust/src/lc/p476.rs)            | `>>`,`<<`                                        |
 | 478. Generate Random Point in a Circle                                            | [p478](./go/p478/p478.go)            |                                       |
 | 479. Largest Palindrome Product                                   | [p479](./rust/src/lc/p479.rs)            | `pow`                                            |
+| 481. Magical String | [p481](./go/p481.go)   | |
 | 482. License Key Formatting                                       | [p482](./rust/src/lc/p482/Solution.rs)   | `String`,`slice`                                 |
 | 488. Zuma Game                                                    | [p488](./rust/src/lc/p488.rs)            | `HashSet`                                        |
 | 492. Construct the Rectangle                                      | [p492](./rust/src/lc/p492.rs)            | `sqrt`,`Vec`                                     |
@@ -207,6 +208,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 745. Prefix and Suffix Search                     | [p745](./go/p745/p745.go)            ||
 | 747. Largest Number At Least Twice of Others                      | [p747](./rust/src/lc/p747.rs)            | `Vec`                                            |
 | 748. Shortest Completing Word                                     | [p748](./rust/src/lc/p748.rs)            | `Vec`,`match`                                    |
+| 754. Reach a Number        | [p754](./go/p754.go)            |                                     |
 | 757. Set Intersection Size At Least Two         | [p757](./rust/src/lc/p757.rs)            |                                     |
 | 762. Prime Number of Set Bits in Binary Representation            | [p762](./rust/src/lc/p762.rs)            ||
 | 768. Max Chunks To Make Sorted II            | [p768](./go/p768.go)            ||
@@ -214,6 +216,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 777. Swap Adjacent in LR String  | [p777](./go/p777.go)            ||
 | 779. K-th Symbol in Grammar  | [p779](./go/p779.go)            ||
 | 780. Reaching Points                                              | [p780](./rust/src/lc/p780.rs)            ||
+| 784. Letter Case Permutation  | [p784](./go/p784.go)            ||
 | 786. K-th Smallest Prime Fraction                                 | [p786](./rust/src/lc/p786.rs)            | `sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse` |
 | 788. Rotated Digits     [p788](./go/p788.go)            | |
 | 794. Valid Tic-Tac-Toe State                                      | [p794](./rust/src/lc/p794.rs)            | `Vec`                                            |
@@ -250,8 +253,10 @@ The following table is the link for problem solutions with realted Rust topics o
 | 901. Online Stock Span| [p901](./go/p901/p901.go)            ||
 | 904. Fruit Into Baskets| [p904](./go/p904.go)            ||
 | 905. Sort Array By Parity                                         | [p905](./rust/src/lc/p905.rs)            ||
+| 907. Sum of Subarray Minimums | [p907](./go/p907.go)            ||
 | 908. Smallest Range I                                             | [p908](./rust/src/lc/p908.rs)            ||
 | 911. Online Election                                              | [p911](./rust/src/lc/p911.rs)            | `Vec`,`HashMap`,`binary_search`,`match`          |
+| 915. Partition Array into Disjoint Intervals| [p915](./go/p915.go)            |  |
 | 917. Number Of Ways To Reconstruct A Tree                         | [p917](./rust/src/lc/p917.rs)            | `Vec.swap`                                       |
 | 919. Complete Binary Tree Inserter                         | [p919](./go/p919.go)            |                                      |
 | 921. Minimum Add to Make Parentheses Valid   | [p921](./go/p921.go)            |                                        |
@@ -335,6 +340,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1610. Maximum Number of Visible Points                            | [p1610](./rust/src/lc/p1610.rs)          | `Vec`,`sort_by`,`std::f64::consts::PI`,`partial_cmp`,`atan2` |
 | 1614. Maximum Nesting Depth of the Parentheses                    | [p1614](./rust/src/lc/p1614.rs)          | `Vec(stack)`                                     |
 | 1619. Mean of Array After Removing Some Elements| [p1619](./go/p1619.go)          |                                 |
+| 1620. Coordinate With Maximum Network Quality| [p1620](./go/p1620.go)          |                                 |
 | 1624. Largest Substring Between Two Equal Characters| [p1624](./go/p1624.go)          |                                 |
 | 1629. Slowest Key                                                 | [p1629](./rust/src/lc/p1629.rs)          | `Vec`,`String`                                   |
 | 1631. Path With Minimum Effort                                    | [p1631](./rust/src/lc/p1631.rs)          | `Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple` |
@@ -342,6 +348,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1640. Check Array Formation Through Concatenation  | [p1640](./go/p1640.go)          |  |
 | 1652. Defuse the Bomb| [p1652](./go/p1652.go)          | |
 | 1656. Design an Ordered Stream | [p1656](./go/p1656.go)          | |
+| 1662. Check If Two String Arrays are Equivalent| [p1662](./go/p1662.go)          | |
+| 1668. Maximum Repeating Substring| [p1668](./go/p1668.go)          | |
 | 1672. Richest Customer Wealth                                     | [p1672](./rust/src/lc/p1672.rs)          | `Iter.map`,`Iter.sum`,`Iter.max`                 |
 | 1688. Count of Matches in Tournament                              | [p1688](./rust/src/lc/p1688.rs)          ||
 | 1694. Reformat Phone Number| [p1694](./go/p1694.go)          ||
@@ -354,6 +362,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1763. Longest Nice Substring                                      | [p1763](./rust/src/lc/p1763.rs)          | `String`,`Slice`                                 |
 | 1765. Map of Highest Peak                                         | [p1765](./rust/src/lc/p1765.rs)          | `VecDeque`                                       |
 | 1768. Merge Strings Alternately | [p1768](./go/p1768.go)          | |
+| 1773. Count Items Matching a Rule| [p1773](./go/p1773.go)          | |
 | 1780. Check if Number is a Sum of Powers of Three                 | [p1780](./rust/src/lc/p1780.rs)          | `pow`                                            |
 | 1784. Check if Binary String Has at Most One Segment of Ones| [p1780](./go/p1784.go)          |                                          |
 | 1790. Check if One String Swap Can Make Strings Equal| [p1790](./go/p1790.go)          ||
@@ -361,6 +370,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1800. Maximum Ascending Subarray Sum   | [p1800](./go/p1800.go)          |                                         |
 | 1816. Truncate Sentence                                           | [p1816](./rust/src/lc/p1816.rs)          | `String`                                         |
 | 1823. Find the Winner of the Circular Game                        | [p1823](./rust/src/lc/p1823.rs)          ||
+| 1882. Sign of the Product of an Array| [p1882](./go/p1882.go)          ||
 | 1984. Minimum Difference Between Highest and Lowest of K Scores   | [p1984](./rust/src/lc/p1984.rs)          | `Vec`                                            |
 | 1995. Count Special Quadruplets                                   | [p1995](./rust/src/lc/p1995.rs)          | `String`                                         |
 | 1996. The Number of Weak Characters in the Game                   | [p1996](./rust/src/lc/p1996.rs)          | `Vec`,`sort_by`                                  |
