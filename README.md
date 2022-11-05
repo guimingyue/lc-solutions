@@ -286,6 +286,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1051. Valid Boomerang                                         | [p1051](./go/p1051.go)          |                                             |
 | 1078. Occurrences After Bigram                                    | [p1078](./rust/src/lc/p1078.rs)          | `Vec`,`String`,`match-if`                        |
 | 1089. Duplicate Zeros                                    | [p1089](./go/p1089.go)          |     |
+| 1106.  Parsing A Boolean Expression| [p1106](./go/p1106.go)          |     |
 | 1108. Defanging an IP Address                                    | [p1108](./go/p1108.go)          |     |
 | 1154. Day of the Year                                             | [p1154](./rust/src/lc/p1154.rs)          | `match`,`match-if`,`const`                       |
 | 1161. Maximum Level Sum of a Binary Tree                                             | [p1161](./go/p1161.go)          |                        |
