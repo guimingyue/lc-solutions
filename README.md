@@ -23,6 +23,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 22. Generate Parentheses                                          | [p22](./rust/src/lc/p22.rs)              | `Vec`,`String`                                   |
 | 29. Divide Two Integers                                           | [p29](./rust/src/lc/p29.rs)              | `i32`                                            |
 | 30. Substring with Concatenation of All Words       | [p30](./rust/src/lc/p30.rs)              | `HashMap`                                            |
+| 33. Search in Rotated Sorted Array| [p33](./go/p33.go)              | |
 | 38. Count and Say                                                 | [p38](./rust/src/lc/p38.rs)              | `String, char`                                   |
 | 42. Trapping Rain Water                                           | [p42](./rust/src/lc/p42.rs)              | `Vec`,`BinaryHeap`,`Reverse`,`max`               |
 | 62. Unique Paths                                                  | [p62](./rust/src/lc/p62.rs)              | `Vec`                                            |
@@ -34,6 +35,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 72. Edit Distance                                                 | [p72](./rust/src/lc/p72.rs)              | `Vec`,`String`,`min`                             |
 | 74. Search a 2D Matrix                                            | [p74](./rust/src/lc/p74.rs)              | `Vec`                                            |
 | 75. Sort Colors                                                   | [p75](./rust/src/lc/p75.rs)              | `Vec`                                            |
+| 81. Search in Rotated Sorted Array II| [p81](./go/p81.go)     |  |
 | 82. Remove Duplicates from Sorted List II                         | [p82](./rust/src/lc/p82/Solution.rs)     | `Vec`                                            |
 | 83. Remove Duplicates from Sorted List                            | [p83](./rust/src/lc/p83/Solution.rs)     | `mut`, `Reference`,`Option`                      |
 | 88. Merge Sorted Array                                            | [p88](./rust/src/lc/p88.rs)              | `Vec`                                            |
