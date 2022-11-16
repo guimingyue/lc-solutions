@@ -215,12 +215,15 @@ The following table is the link for problem solutions with realted Rust topics o
 | 762. Prime Number of Set Bits in Binary Representation            | [p762](./rust/src/lc/p762.rs)            ||
 | 768. Max Chunks To Make Sorted II            | [p768](./go/p768.go)            ||
 | 769. Max Chunks To Make Sorted            | [p769](./go/p769/p769.go)            ||
+| 775. Global and Local Inversions| [p775](./go/p775.go)            ||
 | 777. Swap Adjacent in LR String  | [p777](./go/p777.go)            ||
 | 779. K-th Symbol in Grammar  | [p779](./go/p779.go)            ||
 | 780. Reaching Points                                              | [p780](./rust/src/lc/p780.rs)            ||
 | 784. Letter Case Permutation  | [p784](./go/p784.go)            ||
 | 786. K-th Smallest Prime Fraction                                 | [p786](./rust/src/lc/p786.rs)            | `sort_by`,`PartialOrd`,`Ord`,`PartialEq`,`BinaryHeap`,`Reverse` |
-| 788. Rotated Digits     [p788](./go/p788.go)            | |
+| 788. Rotated Digits     |[p788](./go/p788.go)            | |
+| 790. Domino and Tromino Tiling|[p790](./go/p790.go)            | |
+| 791. Custom Sort String|[p791](./go/p791.go)            | |
 | 794. Valid Tic-Tac-Toe State                                      | [p794](./rust/src/lc/p794.rs)            | `Vec`                                            |
 | 796. Rotate String                                                | [p796](./rust/src/lc/p796.rs)            ||
 | 798. Smallest Rotation with Highest Score                         | [p798](./rust/src/lc/p798.rs)            | `Vec`                                            |
@@ -230,6 +233,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 811. Subdomain Visit Count  | [p811](./go/p811.go)            | |
 | 812. Largest Triangle Area                                        | [p812](./rust/src/lc/p812.rs)            | `f64`                                            |
 | 814. Binary Tree Pruning                                       | [p814](./go/p814.go)            |                                        |
+| 816. Ambiguous Coordinates | [p816](./go/p816.go)            |                                        |
 | 817. Linked List Components     | [p817](./go/p817.go)            |                                        |
 | 819. Most Common Word                                             | [p819](./rust/src/lc/p819.rs)            | `HashMap`                                        |
 | 825. Friends Of Appropriate Ages                                  | [p825](./rust/src/lc/p825.rs)            | `Vec`                                            |
@@ -354,11 +358,14 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1662. Check If Two String Arrays are Equivalent| [p1662](./go/p1662.go)          | |
 | 1668. Maximum Repeating Substring| [p1668](./go/p1668.go)          | |
 | 1672. Richest Customer Wealth                                     | [p1672](./rust/src/lc/p1672.rs)          | `Iter.map`,`Iter.sum`,`Iter.max`                 |
+| 1684. Count the Number of Consistent Strings| [p1684](./go/p1684.go)          ||
 | 1688. Count of Matches in Tournament                              | [p1688](./rust/src/lc/p1688.rs)          ||
 | 1694. Reformat Phone Number| [p1694](./go/p1694.go)          ||
 | 1700. Number of Students Unable to Eat Lunch | [p1700](./go/p1700.go)          | |
+| 1704. Determine if String Halves Are Alike| [p1704](./go/p1704.go)          | |
 | 1705. Maximum Number of Eaten Apples                              | [p1705](./rust/src/lc/p1705.rs)          | `Vec`,`Reverse`                                  |
 | 1706. Where Will the Ball Fall                                    | [p1706](./rust/src/lc/p1706.rs)          | `Vec`                                            |
+| 1710. Maximum Units on a Truck| [p1710](./go/p1710.go)          ||
 | 1716. Calculate Money in Leetcode Bank                            | [p1716](./rust/src/lc/p1716.rs)          ||
 | 1725. Number Of Rectangles That Can Form The Largest Square       | [p1725](./rust/src/lc/p1725.rs)          | `Vec`                                            |
 | 1748. Sum of Unique Elements                                      | [p1748](./rust/src/lc/p1748.rs)          | `Vec`                                            |
