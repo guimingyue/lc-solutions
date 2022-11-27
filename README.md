@@ -224,12 +224,16 @@ The following table is the link for problem solutions with realted Rust topics o
 | 788. Rotated Digits     |[p788](./go/p788.go)            | |
 | 790. Domino and Tromino Tiling|[p790](./go/p790.go)            | |
 | 791. Custom Sort String|[p791](./go/p791.go)            | |
+| 792. Number of Matching Subsequences|[p792](./go/p792.go)            | |
 | 794. Valid Tic-Tac-Toe State                                      | [p794](./rust/src/lc/p794.rs)            | `Vec`                                            |
+| 795. Number of Subarrays with Bounded Maximum| [p795](./go/p795.go) |  |
 | 796. Rotate String                                                | [p796](./rust/src/lc/p796.rs)            ||
 | 798. Smallest Rotation with Highest Score                         | [p798](./rust/src/lc/p798.rs)            | `Vec`                                            |
+| 799. Champagne Tower| [p799](./go/p799.go)            | |
 | 804. Unique Morse Code Words                                      | [p804](./rust/src/lc/p804.rs)            | `HashSet`                                        |
 | 806. Number of Lines To Write String                              | [p806](./rust/src/lc/p806.rs)            ||
 | 807. Max Increase to Keep City Skyline                            | [p807](./rust/src/lc/p807.rs)            | `Vec`                                            |
+| 809. Expressive Words| [p809](./go/p809.go)            | |
 | 811. Subdomain Visit Count  | [p811](./go/p811.go)            | |
 | 812. Largest Triangle Area                                        | [p812](./rust/src/lc/p812.rs)            | `f64`                                            |
 | 814. Binary Tree Pruning                                       | [p814](./go/p814.go)            |                                        |
@@ -250,6 +254,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 869. Reordered Power of 2                                         | [p869](./rust/src/lc/p869.rs)            | `HashSet`,`BinaryHeap`,`Reverse`                 |
 | 873. Length of Longest Fibonacci Subsequence    | [p873](./go/p873.go)            |               |
 | 875. Koko Eating Bananas                                         | [p875](./go/p875.go)            |               |
+| 878. Nth Magical Number| [p878](./go/p878.go)            |               |
 | 883. Projection Area of 3D Shapes                                 | [p883](./rust/src/lc/p883.rs)            | `HashMap`                                        |
 | 884. Uncommon Words from Two Sentences                            | [p884](./rust/src/lc/p884.rs)            | `HashMap`,`String`,`split`                       |
 | 886. Possible Bipartition| [p886](./go/p886.go)            | |
@@ -368,7 +373,10 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1710. Maximum Units on a Truck| [p1710](./go/p1710.go)          ||
 | 1716. Calculate Money in Leetcode Bank                            | [p1716](./rust/src/lc/p1716.rs)          ||
 | 1725. Number Of Rectangles That Can Form The Largest Square       | [p1725](./rust/src/lc/p1725.rs)          | `Vec`                                            |
+| 1732. Find the Highest Altitude| [p1732](./go/p1732.go)  ||
+| 1742. Maximum Number of Balls in a Box| [p1742](./go/p1742.go)          |   |
 | 1748. Sum of Unique Elements                                      | [p1748](./rust/src/lc/p1748.rs)          | `Vec`                                            |
+| 1752. Check if Array Is Sorted and Rotated| [p1752](./go/p1752.go)          |  |
 | 1763. Longest Nice Substring                                      | [p1763](./rust/src/lc/p1763.rs)          | `String`,`Slice`                                 |
 | 1765. Map of Highest Peak                                         | [p1765](./rust/src/lc/p1765.rs)          | `VecDeque`                                       |
 | 1768. Merge Strings Alternately | [p1768](./go/p1768.go)          | |
