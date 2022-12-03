@@ -236,6 +236,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 809. Expressive Words| [p809](./go/p809.go)            | |
 | 811. Subdomain Visit Count  | [p811](./go/p811.go)            | |
 | 812. Largest Triangle Area                                        | [p812](./rust/src/lc/p812.rs)            | `f64`                                            |
+| 813. Largest Sum of Averages| [p813](./go/p813.go)            |                                        |
 | 814. Binary Tree Pruning                                       | [p814](./go/p814.go)            |                                        |
 | 816. Ambiguous Coordinates | [p816](./go/p816.go)            |                                        |
 | 817. Linked List Components     | [p817](./go/p817.go)            |                                        |
@@ -259,6 +260,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 884. Uncommon Words from Two Sentences                            | [p884](./rust/src/lc/p884.rs)            | `HashMap`,`String`,`split`                       |
 | 886. Possible Bipartition| [p886](./go/p886.go)            | |
 | 890. Find and Replace Pattern                           | [p890](./go/p890.go)            |                       |
+| 895. Maximum Frequency Stack| [p895](./go/p895.go)            |                       |
 | 899. Orderly Queue                           | [p899](./rust/src/lc/p899.rs)            |                       |
 | 897. Increasing Order Search Tree                           | [p897](./go/p897.go)            |                       |
 | 901. Online Stock Span| [p901](./go/p901/p901.go)            ||
@@ -377,14 +379,18 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1742. Maximum Number of Balls in a Box| [p1742](./go/p1742.go)          |   |
 | 1748. Sum of Unique Elements                                      | [p1748](./rust/src/lc/p1748.rs)          | `Vec`                                            |
 | 1752. Check if Array Is Sorted and Rotated| [p1752](./go/p1752.go)          |  |
+| 1758. Minimum Changes To Make Alternating Binary String| [p1758](./go/p1758/p1758.go)          |  |
 | 1763. Longest Nice Substring                                      | [p1763](./rust/src/lc/p1763.rs)          | `String`,`Slice`                                 |
 | 1765. Map of Highest Peak                                         | [p1765](./rust/src/lc/p1765.rs)          | `VecDeque`                                       |
 | 1768. Merge Strings Alternately | [p1768](./go/p1768.go)          | |
+| 1769. Minimum Number of Operations to Move All Balls to Each Box| [p1769](./go/p17769.go)          | |
 | 1773. Count Items Matching a Rule| [p1773](./go/p1773.go)          | |
+| 1779. Find Nearest Point That Has the Same X or Y Coordinate| [p1779](./go/p1779.go)          | |
 | 1780. Check if Number is a Sum of Powers of Three                 | [p1780](./rust/src/lc/p1780.rs)          | `pow`                                            |
 | 1784. Check if Binary String Has at Most One Segment of Ones| [p1780](./go/p1784.go)          |                                          |
 | 1790. Check if One String Swap Can Make Strings Equal| [p1790](./go/p1790.go)          ||
 | 1791. Find Center of Star Graph                                   | [p1791](./rust/src/lc/p1791.rs)          ||
+| 1796. Second Largest Digit in a String| [p1796](./go/p1796.go)          ||
 | 1800. Maximum Ascending Subarray Sum   | [p1800](./go/p1800.go)          |                                         |
 | 1816. Truncate Sentence                                           | [p1816](./rust/src/lc/p1816.rs)          | `String`                                         |
 | 1823. Find the Winner of the Circular Game                        | [p1823](./rust/src/lc/p1823.rs)          ||
