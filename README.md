@@ -385,6 +385,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1768. Merge Strings Alternately | [p1768](./go/p1768.go)          | |
 | 1769. Minimum Number of Operations to Move All Balls to Each Box| [p1769](./go/p17769.go)          | |
 | 1773. Count Items Matching a Rule| [p1773](./go/p1773.go)          | |
+| 1774. Closest Dessert Cost| [p1774](./go/p1774.go)          | |
 | 1779. Find Nearest Point That Has the Same X or Y Coordinate| [p1779](./go/p1779.go)          | |
 | 1780. Check if Number is a Sum of Powers of Three                 | [p1780](./rust/src/lc/p1780.rs)          | `pow`                                            |
 | 1784. Check if Binary String Has at Most One Segment of Ones| [p1780](./go/p1784.go)          |                                          |
