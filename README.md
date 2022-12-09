@@ -1,6 +1,6 @@
 # lc-rust
 
-LeetCode problem solutions using programming language that I am learning. Now there are Rust and Go.
+LeetCode problem solutions using programming language that I am learning. Now there are Rust, Go and C++.
 
 ## Common Util
 
@@ -386,13 +386,16 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1769. Minimum Number of Operations to Move All Balls to Each Box| [p1769](./go/p17769.go)          | |
 | 1773. Count Items Matching a Rule| [p1773](./go/p1773.go)          | |
 | 1774. Closest Dessert Cost| [p1774](./go/p1774.go)          | |
+| 1775. Equal Sum Arrays With Minimum Number of Operations| [p1775](./go/p1775.go)          | |
 | 1779. Find Nearest Point That Has the Same X or Y Coordinate| [p1779](./go/p1779.go)          | |
-| 1780. Check if Number is a Sum of Powers of Three                 | [p1780](./rust/src/lc/p1780.rs)          | `pow`                                            |
+| 1780. Check if Number is a Sum of Powers of Three                 | [p1780](./rust/src/lc/p1780.rs) [p1780-go](./go/p1780.go)         | `pow`                                            |
 | 1784. Check if Binary String Has at Most One Segment of Ones| [p1780](./go/p1784.go)          |                                          |
 | 1790. Check if One String Swap Can Make Strings Equal| [p1790](./go/p1790.go)          ||
 | 1791. Find Center of Star Graph                                   | [p1791](./rust/src/lc/p1791.rs)          ||
 | 1796. Second Largest Digit in a String| [p1796](./go/p1796.go)          ||
 | 1800. Maximum Ascending Subarray Sum   | [p1800](./go/p1800.go)          |                                         |
+| 1805. Number of Different Integers in a String| [p1805](./cpp/p1805.h)          |                                         |
+| 1812. Determine Color of a Chessboard Square| [p1812](./go/p1812.go)          |                                         |
 | 1816. Truncate Sentence                                           | [p1816](./rust/src/lc/p1816.rs)          | `String`                                         |
 | 1823. Find the Winner of the Circular Game                        | [p1823](./rust/src/lc/p1823.rs)          ||
 | 1882. Sign of the Product of an Array| [p1882](./go/p1882.go)          ||
