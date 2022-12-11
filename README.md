@@ -398,6 +398,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1812. Determine Color of a Chessboard Square| [p1812](./go/p1812.go)          |                                         |
 | 1816. Truncate Sentence                                           | [p1816](./rust/src/lc/p1816.rs)          | `String`                                         |
 | 1823. Find the Winner of the Circular Game                        | [p1823](./rust/src/lc/p1823.rs)          ||
+| 1827. Minimum Operations to Make the Array Increasing| [p1827](./cpp/p1827.h)          ||
 | 1882. Sign of the Product of an Array| [p1882](./go/p1882.go)          ||
 | 1984. Minimum Difference Between Highest and Lowest of K Scores   | [p1984](./rust/src/lc/p1984.rs)          | `Vec`                                            |
 | 1995. Count Special Quadruplets                                   | [p1995](./rust/src/lc/p1995.rs)          | `String`                                         |
