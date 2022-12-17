@@ -381,6 +381,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1752. Check if Array Is Sorted and Rotated| [p1752](./go/p1752.go)          |  |
 | 1758. Minimum Changes To Make Alternating Binary String| [p1758](./go/p1758/p1758.go)          |  |
 | 1763. Longest Nice Substring                                      | [p1763](./rust/src/lc/p1763.rs)          | `String`,`Slice`                                 |
+| 1764. Form Array by Concatenating Subarrays of Another Array | [p1764](./go/p1764.go)          | |
 | 1765. Map of Highest Peak                                         | [p1765](./rust/src/lc/p1765.rs)          | `VecDeque`                                       |
 | 1768. Merge Strings Alternately | [p1768](./go/p1768.go)          | |
 | 1769. Minimum Number of Operations to Move All Balls to Each Box| [p1769](./go/p17769.go)          | |
@@ -389,7 +390,9 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1775. Equal Sum Arrays With Minimum Number of Operations| [p1775](./go/p1775.go)          | |
 | 1779. Find Nearest Point That Has the Same X or Y Coordinate| [p1779](./go/p1779.go)          | |
 | 1780. Check if Number is a Sum of Powers of Three                 | [p1780](./rust/src/lc/p1780.rs) [p1780-go](./go/p1780.go)         | `pow`                                            |
+| 1781. Sum of Beauty of All Substrings| [p1781](./go/p1781.go)    |  |
 | 1784. Check if Binary String Has at Most One Segment of Ones| [p1780](./go/p1784.go)          |                                          |
+| 1785. Minimum Elements to Add to Form a Given Sum| [p1785](./cpp/p1785.h)          |                                          |
 | 1790. Check if One String Swap Can Make Strings Equal| [p1790](./go/p1790.go)          ||
 | 1791. Find Center of Star Graph                                   | [p1791](./rust/src/lc/p1791.rs)          ||
 | 1796. Second Largest Digit in a String| [p1796](./go/p1796.go)          ||
@@ -399,7 +402,9 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1816. Truncate Sentence                                           | [p1816](./rust/src/lc/p1816.rs)          | `String`                                         |
 | 1823. Find the Winner of the Circular Game                        | [p1823](./rust/src/lc/p1823.rs)          ||
 | 1827. Minimum Operations to Make the Array Increasing| [p1827](./cpp/p1827.h)          ||
+| 1832. Check if the Sentence Is Pangram| [p1832](./cpp/p1832.h)          ||
 | 1882. Sign of the Product of an Array| [p1882](./go/p1882.go)          ||
+| 1945. Sum of Digits of String After Convert   | [p1945](./cpp/p1945.h)          |  |
 | 1984. Minimum Difference Between Highest and Lowest of K Scores   | [p1984](./rust/src/lc/p1984.rs)          | `Vec`                                            |
 | 1995. Count Special Quadruplets                                   | [p1995](./rust/src/lc/p1995.rs)          | `String`                                         |
 | 1996. The Number of Weak Characters in the Game                   | [p1996](./rust/src/lc/p1996.rs)          | `Vec`,`sort_by`                                  |
