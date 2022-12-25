@@ -379,7 +379,10 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1742. Maximum Number of Balls in a Box| [p1742](./go/p1742.go)          |   |
 | 1748. Sum of Unique Elements                                      | [p1748](./rust/src/lc/p1748.rs)          | `Vec`                                            |
 | 1752. Check if Array Is Sorted and Rotated| [p1752](./go/p1752.go)          |  |
+| 1753. Maximum Score From Removing Stones| [p1753](./cpp/p1753.h)          |  |
+| 1754. Largest Merge Of Two Strings| [p1754](./cpp/p1754.h)          |  |
 | 1758. Minimum Changes To Make Alternating Binary String| [p1758](./go/p1758/p1758.go)          |  |
+| 1760. Minimum Limit of Balls in a Bag| [p1760](./cpp/p1760.h)          |  |
 | 1763. Longest Nice Substring                                      | [p1763](./rust/src/lc/p1763.rs)          | `String`,`Slice`                                 |
 | 1764. Form Array by Concatenating Subarrays of Another Array | [p1764](./go/p1764.go)          | |
 | 1765. Map of Highest Peak                                         | [p1765](./rust/src/lc/p1765.rs)          | `VecDeque`                                       |
@@ -405,11 +408,13 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1832. Check if the Sentence Is Pangram| [p1832](./cpp/p1832.h)          ||
 | 1882. Sign of the Product of an Array| [p1882](./go/p1882.go)          ||
 | 1945. Sum of Digits of String After Convert   | [p1945](./cpp/p1945.h)          |  |
+| 1971. Find if Path Exists in Graph| [p1971](./go/p1971.go)          ||
 | 1984. Minimum Difference Between Highest and Lowest of K Scores   | [p1984](./rust/src/lc/p1984.rs)          | `Vec`                                            |
 | 1995. Count Special Quadruplets                                   | [p1995](./rust/src/lc/p1995.rs)          | `String`                                         |
 | 1996. The Number of Weak Characters in the Game                   | [p1996](./rust/src/lc/p1996.rs)          | `Vec`,`sort_by`                                  |
 | 2000. Reverse Prefix of Word                                      | [p2000](./rust/src/lc/p2000.rs)          ||
 | 2006. Count Number of Pairs With Absolute Difference K            | [p2006](./rust/src/lc/p2006.rs)          ||
+| 2011. Final Value of Variable After Performing Operations | [p2011](./cpp/p2011.h) |  |
 | 2013. Detect Squares                                              | [p2013](./rust/src/lc/p2013.rs)          | `HashMap`                                        |
 | 2016. Maximum Difference Between Increasing Elements              | [p2016](./rust/src/lc/p2016.rs)          | `Vec`                                            |
 | 2022. Convert 1D Array Into 2D Array                              | [p2022](./rust/src/lc/p2022.rs)          | `Vec`                                            |
