@@ -382,6 +382,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1753. Maximum Score From Removing Stones| [p1753](./cpp/p1753.h)          |  |
 | 1754. Largest Merge Of Two Strings| [p1754](./cpp/p1754.h)          |  |
 | 1758. Minimum Changes To Make Alternating Binary String| [p1758](./go/p1758/p1758.go)          |  |
+| 1759. Count Number of Homogenous Substrings| [p1759](./cpp/p1759.h)          |  |
 | 1760. Minimum Limit of Balls in a Bag| [p1760](./cpp/p1760.h)          |  |
 | 1763. Longest Nice Substring                                      | [p1763](./rust/src/lc/p1763.rs)          | `String`,`Slice`                                 |
 | 1764. Form Array by Concatenating Subarrays of Another Array | [p1764](./go/p1764.go)          | |
