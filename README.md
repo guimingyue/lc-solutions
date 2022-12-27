@@ -420,6 +420,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2016. Maximum Difference Between Increasing Elements              | [p2016](./rust/src/lc/p2016.rs)          | `Vec`                                            |
 | 2022. Convert 1D Array Into 2D Array                              | [p2022](./rust/src/lc/p2022.rs)          | `Vec`                                            |
 | 2024. Maximize the Confusion of an Exam                           | [p204](./rust/src/lc/p2024.rs)           |                                                |
+| 2027. Minimum Moves to Convert String | [p207](./cpp/p2024.h)  | |
 | 2028. Find Missing Observations                                   | [p2028](./rust/src/lc/p2028.rs)          | `Vec`                                            |
 | 2029. Stone Game IX                                               | [p2022](./rust/src/lc/p2029.rs)          | `Vec`                                            |
 | 2034. Stock Price Fluctuation                                     | [p2034](./rust/src/lc/p2034.rs)          | `BinaryHeap`,`HashMap`,`Reverse`                 |
