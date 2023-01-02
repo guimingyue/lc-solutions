@@ -249,6 +249,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 851. Loud and Rich                                                | [p851](./rust/src/lc/p851.rs)            | `Vec`                                            |
 | 852. Peak Index in a Mountain Array                               | [p852](./rust/src/lc/p852.rs)            | `Vec`                                            |
 | 854. K-Similar Strings| [p854](./go/p854.go)            |  |
+| 855. Exam Room| [p855](./cpp/p855.h)            |  |
 | 856. Score of Parentheses| [p856](./go/p856.go)            |  |
 | 859. Buddy Strings                                                | [p859](./rust/src/lc/p859.rs)            | `String`                                         |
 | 868. Binary Gap                                                   | [p868](./rust/src/lc/p868.rs)            ||
@@ -379,6 +380,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1742. Maximum Number of Balls in a Box| [p1742](./go/p1742.go)          |   |
 | 1748. Sum of Unique Elements                                      | [p1748](./rust/src/lc/p1748.rs)          | `Vec`                                            |
 | 1752. Check if Array Is Sorted and Rotated| [p1752](./go/p1752.go)          |  |
+| 1750. Minimum Length of String After Deleting Similar Ends| [p1750](./cpp/p1750.h)          |  |
 | 1753. Maximum Score From Removing Stones| [p1753](./cpp/p1753.h)          |  |
 | 1754. Largest Merge Of Two Strings| [p1754](./cpp/p1754.h)          |  |
 | 1758. Minimum Changes To Make Alternating Binary String| [p1758](./go/p1758/p1758.go)          |  |
@@ -401,6 +403,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1791. Find Center of Star Graph                                   | [p1791](./rust/src/lc/p1791.rs)          ||
 | 1796. Second Largest Digit in a String| [p1796](./go/p1796.go)          ||
 | 1800. Maximum Ascending Subarray Sum   | [p1800](./go/p1800.go)          |                                         |
+| 1801. Number of Orders in the Backlog| [p1801](./cpp/p1801.h)          |                                         |
 | 1805. Number of Different Integers in a String| [p1805](./cpp/p1805.h)          |                                         |
 | 1812. Determine Color of a Chessboard Square| [p1812](./go/p1812.go)          |                                         |
 | 1816. Truncate Sentence                                           | [p1816](./rust/src/lc/p1816.rs)          | `String`                                         |
@@ -420,10 +423,12 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2016. Maximum Difference Between Increasing Elements              | [p2016](./rust/src/lc/p2016.rs)          | `Vec`                                            |
 | 2022. Convert 1D Array Into 2D Array                              | [p2022](./rust/src/lc/p2022.rs)          | `Vec`                                            |
 | 2024. Maximize the Confusion of an Exam                           | [p204](./rust/src/lc/p2024.rs)           |                                                |
-| 2027. Minimum Moves to Convert String | [p207](./cpp/p2024.h)  | |
+| 2027. Minimum Moves to Convert String | [p2027](./cpp/p2027.h)  | |
 | 2028. Find Missing Observations                                   | [p2028](./rust/src/lc/p2028.rs)          | `Vec`                                            |
 | 2029. Stone Game IX                                               | [p2022](./rust/src/lc/p2029.rs)          | `Vec`                                            |
+| 2032. Two Out of Three| [p2032](./cpp/p2032.h)  | |
 | 2034. Stock Price Fluctuation                                     | [p2034](./rust/src/lc/p2034.rs)          | `BinaryHeap`,`HashMap`,`Reverse`                 |
+| 2037. Minimum Number of Moves to Seat Everyone| [p2037](./cpp/p2037.h)  | |
 | 2038. Remove Colored Pieces if Both Neighbors are the Same Color  | [p2038](./rust/src/lc/p2038.rs)          ||
 | 2039. The Time When the Network Becomes Idle                      | [p2039](./rust/src/lc/p2039.rs)          | `VecDeque`                                       |
 | 2043. Simple Bank System                                          | [p2043](./rust/src/lc/p2043.rs)          ||
@@ -433,6 +438,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2055. Plates Between Candles                                      | [p2055](./rust/src/lc/p2055.rs)          | `Vec.binary_search`                              |
 | 2100. Find Good Days to Rob the Bank                              | [p2100](./rust/src/lc/p2100.rs)          | `Vec`                                            |
 | 2104. Sum of Subarray Ranges                                      | [p2104](./rust/src/lc/p2104.rs)          ||
+| 2351. First Letter to Appear Twice [p2351](./cpp/p2351.h)  | |
 
 ### Cracking the Coding Interview, 6th Edition
 | Problem              | Solution                          |Related Rust keywords|
