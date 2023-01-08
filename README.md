@@ -363,6 +363,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1640. Check Array Formation Through Concatenation  | [p1640](./go/p1640.go)          |  |
 | 1652. Defuse the Bomb| [p1652](./go/p1652.go)          | |
 | 1656. Design an Ordered Stream | [p1656](./go/p1656.go)          | |
+| 1658. Minimum Operations to Reduce X to Zero| [p1658](./cpp/p1658.h)          | |
 | 1662. Check If Two String Arrays are Equivalent| [p1662](./go/p1662.go)          | |
 | 1668. Maximum Repeating Substring| [p1668](./go/p1668.go)          | |
 | 1672. Richest Customer Wealth                                     | [p1672](./rust/src/lc/p1672.rs)          | `Iter.map`,`Iter.sum`,`Iter.max`                 |
@@ -404,6 +405,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1796. Second Largest Digit in a String| [p1796](./go/p1796.go)          ||
 | 1800. Maximum Ascending Subarray Sum   | [p1800](./go/p1800.go)          |                                         |
 | 1801. Number of Orders in the Backlog| [p1801](./cpp/p1801.h)          |                                         |
+| 1802. Maximum Value at a Given Index in a Bounded Array| [p1802](./cpp/p1802.h)          |  |
+| 1803. Count Pairs With XOR in a Range| [p1803](./cpp/p1803.h)          |  |
 | 1805. Number of Different Integers in a String| [p1805](./cpp/p1805.h)          |                                         |
 | 1812. Determine Color of a Chessboard Square| [p1812](./go/p1812.go)          |                                         |
 | 1816. Truncate Sentence                                           | [p1816](./rust/src/lc/p1816.rs)          | `String`                                         |
@@ -431,6 +434,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2037. Minimum Number of Moves to Seat Everyone| [p2037](./cpp/p2037.h)  | |
 | 2038. Remove Colored Pieces if Both Neighbors are the Same Color  | [p2038](./rust/src/lc/p2038.rs)          ||
 | 2039. The Time When the Network Becomes Idle                      | [p2039](./rust/src/lc/p2039.rs)          | `VecDeque`                                       |
+| 2042. Check if Numbers Are Ascending in a Sentence| [p2042](./cpp/p2042.h)  | |
 | 2043. Simple Bank System                                          | [p2043](./rust/src/lc/p2043.rs)          ||
 | 2044. Count Number of Maximum Bitwise-OR Subsets                  | [p2044](./rust/src/lc/p2044.rs)          | `HashMap`,`HashSet`                              |
 | 2047. Number of Valid Words in a Sentence                         | [p2047](./rust/src/lc/p2047.rs)          | `BinaryHeap`,`HashMap`,`Reverse`                 |
@@ -438,6 +442,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2055. Plates Between Candles                                      | [p2055](./rust/src/lc/p2055.rs)          | `Vec.binary_search`                              |
 | 2100. Find Good Days to Rob the Bank                              | [p2100](./rust/src/lc/p2100.rs)          | `Vec`                                            |
 | 2104. Sum of Subarray Ranges                                      | [p2104](./rust/src/lc/p2104.rs)          ||
+| 2180. Count Integers With Even Digit Sum| [p2180](./cpp/p2180.h)          ||
 | 2351. First Letter to Appear Twice [p2351](./cpp/p2351.h)  | |
 
 ### Cracking the Coding Interview, 6th Edition
