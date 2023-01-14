@@ -408,8 +408,11 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1802. Maximum Value at a Given Index in a Bounded Array| [p1802](./cpp/p1802.h)          |  |
 | 1803. Count Pairs With XOR in a Range| [p1803](./cpp/p1803.h)          |  |
 | 1805. Number of Different Integers in a String| [p1805](./cpp/p1805.h)          |                                         |
+| 1806. Minimum Number of Operations to Reinitialize a Permutation| [p1806](./cpp/p1806.h)          |                                         |
+| 1807. Evaluate the Bracket Pairs of a String| [p1807](./cpp/p1807.h)          |                                         |
 | 1812. Determine Color of a Chessboard Square| [p1812](./go/p1812.go)          |                                         |
 | 1816. Truncate Sentence                                           | [p1816](./rust/src/lc/p1816.rs)          | `String`                                         |
+| 1819. Number of Different Subsequences GCDs| [p1819](./cpp/p1819.h)          |  |
 | 1823. Find the Winner of the Circular Game                        | [p1823](./rust/src/lc/p1823.rs)          ||
 | 1827. Minimum Operations to Make the Array Increasing| [p1827](./cpp/p1827.h)          ||
 | 1832. Check if the Sentence Is Pangram| [p1832](./cpp/p1832.h)          ||
@@ -443,6 +446,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2100. Find Good Days to Rob the Bank                              | [p2100](./rust/src/lc/p2100.rs)          | `Vec`                                            |
 | 2104. Sum of Subarray Ranges                                      | [p2104](./rust/src/lc/p2104.rs)          ||
 | 2180. Count Integers With Even Digit Sum| [p2180](./cpp/p2180.h)          ||
+| 2283. Check if Number Has Equal Digit Count and Digit Value| [p2283](./cpp/p2283.h)          ||
+| 2287. Rearrange Characters to Make Target String| [p2287](./cpp/p2287.h)          ||
 | 2351. First Letter to Appear Twice [p2351](./cpp/p2351.h)  | |
 
 ### Cracking the Coding Interview, 6th Edition
