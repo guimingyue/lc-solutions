@@ -411,9 +411,13 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1806. Minimum Number of Operations to Reinitialize a Permutation| [p1806](./cpp/p1806.h)          |                                         |
 | 1807. Evaluate the Bracket Pairs of a String| [p1807](./cpp/p1807.h)          |                                         |
 | 1812. Determine Color of a Chessboard Square| [p1812](./go/p1812.go)          |                                         |
+| 1813. Sentence Similarity III| [p1813](./go/p1813.go)          |                                         |
+| 1814. Count Nice Pairs in an Array| [p1814](./go/p1814.go)          |                                         |
 | 1816. Truncate Sentence                                           | [p1816](./rust/src/lc/p1816.rs)          | `String`                                         |
+| 1817. Finding the Users Active Minutes| [p1817](./cpp/p1817.h)          |                                         |
 | 1819. Number of Different Subsequences GCDs| [p1819](./cpp/p1819.h)          |  |
 | 1823. Find the Winner of the Circular Game                        | [p1823](./rust/src/lc/p1823.rs)          ||
+| 1824. Minimum Sideway Jumps| [p1824](./cpp/p1824.h)          |  |
 | 1827. Minimum Operations to Make the Array Increasing| [p1827](./cpp/p1827.h)          ||
 | 1832. Check if the Sentence Is Pangram| [p1832](./cpp/p1832.h)          ||
 | 1882. Sign of the Product of an Array| [p1882](./go/p1882.go)          ||
@@ -448,6 +452,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2180. Count Integers With Even Digit Sum| [p2180](./cpp/p2180.h)          ||
 | 2283. Check if Number Has Equal Digit Count and Digit Value| [p2283](./cpp/p2283.h)          ||
 | 2287. Rearrange Characters to Make Target String| [p2287](./cpp/p2287.h)          ||
+| 2293. Min Max Game| [p2293](./cpp/p2293.h)          ||
+| 2299. Strong Password Checker II| [p2299](./cpp/p2299.h)          ||
 | 2351. First Letter to Appear Twice [p2351](./cpp/p2351.h)  | |
 
 ### Cracking the Coding Interview, 6th Edition
