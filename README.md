@@ -302,6 +302,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1089. Duplicate Zeros                                    | [p1089](./go/p1089.go)          |     |
 | 1106.  Parsing A Boolean Expression| [p1106](./go/p1106.go)          |     |
 | 1108. Defanging an IP Address                                    | [p1108](./go/p1108.go)          |     |
+| 1145. Binary Tree Coloring Game| [p1145](./cpp/p1145.h)          |     |
 | 1154. Day of the Year                                             | [p1154](./rust/src/lc/p1154.rs)          | `match`,`match-if`,`const`                       |
 | 1161. Maximum Level Sum of a Binary Tree                                             | [p1161](./go/p1161.go)          |                        |
 | 1175. Prime Arrangements                       | [p1175](./go/p1175.go)          | |
@@ -365,7 +366,10 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1656. Design an Ordered Stream | [p1656](./go/p1656.go)          | |
 | 1658. Minimum Operations to Reduce X to Zero| [p1658](./cpp/p1658.h)          | |
 | 1662. Check If Two String Arrays are Equivalent| [p1662](./go/p1662.go)          | |
+| 1663. Smallest String With A Given Numeric Value| [p1663](./cpp/p1663.h)          | |
+| 1664. Ways to Make a Fair Array| [p1664](./cpp/p1664.h)          | |
 | 1668. Maximum Repeating Substring| [p1668](./go/p1668.go)          | |
+| 1669. Merge In Between Linked Lists| [p1669](./cpp/p1669.h)          | |
 | 1672. Richest Customer Wealth                                     | [p1672](./rust/src/lc/p1672.rs)          | `Iter.map`,`Iter.sum`,`Iter.max`                 |
 | 1684. Count the Number of Consistent Strings| [p1684](./go/p1684.go)          ||
 | 1688. Count of Matches in Tournament                              | [p1688](./rust/src/lc/p1688.rs)          ||
@@ -403,6 +407,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1790. Check if One String Swap Can Make Strings Equal| [p1790](./go/p1790.go)          ||
 | 1791. Find Center of Star Graph                                   | [p1791](./rust/src/lc/p1791.rs)          ||
 | 1796. Second Largest Digit in a String| [p1796](./go/p1796.go)          ||
+| 1798. Maximum Number of Consecutive Values You Can Make| [p1798](./cpp/p1798.h)          ||
 | 1800. Maximum Ascending Subarray Sum   | [p1800](./go/p1800.go)          |                                         |
 | 1801. Number of Orders in the Backlog| [p1801](./cpp/p1801.h)          |                                         |
 | 1802. Maximum Value at a Given Index in a Bounded Array| [p1802](./cpp/p1802.h)          |  |
@@ -419,6 +424,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1823. Find the Winner of the Circular Game                        | [p1823](./rust/src/lc/p1823.rs)          ||
 | 1824. Minimum Sideway Jumps| [p1824](./cpp/p1824.h)          |  |
 | 1827. Minimum Operations to Make the Array Increasing| [p1827](./cpp/p1827.h)          ||
+| 1828. Queries on Number of Points Inside a Circle| [p1828](./cpp/p1828.h)          ||
 | 1832. Check if the Sentence Is Pangram| [p1832](./cpp/p1832.h)          ||
 | 1882. Sign of the Product of an Array| [p1882](./go/p1882.go)          ||
 | 1945. Sum of Digits of String After Convert   | [p1945](./cpp/p1945.h)          |  |
@@ -454,6 +460,11 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2287. Rearrange Characters to Make Target String| [p2287](./cpp/p2287.h)          ||
 | 2293. Min Max Game| [p2293](./cpp/p2293.h)          ||
 | 2299. Strong Password Checker II| [p2299](./cpp/p2299.h)          ||
+| 2303. Calculate Amount Paid in Taxes|[p2303](./cpp/p2303.h)  | |
+| 2309. Greatest English Letter in Upper and Lower Case|[p2309](./cpp/p2309.h)  | |
+| 2315. Count Asterisks|[p2315](./cpp/p2315.h)  | |
+| 2319. Check if Matrix Is X-Matrix|[p2319](./cpp/p2319.h)  | |
+| 2325. Decode the Message[p2325](./cpp/p2325.h)  | |
 | 2351. First Letter to Appear Twice [p2351](./cpp/p2351.h)  | |
 
 ### Cracking the Coding Interview, 6th Edition
