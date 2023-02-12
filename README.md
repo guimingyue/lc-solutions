@@ -302,6 +302,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1089. Duplicate Zeros                                    | [p1089](./go/p1089.go)          |     |
 | 1106.  Parsing A Boolean Expression| [p1106](./go/p1106.go)          |     |
 | 1108. Defanging an IP Address                                    | [p1108](./go/p1108.go)          |     |
+| 1138. Alphabet Board Path                                  | [p1138](./cpp/p1138.h)          |     |
 | 1145. Binary Tree Coloring Game| [p1145](./cpp/p1145.h)          |     |
 | 1154. Day of the Year                                             | [p1154](./rust/src/lc/p1154.rs)          | `match`,`match-if`,`const`                       |
 | 1161. Maximum Level Sum of a Binary Tree                                             | [p1161](./go/p1161.go)          |                        |
@@ -313,6 +314,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1217. Minimum Cost to Move Chips to The Same Position          | [p1218](./go/p1217.go)          ||
 | 1218. Longest Arithmetic Subsequence of Given Difference          | [p1218](./rust/src/lc/p1218.rs)          | `Vec`,`max`,`HashMap`                            |
 | 1219. Path with Maximum Gold                                      | [p1219](./rust/src/lc/p1219.rs)          | `Vec`                                            |
+| 1223. Remove Sub-Folders from the Filesystem| [p1223](./cpp/p1223.rs)          | |
 | 1224. Maximum Equal Frequency    | [p1224](./rust/src/lc/p1224.rs)          | `HashMap`                                            |
 | 1235. Maximum Profit in Job Scheduling| [p1235](./go/p1235.go)          |  |
 | 1252. Cells with Odd Values in a Matrix   | [p1252](./go/p1252.go)          |                                          |
@@ -351,6 +353,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1592. Rearrange Spaces Between Words  | [p1592](./go/p1592.go)          ||
 | 1598. Crawler Log Folder  | [p1598](./go/p1598.go)          ||
 | 1601. Maximum Number of Achievable Transfer Requests              | [p1601](./rust/src/lc/p1601.rs)          | `count_ones`,`iter.find`                         |
+| 1604. Alert Using Same Key-Card Three or More Times in a One Hour Period|[p1604](./cpp/p1604.h)          |                             |
 | 1608. Special Array With X Elements Greater Than or Equal X       |[p1608](./go/p1608.go)          |                             |
 | 1609. Even Odd Tree                                               | [p1609](./rust/src/lc/p1609.rs)          | `Rc`,`RefCell`,`Vec`                             |
 | 1610. Maximum Number of Visible Points                            | [p1610](./rust/src/lc/p1610.rs)          | `Vec`,`sort_by`,`std::f64::consts::PI`,`partial_cmp`,`atan2` |
@@ -407,6 +410,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1790. Check if One String Swap Can Make Strings Equal| [p1790](./go/p1790.go)          ||
 | 1791. Find Center of Star Graph                                   | [p1791](./rust/src/lc/p1791.rs)          ||
 | 1796. Second Largest Digit in a String| [p1796](./go/p1796.go)          ||
+| 1797. Design Authentication Manager| [p1797](./cpp/p1797.h)          ||
 | 1798. Maximum Number of Consecutive Values You Can Make| [p1798](./cpp/p1798.h)          ||
 | 1800. Maximum Ascending Subarray Sum   | [p1800](./go/p1800.go)          |                                         |
 | 1801. Number of Orders in the Backlog| [p1801](./cpp/p1801.h)          |                                         |
@@ -464,8 +468,10 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2309. Greatest English Letter in Upper and Lower Case|[p2309](./cpp/p2309.h)  | |
 | 2315. Count Asterisks|[p2315](./cpp/p2315.h)  | |
 | 2319. Check if Matrix Is X-Matrix|[p2319](./cpp/p2319.h)  | |
-| 2325. Decode the Message[p2325](./cpp/p2325.h)  | |
-| 2351. First Letter to Appear Twice [p2351](./cpp/p2351.h)  | |
+| 2325. Decode the Message|[p2325](./cpp/p2325.h)  | |
+| 2331. Evaluate Boolean Binary Tree|[p2331](./cpp/p2331.h)  | |
+| 2335. Minimum Amount of Time to Fill Cups|[p2335](./cpp/p2335.h)  | |
+| 2351. First Letter to Appear Twice |[p2351](./cpp/p2351.h)  | |
 
 ### Cracking the Coding Interview, 6th Edition
 | Problem              | Solution                          |Related Rust keywords|
