@@ -289,7 +289,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 965. Univalued Binary Tree                                        | [p965](./rust/src/lc/p965.rs)            |                                                |
 | 969. Pancake Sorting                                              | [p969](./rust/src/lc/p969.rs)            | `Vec`,`Slice`                                    |
 | 997. Find the Town Judge                                          | [p997](./rust/src/lc/p997.rs)            | `Vec`                                            |
-| 998. Maximum Binary Tree II                                          | [p997](./go//p998.go)            ||
+| 982. Triples with Bitwise AND Equal To Zero| [p982](./cpp//p982.h)            ||
+| 998. Maximum Binary Tree II                                          | [p998](./go//p998.go)            ||
 | 1004. Max Consecutive Ones III                                    | [p1004](./rust/src/lc/p1004.rs)          ||
 | 1005. Maximize Sum Of Array After K Negations                     | [p1005](./rust/src/lc/p1005.rs)          | `Vec`,`sort`,`binary_search`,`min`               |
 | 1009. Complement of Base 10 Integer                               | [p1009](./rust/src/lc/p1009.rs)          | `>>`,`<<`                                        |
@@ -303,6 +304,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1106.  Parsing A Boolean Expression| [p1106](./go/p1106.go)          |     |
 | 1108. Defanging an IP Address                                    | [p1108](./go/p1108.go)          |     |
 | 1138. Alphabet Board Path                                  | [p1138](./cpp/p1138.h)          |     |
+| 1144. Decrease Elements To Make Array Zigzag| [p1144](./cpp/p1144.h)          |     |
 | 1145. Binary Tree Coloring Game| [p1145](./cpp/p1145.h)          |     |
 | 1154. Day of the Year                                             | [p1154](./rust/src/lc/p1154.rs)          | `match`,`match-if`,`const`                       |
 | 1161. Maximum Level Sum of a Binary Tree                                             | [p1161](./go/p1161.go)          |                        |
@@ -317,6 +319,9 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1223. Remove Sub-Folders from the Filesystem| [p1223](./cpp/p1223.rs)          | |
 | 1224. Maximum Equal Frequency    | [p1224](./rust/src/lc/p1224.rs)          | `HashMap`                                            |
 | 1235. Maximum Profit in Job Scheduling| [p1235](./go/p1235.go)          |  |
+| 1237. Find Positive Integer Solution for a Given Equation|[p1237](./cpp/p1237.h)          |     |
+| 1238. Circular Permutation in Binary Representation|[p1238](./cpp/p1238.h)          |     |
+| 1247. Minimum Swaps to Make Strings Equal |[p1247](./cpp/p1247.h)          |     |
 | 1252. Cells with Odd Values in a Matrix   | [p1252](./go/p1252.go)          |                                          |
 | 1260. Shift 2D Grid   | [p1260](./go/p1260.go)          |                                          |
 | 1282. Group the People Given the Group Size They Belong To  | [p1282](./go/p1282.go)          |                                          |
@@ -346,12 +351,14 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1464. Maximum Product of Two Elements in an Array   | [p1464](./go/p1464.go)          |    |
 | 1470. Shuffle the Array   | [p1470](./go/p1470.go)          |    |
 | 1475. Final Prices With a Special Discount in a Shop   | [p1475](./go/p1475.go)          |    |
+| 1487. Making File Names Unique | [p1487](./cpp/p1487.h)          |    |
 | 1518. Water Bottles                                               | [p1518](./rust/src/lc/p1518.rs)          ||
 | 1539. Kth Missing Positive Number                               | [p1539](./go/p1539.go)          ||
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters   | [p1576](./rust/src/lc/p1576.rs)          ||
 | 1582. Special Positions in a Binary Matrix   | [p1582](./go/p1582.go)          ||
 | 1592. Rearrange Spaces Between Words  | [p1592](./go/p1592.go)          ||
 | 1598. Crawler Log Folder  | [p1598](./go/p1598.go)          ||
+| 1599. Maximum Profit of Operating a Centennial Wheel | [p1599](./cpp/p1599.h)          ||
 | 1601. Maximum Number of Achievable Transfer Requests              | [p1601](./rust/src/lc/p1601.rs)          | `count_ones`,`iter.find`                         |
 | 1604. Alert Using Same Key-Card Three or More Times in a One Hour Period|[p1604](./cpp/p1604.h)          |                             |
 | 1608. Special Array With X Elements Greater Than or Equal X       |[p1608](./go/p1608.go)          |                             |
@@ -409,6 +416,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1785. Minimum Elements to Add to Form a Given Sum| [p1785](./cpp/p1785.h)          |                                          |
 | 1790. Check if One String Swap Can Make Strings Equal| [p1790](./go/p1790.go)          ||
 | 1791. Find Center of Star Graph                                   | [p1791](./rust/src/lc/p1791.rs)          ||
+| 1792. Maximum Average Pass Ratio| [p1792](./cpp/p1792.h)          ||
 | 1796. Second Largest Digit in a String| [p1796](./go/p1796.go)          ||
 | 1797. Design Authentication Manager| [p1797](./cpp/p1797.h)          ||
 | 1798. Maximum Number of Consecutive Values You Can Make| [p1798](./cpp/p1798.h)          ||
@@ -472,6 +480,10 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2331. Evaluate Boolean Binary Tree|[p2331](./cpp/p2331.h)  | |
 | 2335. Minimum Amount of Time to Fill Cups|[p2335](./cpp/p2335.h)  | |
 | 2351. First Letter to Appear Twice |[p2351](./cpp/p2351.h)  | |
+| 2347. Best Poker Hand|[p2347](./cpp/p2347.h)  | |
+| 2357. Make Array Zero by Subtracting Equal Amounts|[p2357](./cpp/p2357.h)  | |
+| 2363. Merge Similar Items |[p2363](./cpp/p2363.h)  | |
+| 2373. Largest Local Values in a Matrix |[p2373](./cpp/p2373.h)  | |
 
 ### Cracking the Coding Interview, 6th Edition
 | Problem              | Solution                          |Related Rust keywords|
@@ -479,6 +491,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 01.02. Check Permutation LCCI | [p0105](./go/lcci0102.go) ||
 | 01.05. One Away LCCI | [p0105](./rust/src/interview/p0105.rs) ||
 | 01.08. Zero Matrix LCCI | [p0108](./go/lcci0108.go) ||
+| 05.02. Binary Number to String LCCI| [p0502](./cpp/lcci0502.h) ||
 | 17.11. Find Closest LCCI | [p1711](./rust/src/interview/p1711.rs) ||
 | 17.19. Missing Two LCCI | [p1719](./go/lcci1711.go) ||
 
