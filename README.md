@@ -356,15 +356,18 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1539. Kth Missing Positive Number                               | [p1539](./go/p1539.go)          ||
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters   | [p1576](./rust/src/lc/p1576.rs)          ||
 | 1582. Special Positions in a Binary Matrix   | [p1582](./go/p1582.go)          ||
+| 1590. Make Sum Divisible by P | [p1590](./cpp/p1590.h)          ||
 | 1592. Rearrange Spaces Between Words  | [p1592](./go/p1592.go)          ||
 | 1598. Crawler Log Folder  | [p1598](./go/p1598.go)          ||
 | 1599. Maximum Profit of Operating a Centennial Wheel | [p1599](./cpp/p1599.h)          ||
 | 1601. Maximum Number of Achievable Transfer Requests              | [p1601](./rust/src/lc/p1601.rs)          | `count_ones`,`iter.find`                         |
 | 1604. Alert Using Same Key-Card Three or More Times in a One Hour Period|[p1604](./cpp/p1604.h)          |                             |
+| 1605. Find Valid Matrix Given Row and Column Sums| [p1605](./cpp/p1605.h)          |   |
 | 1608. Special Array With X Elements Greater Than or Equal X       |[p1608](./go/p1608.go)          |                             |
 | 1609. Even Odd Tree                                               | [p1609](./rust/src/lc/p1609.rs)          | `Rc`,`RefCell`,`Vec`                             |
 | 1610. Maximum Number of Visible Points                            | [p1610](./rust/src/lc/p1610.rs)          | `Vec`,`sort_by`,`std::f64::consts::PI`,`partial_cmp`,`atan2` |
 | 1614. Maximum Nesting Depth of the Parentheses                    | [p1614](./rust/src/lc/p1614.rs)          | `Vec(stack)`                                     |
+| 1615. Maximal Network Rank| [p1615](./cpp/p1615.h)          |   |
 | 1619. Mean of Array After Removing Some Elements| [p1619](./go/p1619.go)          |                                 |
 | 1620. Coordinate With Maximum Network Quality| [p1620](./go/p1620.go)          |                                 |
 | 1624. Largest Substring Between Two Equal Characters| [p1624](./go/p1624.go)          |                                 |
@@ -484,6 +487,10 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2357. Make Array Zero by Subtracting Equal Amounts|[p2357](./cpp/p2357.h)  | |
 | 2363. Merge Similar Items |[p2363](./cpp/p2363.h)  | |
 | 2373. Largest Local Values in a Matrix |[p2373](./cpp/p2373.h)  | |
+| 2379. Minimum Recolors to Get K Consecutive Black Blocks |[p2379](./cpp/p2379.h)  | |
+| 2383. Minimum Hours of Training to Win a Competition|[p2383](./cpp/p2383.h)  | |
+| 2389. Longest Subsequence With Limited Sum|[p2389](./cpp/p2389.h)  | |
+| 2488. Count Subarrays With Median K|[p2488](./cpp/p2488.h)  | |
 
 ### Cracking the Coding Interview, 6th Edition
 | Problem              | Solution                          |Related Rust keywords|
@@ -492,6 +499,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 01.05. One Away LCCI | [p0105](./rust/src/interview/p0105.rs) ||
 | 01.08. Zero Matrix LCCI | [p0108](./go/lcci0108.go) ||
 | 05.02. Binary Number to String LCCI| [p0502](./cpp/lcci0502.h) ||
+| 17.05. Find Longest Subarray LCCI | [p1705](./cpp/lcci1705.h) ||
 | 17.11. Find Closest LCCI | [p1711](./rust/src/interview/p1711.rs) ||
 | 17.19. Missing Two LCCI | [p1719](./go/lcci1711.go) ||
 
