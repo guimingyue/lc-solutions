@@ -354,6 +354,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1487. Making File Names Unique | [p1487](./cpp/p1487.h)          |    |
 | 1518. Water Bottles                                               | [p1518](./rust/src/lc/p1518.rs)          ||
 | 1539. Kth Missing Positive Number                               | [p1539](./go/p1539.go)          ||
+| 1574. Shortest Subarray to be Removed to Make Array Sorted| [p1574](./cpp/p1574.h)          ||
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters   | [p1576](./rust/src/lc/p1576.rs)          ||
 | 1582. Special Positions in a Binary Matrix   | [p1582](./go/p1582.go)          ||
 | 1590. Make Sum Divisible by P | [p1590](./cpp/p1590.h)          ||
@@ -368,14 +369,18 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1610. Maximum Number of Visible Points                            | [p1610](./rust/src/lc/p1610.rs)          | `Vec`,`sort_by`,`std::f64::consts::PI`,`partial_cmp`,`atan2` |
 | 1614. Maximum Nesting Depth of the Parentheses                    | [p1614](./rust/src/lc/p1614.rs)          | `Vec(stack)`                                     |
 | 1615. Maximal Network Rank| [p1615](./cpp/p1615.h)          |   |
+| 1616. Split Two Strings to Make Palindrome| [p1616](./cpp/p1616.h)          |     |
 | 1619. Mean of Array After Removing Some Elements| [p1619](./go/p1619.go)          |                                 |
 | 1620. Coordinate With Maximum Network Quality| [p1620](./go/p1620.go)          |                                 |
 | 1624. Largest Substring Between Two Equal Characters| [p1624](./go/p1624.go)          |                                 |
+| 1626. Best Team With No Conflicts| [p1626](./cpp/p1626.h)          |                                 |
 | 1629. Slowest Key                                                 | [p1629](./rust/src/lc/p1629.rs)          | `Vec`,`String`                                   |
+| 1630. Arithmetic Subarrays | [p1630](./cpp/p1630.h)          |  |
 | 1631. Path With Minimum Effort                                    | [p1631](./rust/src/lc/p1631.rs)          | `Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple` |
 | 1636. Sort Array by Increasing Frequency  | [p1636](./go/p1636.go)          |  |
 | 1640. Check Array Formation Through Concatenation  | [p1640](./go/p1640.go)          |  |
 | 1652. Defuse the Bomb| [p1652](./go/p1652.go)          | |
+| 1653. Minimum Deletions to Make String Balanced| [p1654](./cpp/p1653.h)          | |
 | 1656. Design an Ordered Stream | [p1656](./go/p1656.go)          | |
 | 1658. Minimum Operations to Reduce X to Zero| [p1658](./cpp/p1658.h)          | |
 | 1662. Check If Two String Arrays are Equivalent| [p1662](./go/p1662.go)          | |
@@ -490,6 +495,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2379. Minimum Recolors to Get K Consecutive Black Blocks |[p2379](./cpp/p2379.h)  | |
 | 2383. Minimum Hours of Training to Win a Competition|[p2383](./cpp/p2383.h)  | |
 | 2389. Longest Subsequence With Limited Sum|[p2389](./cpp/p2389.h)  | |
+| 2395. Find Subarrays With Equal Sum|[p2395](./cpp/p2395.h)  | |
+| 2469. Convert the Temperature|[p2469](./cpp/p2469.h)  | |
 | 2488. Count Subarrays With Median K|[p2488](./cpp/p2488.h)  | |
 
 ### Cracking the Coding Interview, 6th Edition
@@ -510,6 +517,8 @@ The following table is the link for problem solutions with realted Rust topics o
 |剑指 Offer 03. 数组中重复的数字|[offer03](./go/offer03.go)||
 |剑指 Offer 04. 二维数组中的查找|[offer04](./go/offer04.go)||
 |剑指 Offer 06. 从尾到头打印链表|[offer06](./go/offer06.go)||
+|剑指 Offer 47. 礼物的最大价值|[offer47](./cpp/offer47.h)||
+
 |剑指 Offer II 029. 排序的循环链表|[offer029](./go/offer029.go)||
 |剑指 Offer II 041. 滑动窗口的平均值|[offerII041](./go/offerII041.go)||
 |剑指 Offer II 091. 粉刷房子|[p091](./go/offer091.go)||
