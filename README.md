@@ -243,7 +243,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 819. Most Common Word                                             | [p819](./rust/src/lc/p819.rs)            | `HashMap`                                        |
 | 825. Friends Of Appropriate Ages                                  | [p825](./rust/src/lc/p825.rs)            | `Vec`                                            |
 | 827. Making A Large Island      | [p827](./go/p827/p827.go)            ||
-| 829. Consecutive Numbers Sum                                  | [p829](./rust/src/lc/p829.rs)            |                                               |
+| 829. Consecutive Numbers Sum                                  | [p829](./rust/src/lc/p829.rs)            |  
+| 831. Masking Personal Information  | [p831](./cpp/p831.h)            |                                        |                                             |
 | 838. Push Dominoes                                                | [p838](./rust/src/lc/p838.rs)            | `Vec`                                            |
 | 846. Hand of Straights                                            | [p846](./rust/src/lc/p846.rs)            | `BTreeMap`,`VecDeque`,`FromIterator`             |
 | 851. Loud and Rich                                                | [p851](./rust/src/lc/p851.rs)            | `Vec`                                            |
@@ -298,7 +299,9 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1021. Remove Outermost Parentheses                                | [p1021](./rust/src/lc/p1021.rs)          |                                                  |
 | 1034. Coloring A Border                                           | [p1034](./rust/src/lc/p1034.rs)          | `Vec`                                            |
 | 1037. Valid Boomerang                                         | [p1037](./go/p1037.go)          |                                             |
-| 1051. Valid Boomerang                                         | [p1051](./go/p1051.go)          |                                             |
+| 1039. Minimum Score Triangulation of Polygon| [p1039](./cpp/p1039.h)          |                                             |
+| 1051. Height Checker                                       | [p1051](./go/p1051.go)          |                                             |
+| 1053. Previous Permutation With One Swap| [p1051](./cpp/p1053.h)          |                                             |
 | 1078. Occurrences After Bigram                                    | [p1078](./rust/src/lc/p1078.rs)          | `Vec`,`String`,`match-if`                        |
 | 1089. Duplicate Zeros                                    | [p1089](./go/p1089.go)          |     |
 | 1106.  Parsing A Boolean Expression| [p1106](./go/p1106.go)          |     |
@@ -378,7 +381,10 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1630. Arithmetic Subarrays | [p1630](./cpp/p1630.h)          |  |
 | 1631. Path With Minimum Effort                                    | [p1631](./rust/src/lc/p1631.rs)          | `Vec`,`BinaryHeap`,`min`,`max`,`Reverse`,`Tuple` |
 | 1636. Sort Array by Increasing Frequency  | [p1636](./go/p1636.go)          |  |
+| 1637. Widest Vertical Area Between Two Points Containing No Points | [p1637](./cpp/p1637.h)          |  |
+| 1638. Count Substrings That Differ by One Character| [p1638](./cpp/p1638.h)          |  |
 | 1640. Check Array Formation Through Concatenation  | [p1640](./go/p1640.go)          |  |
+| 1641. Count Sorted Vowel Strings| [p1641](./cpp/p1641.h)          |  |
 | 1652. Defuse the Bomb| [p1652](./go/p1652.go)          | |
 | 1653. Minimum Deletions to Make String Balanced| [p1654](./cpp/p1653.h)          | |
 | 1656. Design an Ordered Stream | [p1656](./go/p1656.go)          | |
@@ -491,11 +497,13 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2347. Best Poker Hand|[p2347](./cpp/p2347.h)  | |
 | 2357. Make Array Zero by Subtracting Equal Amounts|[p2357](./cpp/p2357.h)  | |
 | 2363. Merge Similar Items |[p2363](./cpp/p2363.h)  | |
+| 2367. Number of Arithmetic Triplets |[p2367](./cpp/p2367.h)  | |
 | 2373. Largest Local Values in a Matrix |[p2373](./cpp/p2373.h)  | |
 | 2379. Minimum Recolors to Get K Consecutive Black Blocks |[p2379](./cpp/p2379.h)  | |
 | 2383. Minimum Hours of Training to Win a Competition|[p2383](./cpp/p2383.h)  | |
 | 2389. Longest Subsequence With Limited Sum|[p2389](./cpp/p2389.h)  | |
 | 2395. Find Subarrays With Equal Sum|[p2395](./cpp/p2395.h)  | |
+| 2427. Number of Common Factors|[p2427](./cpp/p2427.h)  | |
 | 2469. Convert the Temperature|[p2469](./cpp/p2469.h)  | |
 | 2488. Count Subarrays With Median K|[p2488](./cpp/p2488.h)  | |
 
