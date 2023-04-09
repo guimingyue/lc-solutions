@@ -295,6 +295,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1004. Max Consecutive Ones III                                    | [p1004](./rust/src/lc/p1004.rs)          ||
 | 1005. Maximize Sum Of Array After K Negations                     | [p1005](./rust/src/lc/p1005.rs)          | `Vec`,`sort`,`binary_search`,`min`               |
 | 1009. Complement of Base 10 Integer                               | [p1009](./rust/src/lc/p1009.rs)          | `>>`,`<<`                                        |
+| 1017. Convert to Base -2| [p1017](./cpp/p1017.h)          |     |
 | 1020. Number of Enclaves                                          | [p1020](./rust/src/lc/p1020.rs)          | `Vec`                                            |
 | 1021. Remove Outermost Parentheses                                | [p1021](./rust/src/lc/p1021.rs)          |                                                  |
 | 1034. Coloring A Border                                           | [p1034](./rust/src/lc/p1034.rs)          | `Vec`                                            |
@@ -306,6 +307,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1089. Duplicate Zeros                                    | [p1089](./go/p1089.go)          |     |
 | 1106.  Parsing A Boolean Expression| [p1106](./go/p1106.go)          |     |
 | 1108. Defanging an IP Address                                    | [p1108](./go/p1108.go)          |     |
+| 1125. Smallest Sufficient Team| [p1125](./cpp/p1125.h)          |     |
 | 1138. Alphabet Board Path                                  | [p1138](./cpp/p1138.h)          |     |
 | 1144. Decrease Elements To Make Array Zigzag| [p1144](./cpp/p1144.h)          |     |
 | 1145. Binary Tree Coloring Game| [p1145](./cpp/p1145.h)          |     |
@@ -503,6 +505,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2383. Minimum Hours of Training to Win a Competition|[p2383](./cpp/p2383.h)  | |
 | 2389. Longest Subsequence With Limited Sum|[p2389](./cpp/p2389.h)  | |
 | 2395. Find Subarrays With Equal Sum|[p2395](./cpp/p2395.h)  | |
+| 2399. Check Distances Between Same Letters|[p2399](./cpp/p2399.h)  | |
 | 2427. Number of Common Factors|[p2427](./cpp/p2427.h)  | |
 | 2469. Convert the Temperature|[p2469](./cpp/p2469.h)  | |
 | 2488. Count Subarrays With Median K|[p2488](./cpp/p2488.h)  | |
