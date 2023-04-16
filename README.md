@@ -296,11 +296,15 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1005. Maximize Sum Of Array After K Negations                     | [p1005](./rust/src/lc/p1005.rs)          | `Vec`,`sort`,`binary_search`,`min`               |
 | 1009. Complement of Base 10 Integer                               | [p1009](./rust/src/lc/p1009.rs)          | `>>`,`<<`                                        |
 | 1017. Convert to Base -2| [p1017](./cpp/p1017.h)          |     |
+| 1019. Next Greater Node In Linked List| [p1019](./cpp/p1019.h)          |     |
 | 1020. Number of Enclaves                                          | [p1020](./rust/src/lc/p1020.rs)          | `Vec`                                            |
 | 1021. Remove Outermost Parentheses                                | [p1021](./rust/src/lc/p1021.rs)          |                                                  |
+| 1023. Camelcase Matching| [p1023](./cpp/p1023.h)          |                                             |
 | 1034. Coloring A Border                                           | [p1034](./rust/src/lc/p1034.rs)          | `Vec`                                            |
 | 1037. Valid Boomerang                                         | [p1037](./go/p1037.go)          |                                             |
 | 1039. Minimum Score Triangulation of Polygon| [p1039](./cpp/p1039.h)          |                                             |
+| 1041. Robot Bounded In Circle| [p1041](./cpp/p1041.h)          |                                             |
+| 1042. Flower Planting With No Adjacent| [p1042](./cpp/p1042.h)          |                                             |
 | 1051. Height Checker                                       | [p1051](./go/p1051.go)          |                                             |
 | 1053. Previous Permutation With One Swap| [p1051](./cpp/p1053.h)          |                                             |
 | 1078. Occurrences After Bigram                                    | [p1078](./rust/src/lc/p1078.rs)          | `Vec`,`String`,`match-if`                        |
@@ -475,6 +479,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2037. Minimum Number of Moves to Seat Everyone| [p2037](./cpp/p2037.h)  | |
 | 2038. Remove Colored Pieces if Both Neighbors are the Same Color  | [p2038](./rust/src/lc/p2038.rs)          ||
 | 2039. The Time When the Network Becomes Idle                      | [p2039](./rust/src/lc/p2039.rs)          | `VecDeque`                                       |
+| 2040. Most Frequent Even Element| [p2040](./cpp/p2040.h)  | |
 | 2042. Check if Numbers Are Ascending in a Sentence| [p2042](./cpp/p2042.h)  | |
 | 2043. Simple Bank System                                          | [p2043](./rust/src/lc/p2043.rs)          ||
 | 2044. Count Number of Maximum Bitwise-OR Subsets                  | [p2044](./rust/src/lc/p2044.rs)          | `HashMap`,`HashSet`                              |
