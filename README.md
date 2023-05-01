@@ -341,6 +341,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1345. Jump Game IV                                                | [p1345](./rust/src/lc/p1345.rs)          | `HashMap`,`HashSet`,`VecDeque`                   |
 | 1351. Count Negative Numbers in a Sorted Matrix                                               | [p1351](./go/p1351.go)          | |
 | 1374. Generate a String With Characters That Have Odd Counts   | [p1374](./go/p1374.go)          | |
+| 1376. Time Needed to Inform All Employees | [p1376](./cpp/p1376.h)          | |
 | 1380. Lucky Numbers in a Matrix                                   | [p1380](./rust/src/lc/p1380.rs)          | `Vec`                                            |
 | 1385.  Find the Distance Value Between Two Arrays                                   | [p1385](./go/p1385.go)          |                                            |
 | 1403. Minimum Subsequence in Non-Increasing Order    | [p1403](./go/p1403.go)          ||
