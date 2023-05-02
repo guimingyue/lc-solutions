@@ -289,6 +289,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 961. N-Repeated Element in Size 2N Array                          | [p961](./rust/src/lc/p961.rs)            |                                                |
 | 965. Univalued Binary Tree                                        | [p965](./rust/src/lc/p965.rs)            |                                                |
 | 969. Pancake Sorting                                              | [p969](./rust/src/lc/p969.rs)            | `Vec`,`Slice`                                    |
+| 970. Powerful Integers| [p970](./cpp/p970.h)            | |   
 | 997. Find the Town Judge                                          | [p997](./rust/src/lc/p997.rs)            | `Vec`                                            |
 | 982. Triples with Bitwise AND Equal To Zero| [p982](./cpp//p982.h)            ||
 | 998. Maximum Binary Tree II                                          | [p998](./go//p998.go)            ||
