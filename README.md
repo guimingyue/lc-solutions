@@ -293,6 +293,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 997. Find the Town Judge                                          | [p997](./rust/src/lc/p997.rs)            | `Vec`                                            |
 | 982. Triples with Bitwise AND Equal To Zero| [p982](./cpp//p982.h)            ||
 | 998. Maximum Binary Tree II                                          | [p998](./go//p998.go)            ||
+| 1003. Check If Word Is Valid After Substitutions| [p1003](./cpp/p1003.h)          ||
 | 1004. Max Consecutive Ones III                                    | [p1004](./rust/src/lc/p1004.rs)          ||
 | 1005. Maximize Sum Of Array After K Negations                     | [p1005](./rust/src/lc/p1005.rs)          | `Vec`,`sort`,`binary_search`,`min`               |
 | 1009. Complement of Base 10 Integer                               | [p1009](./rust/src/lc/p1009.rs)          | `>>`,`<<`                                        |
@@ -301,6 +302,9 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1020. Number of Enclaves                                          | [p1020](./rust/src/lc/p1020.rs)          | `Vec`                                            |
 | 1021. Remove Outermost Parentheses                                | [p1021](./rust/src/lc/p1021.rs)          |                                                  |
 | 1023. Camelcase Matching| [p1023](./cpp/p1023.h)          |                                             |
+| 1026. Maximum Difference Between Node and Ancestor| [p1026](./cpp/p1026.h)          |                                             |
+| 1027. Longest Arithmetic Subsequence| [p1027](./cpp/p1027.h)          |                                             |
+| 1033. Moving Stones Until Consecutive| [p1033](./cpp/p1033.h)          |                                             |
 | 1034. Coloring A Border                                           | [p1034](./rust/src/lc/p1034.rs)          | `Vec`                                            |
 | 1037. Valid Boomerang                                         | [p1037](./go/p1037.go)          |                                             |
 | 1039. Minimum Score Triangulation of Polygon| [p1039](./cpp/p1039.h)          |                                             |
@@ -310,7 +314,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1053. Previous Permutation With One Swap| [p1051](./cpp/p1053.h)          |                                             |
 | 1078. Occurrences After Bigram                                    | [p1078](./rust/src/lc/p1078.rs)          | `Vec`,`String`,`match-if`                        |
 | 1089. Duplicate Zeros                                    | [p1089](./go/p1089.go)          |     |
-| 1106.  Parsing A Boolean Expression| [p1106](./go/p1106.go)          |     |
+| 1105. Filling Bookcase Shelves| [p1105](./cpp/p1105.h)          |     |
+| 1106. Parsing A Boolean Expression| [p1106](./go/p1106.go)          |     |
 | 1108. Defanging an IP Address                                    | [p1108](./go/p1108.go)          |     |
 | 1125. Smallest Sufficient Team| [p1125](./cpp/p1125.h)          |     |
 | 1138. Alphabet Board Path                                  | [p1138](./cpp/p1138.h)          |     |
@@ -321,6 +326,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1175. Prime Arrangements                       | [p1175](./go/p1175.go)          | |
 | 1184. Distance Between Bus Stops   | [p1184](./go/p1184.go)          |                                        |
 | 1185. Day of the Week                                             | [p1185](./rust/src/lc/p1185.rs)          | `const`                                          |
+| 1187. Make Array Strictly Increasing| [p1187](./cpp/p1187.h)          | |
 | 1189. Maximum Number of Balloons                                  | [p1189](./rust/src/lc/p1189.rs)          | `HashMap`                                        |
 | 1200. Minimum Absolute Difference                                  | [p1200](./go/p1200.go)          | |
 | 1217. Minimum Cost to Move Chips to The Same Position          | [p1218](./go/p1217.go)          ||
@@ -351,6 +357,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1413. Minimum Value to Get Positive Step by Step Sum| [p1413](./go/p1413.go)          ||
 | 1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | [p1414](./rust/src/lc/p1414.rs)          | `binary_search`                                  |
 | 1417. Reformat The String | [p1417](./go/p1417.go)          |                                |
+| 1419. Minimum Number of Frogs Croaking | [p1419](./cpp/p1419.h)          |                                |
 | 1422. Maximum Score After Splitting a String | [p1422](./go/p1422.go)          |                                |
 | 1436. Destination City                                            | [p1436](./rust/src/lc/p1436/Solution.rs) | `String`,`Vec`,`HashMap`                         |
 | 1441. Build an Array With Stack Operations  | [p1441](./go/p1441.go)          | |
@@ -513,7 +520,12 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2389. Longest Subsequence With Limited Sum|[p2389](./cpp/p2389.h)  | |
 | 2395. Find Subarrays With Equal Sum|[p2395](./cpp/p2395.h)  | |
 | 2399. Check Distances Between Same Letters|[p2399](./cpp/p2399.h)  | |
+| 2409. Count Days Spent Together|[p2409](./cpp/p2409.h)  | |
+| 2413. Smallest Even Multiple|[p2413](./cpp/p2413.h)  | |
+| 2418. Sort the People|[p2418](./go/p2418.go)  | |
+| 2423. Remove Letter To Equalize Frequency|[p2423](./cpp/p2423.h)  | |
 | 2427. Number of Common Factors|[p2427](./cpp/p2427.h)  | |
+| 2432. The Employee That Worked on the Longest Task|[p2432](./cpp/p2432.h)  | |
 | 2469. Convert the Temperature|[p2469](./cpp/p2469.h)  | |
 | 2488. Count Subarrays With Median K|[p2488](./cpp/p2488.h)  | |
 
