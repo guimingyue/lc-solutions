@@ -297,6 +297,9 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1004. Max Consecutive Ones III                                    | [p1004](./rust/src/lc/p1004.rs)          ||
 | 1005. Maximize Sum Of Array After K Negations                     | [p1005](./rust/src/lc/p1005.rs)          | `Vec`,`sort`,`binary_search`,`min`               |
 | 1009. Complement of Base 10 Integer                               | [p1009](./rust/src/lc/p1009.rs)          | `>>`,`<<`                                        |
+| 1010. Pairs of Songs With Total Durations Divisible by 60| [p1010](./cpp/p1010.h)          |     |
+| 1015. Smallest Integer Divisible by K| [p1015](./cpp/p1015.h)          |     |
+| 1016. Binary String With Substrings Representing 1 To N| [p1016](./cpp/p1016.h)          |     |
 | 1017. Convert to Base -2| [p1017](./cpp/p1017.h)          |     |
 | 1019. Next Greater Node In Linked List| [p1019](./cpp/p1019.h)          |     |
 | 1020. Number of Enclaves                                          | [p1020](./rust/src/lc/p1020.rs)          | `Vec`                                            |
@@ -312,6 +315,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1042. Flower Planting With No Adjacent| [p1042](./cpp/p1042.h)          |                                             |
 | 1051. Height Checker                                       | [p1051](./go/p1051.go)          |                                             |
 | 1053. Previous Permutation With One Swap| [p1051](./cpp/p1053.h)          |                                             |
+| 1054. Distant Barcodes| [p1054](./cpp/p1054.h)          |                                             |
 | 1078. Occurrences After Bigram                                    | [p1078](./rust/src/lc/p1078.rs)          | `Vec`,`String`,`match-if`                        |
 | 1089. Duplicate Zeros                                    | [p1089](./go/p1089.go)          |     |
 | 1105. Filling Bookcase Shelves| [p1105](./cpp/p1105.h)          |     |
@@ -526,6 +530,8 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2423. Remove Letter To Equalize Frequency|[p2423](./cpp/p2423.h)  | |
 | 2427. Number of Common Factors|[p2427](./cpp/p2427.h)  | |
 | 2432. The Employee That Worked on the Longest Task|[p2432](./cpp/p2432.h)  | |
+| 2437. Number of Valid Clock Times|[p2437](./cpp/p2437.h)  | |
+| 2441. Largest Positive Integer That Exists With Its Negative|[p2441](./cpp/p2441.h)  | |
 | 2469. Convert the Temperature|[p2469](./cpp/p2469.h)  | |
 | 2488. Count Subarrays With Median K|[p2488](./cpp/p2488.h)  | |
 
