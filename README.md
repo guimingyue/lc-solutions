@@ -316,7 +316,10 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1051. Height Checker                                       | [p1051](./go/p1051.go)          |                                             |
 | 1053. Previous Permutation With One Swap| [p1051](./cpp/p1053.h)          |                                             |
 | 1054. Distant Barcodes| [p1054](./cpp/p1054.h)          |                                             |
+| 1072. Flip Columns For Maximum Number of Equal Rows| [p1072](./cpp/p1072.h)          |  |
+| 1073. Adding Two Negabinary Numbers| [p1073](./cpp/p1073.h)          |  |
 | 1078. Occurrences After Bigram                                    | [p1078](./rust/src/lc/p1078.rs)          | `Vec`,`String`,`match-if`                        |
+| 1079. Letter Tile Possibilities| [p1079](./cpp/p1079.h)          |  |
 | 1089. Duplicate Zeros                                    | [p1089](./go/p1089.go)          |     |
 | 1105. Filling Bookcase Shelves| [p1105](./cpp/p1105.h)          |     |
 | 1106. Parsing A Boolean Expression| [p1106](./go/p1106.go)          |     |
@@ -348,9 +351,11 @@ The following table is the link for problem solutions with realted Rust topics o
 | 1302. Deepest Leaves Sum  | [p1302](./go/p1302.go)          |                                          |
 | 1331. Rank Transform of an Array  | [p1331](./go/p1331.go)          |                                          |
 | 1332. Remove Palindromic Subsequences                             | [p1332](./rust/src/lc/p1332.rs)          | `String`                                         |
+| 1335. Minimum Difficulty of a Job Schedule | [p1335](./cpp/p1335.h)          |  |
 | 1342. Number of Steps to Reduce a Number to Zero                  | [p1342](./rust/src/lc/p1342.rs)          ||
 | 1345. Jump Game IV                                                | [p1345](./rust/src/lc/p1345.rs)          | `HashMap`,`HashSet`,`VecDeque`                   |
 | 1351. Count Negative Numbers in a Sorted Matrix                                               | [p1351](./go/p1351.go)          | |
+| 1373. Maximum Sum BST in Binary Tree| [p1373](./cpp/p1373.h)          | |
 | 1374. Generate a String With Characters That Have Odd Counts   | [p1374](./go/p1374.go)          | |
 | 1376. Time Needed to Inform All Employees | [p1376](./cpp/p1376.h)          | |
 | 1380. Lucky Numbers in a Matrix                                   | [p1380](./rust/src/lc/p1380.rs)          | `Vec`                                            |
@@ -532,6 +537,7 @@ The following table is the link for problem solutions with realted Rust topics o
 | 2432. The Employee That Worked on the Longest Task|[p2432](./cpp/p2432.h)  | |
 | 2437. Number of Valid Clock Times|[p2437](./cpp/p2437.h)  | |
 | 2441. Largest Positive Integer That Exists With Its Negative|[p2441](./cpp/p2441.h)  | |
+| 2446. Determine if Two Events Have Conflict|[p2446](./cpp/p2446.h)  | |
 | 2469. Convert the Temperature|[p2469](./cpp/p2469.h)  | |
 | 2488. Count Subarrays With Median K|[p2488](./cpp/p2488.h)  | |
 
@@ -559,3 +565,9 @@ The following table is the link for problem solutions with realted Rust topics o
 |剑指 Offer II 041. 滑动窗口的平均值|[offerII041](./go/offerII041.go)||
 |剑指 Offer II 091. 粉刷房子|[p091](./go/offer091.go)||
 |剑指 Offer II 115. 重建序列|[p115](./rust/src/offer/offerII115.rs)||
+
+### 力扣杯 - 竞赛合集
+Problem|Solution|Related Rust keywords|
+|-------|---------|---------|
+|LCP 33. 蓄水|[lcp33](./cpp/lcp33.h)||
+
